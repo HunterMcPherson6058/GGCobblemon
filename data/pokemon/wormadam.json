@@ -1,0 +1,2487 @@
+{
+  "dex": 127,
+  "slug": "wormadam",
+  "national": 413,
+  "name": "Wormadam",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    {
+      "id": "seedsower",
+      "hidden": false,
+      "name": "Seed Sower",
+      "desc": "Turns the ground into Grassy Terrain when the Pok\u00e9mon is hit by an attack."
+    },
+    {
+      "id": "overcoat",
+      "hidden": true,
+      "name": "Overcoat",
+      "desc": "The Pok\u00e9mon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+    }
+  ],
+  "height": 5,
+  "weight": 65,
+  "catchRate": 45,
+  "baseExp": 148,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0,
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 2,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 96,
+    "attack": 59,
+    "defence": 85,
+    "special_attack": 89,
+    "special_defence": 115,
+    "speed": 36
+  },
+  "preEvolution": "burmy",
+  "evolutions": [],
+  "flavor": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon's body. The cloak is never shed.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "quiverdance",
+        "name": "Quiver Dance",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 15,
+        "move": "shelter",
+        "name": "Shelter",
+        "type": "steel",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 20,
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "level": 23,
+        "move": "confusion",
+        "name": "Confusion",
+        "type": "psychic",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 25,
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 26,
+        "move": "razorleaf",
+        "name": "Razor Leaf",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "level": 27,
+        "move": "barrier",
+        "name": "Barrier",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 29,
+        "move": "growth",
+        "name": "Growth",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 32,
+        "move": "psybeam",
+        "name": "Psybeam",
+        "type": "psychic",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 35,
+        "move": "captivate",
+        "name": "Captivate",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 37,
+        "move": "aromatherapy",
+        "name": "Aromatherapy",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 37,
+        "move": "guardsplit",
+        "name": "Guard Split",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 38,
+        "move": "flail",
+        "name": "Flail",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 41,
+        "move": "attract",
+        "name": "Attract",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 44,
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 47,
+        "move": "leafstorm",
+        "name": "Leaf Storm",
+        "type": "grass",
+        "category": "special",
+        "power": 130,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "level": 50,
+        "move": "bugbuzz",
+        "name": "Bug Buzz",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 55,
+        "move": "chloroblast",
+        "name": "Chloroblast",
+        "type": "grass",
+        "category": "special",
+        "power": 150,
+        "accuracy": 95,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "attract",
+        "name": "Attract",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bugbuzz",
+        "name": "Bug Buzz",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "bulletseed",
+        "name": "Bullet Seed",
+        "type": "grass",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "infestation",
+        "name": "Infestation",
+        "type": "bug",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "leafstorm",
+        "name": "Leaf Storm",
+        "type": "grass",
+        "category": "special",
+        "power": 130,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psybeam",
+        "name": "Psybeam",
+        "type": "psychic",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "silverwind",
+        "name": "Silver Wind",
+        "type": "bug",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarbeam",
+        "name": "Solar Beam",
+        "type": "grass",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "strugglebug",
+        "name": "Struggle Bug",
+        "type": "bug",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "venoshock",
+        "name": "Venoshock",
+        "type": "poison",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "egg": [],
+    "evolution": []
+  },
+  "forms": [
+    {
+      "id": "sandy-cloak",
+      "name": "Wormadam (Sandy)",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "abilities": [
+        {
+          "id": "sandspit",
+          "hidden": false,
+          "name": "Sand Spit",
+          "desc": "The Pok\u00e9mon creates a sandstorm when it's hit by an attack."
+        },
+        {
+          "id": "overcoat",
+          "hidden": true,
+          "name": "Overcoat",
+          "desc": "The Pok\u00e9mon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+        }
+      ],
+      "height": 5,
+      "weight": 65,
+      "stats": {
+        "hp": 96,
+        "attack": 89,
+        "defence": 115,
+        "special_attack": 59,
+        "special_defence": 85,
+        "speed": 36
+      },
+      "flavor": "Its earthen skin is reasonably hard\u2014it has no problem repelling a Starly's pecking, at least.",
+      "moves": {
+        "level": [
+          {
+            "level": 1,
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 1,
+            "move": "quiverdance",
+            "name": "Quiver Dance",
+            "type": "bug",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "level": 1,
+            "move": "tackle",
+            "name": "Tackle",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35
+          },
+          {
+            "level": 15,
+            "move": "shelter",
+            "name": "Shelter",
+            "type": "steel",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 20,
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "level": 23,
+            "move": "confusion",
+            "name": "Confusion",
+            "type": "psychic",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "level": 25,
+            "move": "shoreup",
+            "name": "Shore Up",
+            "type": "ground",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "level": 26,
+            "move": "rockblast",
+            "name": "Rock Blast",
+            "type": "rock",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "level": 27,
+            "move": "barrier",
+            "name": "Barrier",
+            "type": "psychic",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 29,
+            "move": "harden",
+            "name": "Harden",
+            "type": "normal",
+            "category": "status",
+            "pp": 30
+          },
+          {
+            "level": 32,
+            "move": "psybeam",
+            "name": "Psybeam",
+            "type": "psychic",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 35,
+            "move": "captivate",
+            "name": "Captivate",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 37,
+            "move": "earthpower",
+            "name": "Earth Power",
+            "type": "ground",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 37,
+            "move": "guardsplit",
+            "name": "Guard Split",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 38,
+            "move": "flail",
+            "name": "Flail",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 41,
+            "move": "attract",
+            "name": "Attract",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 44,
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 47,
+            "move": "fissure",
+            "name": "Fissure",
+            "type": "ground",
+            "category": "physical",
+            "accuracy": 30,
+            "pp": 5
+          },
+          {
+            "level": 50,
+            "move": "bugbuzz",
+            "name": "Bug Buzz",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 55,
+            "move": "earthquake",
+            "name": "Earthquake",
+            "type": "ground",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "pp": 10
+          }
+        ],
+        "tm": [
+          {
+            "move": "attract",
+            "name": "Attract",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "bugbuzz",
+            "name": "Bug Buzz",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "bulldoze",
+            "name": "Bulldoze",
+            "type": "ground",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "dig",
+            "name": "Dig",
+            "type": "ground",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "dreameater",
+            "name": "Dream Eater",
+            "type": "psychic",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "earthpower",
+            "name": "Earth Power",
+            "type": "ground",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "earthquake",
+            "name": "Earthquake",
+            "type": "ground",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "endure",
+            "name": "Endure",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "facade",
+            "name": "Facade",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "flash",
+            "name": "Flash",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "gigadrain",
+            "name": "Giga Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "infestation",
+            "name": "Infestation",
+            "type": "bug",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "mudslap",
+            "name": "Mud-Slap",
+            "type": "ground",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "psybeam",
+            "name": "Psybeam",
+            "type": "psychic",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "psychup",
+            "name": "Psych Up",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "raindance",
+            "name": "Rain Dance",
+            "type": "water",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rockblast",
+            "name": "Rock Blast",
+            "type": "rock",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "rocktomb",
+            "name": "Rock Tomb",
+            "type": "rock",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "rollout",
+            "name": "Rollout",
+            "type": "rock",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 90,
+            "pp": 20
+          },
+          {
+            "move": "safeguard",
+            "name": "Safeguard",
+            "type": "normal",
+            "category": "status",
+            "pp": 25
+          },
+          {
+            "move": "sandstorm",
+            "name": "Sandstorm",
+            "type": "rock",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "shadowball",
+            "name": "Shadow Ball",
+            "type": "ghost",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "signalbeam",
+            "name": "Signal Beam",
+            "type": "bug",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "silverwind",
+            "name": "Silver Wind",
+            "type": "bug",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "skillswap",
+            "name": "Skill Swap",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "solarbeam",
+            "name": "Solar Beam",
+            "type": "grass",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "stealthrock",
+            "name": "Stealth Rock",
+            "type": "rock",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "move": "strugglebug",
+            "name": "Struggle Bug",
+            "type": "bug",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "substitute",
+            "name": "Substitute",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "sunnyday",
+            "name": "Sunny Day",
+            "type": "fire",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "telekinesis",
+            "name": "Telekinesis",
+            "type": "psychic",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "terablast",
+            "name": "Tera Blast",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "thief",
+            "name": "Thief",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "venoshock",
+            "name": "Venoshock",
+            "type": "poison",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 10
+          }
+        ],
+        "tutor": [
+          {
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "bulldoze",
+            "name": "Bulldoze",
+            "type": "ground",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "earthpower",
+            "name": "Earth Power",
+            "type": "ground",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "gigadrain",
+            "name": "Giga Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "mudslap",
+            "name": "Mud-Slap",
+            "type": "ground",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rollout",
+            "name": "Rollout",
+            "type": "rock",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 90,
+            "pp": 20
+          },
+          {
+            "move": "shadowball",
+            "name": "Shadow Ball",
+            "type": "ghost",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "signalbeam",
+            "name": "Signal Beam",
+            "type": "bug",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "skillswap",
+            "name": "Skill Swap",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "stealthrock",
+            "name": "Stealth Rock",
+            "type": "rock",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "telekinesis",
+            "name": "Telekinesis",
+            "type": "psychic",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          }
+        ],
+        "egg": [],
+        "evolution": []
+      },
+      "image": "img/pokemon/wormadam/art_sandy-cloak.png"
+    },
+    {
+      "id": "trash-cloak",
+      "name": "Wormadam (Trash)",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "abilities": [
+        {
+          "id": "ironbarbs",
+          "hidden": false,
+          "name": "Iron Barbs",
+          "desc": "The Pok\u00e9mon's iron barbs damage the attacker if it makes direct contact."
+        },
+        {
+          "id": "overcoat",
+          "hidden": true,
+          "name": "Overcoat",
+          "desc": "The Pok\u00e9mon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+        }
+      ],
+      "height": 5,
+      "weight": 65,
+      "stats": {
+        "hp": 96,
+        "attack": 69,
+        "defence": 105,
+        "special_attack": 69,
+        "special_defence": 105,
+        "speed": 36
+      },
+      "flavor": "Its body, composed of refuse, blends in to the scenery so much as to be inconspicuous. This seems to be the perfect way for the Pok\u00e9mon to evade the detection of predators.",
+      "moves": {
+        "level": [
+          {
+            "level": 1,
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "metalburst",
+            "name": "Metal Burst",
+            "type": "steel",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 1,
+            "move": "mirrorshot",
+            "name": "Mirror Shot",
+            "type": "steel",
+            "category": "special",
+            "power": 65,
+            "accuracy": 85,
+            "pp": 10
+          },
+          {
+            "level": 1,
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 1,
+            "move": "quiverdance",
+            "name": "Quiver Dance",
+            "type": "bug",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "level": 1,
+            "move": "tackle",
+            "name": "Tackle",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35
+          },
+          {
+            "level": 15,
+            "move": "shelter",
+            "name": "Shelter",
+            "type": "steel",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 20,
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "level": 23,
+            "move": "confusion",
+            "name": "Confusion",
+            "type": "psychic",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "level": 25,
+            "move": "recover",
+            "name": "Recover",
+            "type": "normal",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "level": 27,
+            "move": "barrier",
+            "name": "Barrier",
+            "type": "psychic",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 29,
+            "move": "metalsound",
+            "name": "Metal Sound",
+            "type": "steel",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          },
+          {
+            "level": 32,
+            "move": "psybeam",
+            "name": "Psybeam",
+            "type": "psychic",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 35,
+            "move": "captivate",
+            "name": "Captivate",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 37,
+            "move": "guardsplit",
+            "name": "Guard Split",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "level": 37,
+            "move": "irondefense",
+            "name": "Iron Defense",
+            "type": "steel",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "level": 38,
+            "move": "flail",
+            "name": "Flail",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 41,
+            "move": "attract",
+            "name": "Attract",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 44,
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 47,
+            "move": "ironhead",
+            "name": "Iron Head",
+            "type": "steel",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 50,
+            "move": "bugbuzz",
+            "name": "Bug Buzz",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 55,
+            "move": "steelbeam",
+            "name": "Steel Beam",
+            "type": "steel",
+            "category": "special",
+            "power": 140,
+            "accuracy": 95,
+            "pp": 5
+          }
+        ],
+        "tm": [
+          {
+            "move": "attract",
+            "name": "Attract",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "bugbuzz",
+            "name": "Bug Buzz",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "dig",
+            "name": "Dig",
+            "type": "ground",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "dreameater",
+            "name": "Dream Eater",
+            "type": "psychic",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "endure",
+            "name": "Endure",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "facade",
+            "name": "Facade",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "flash",
+            "name": "Flash",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "flashcannon",
+            "name": "Flash Cannon",
+            "type": "steel",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigadrain",
+            "name": "Giga Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "gunkshot",
+            "name": "Gunk Shot",
+            "type": "poison",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 80,
+            "pp": 5
+          },
+          {
+            "move": "gyroball",
+            "name": "Gyro Ball",
+            "type": "steel",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "infestation",
+            "name": "Infestation",
+            "type": "bug",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "irondefense",
+            "name": "Iron Defense",
+            "type": "steel",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "ironhead",
+            "name": "Iron Head",
+            "type": "steel",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "magnetrise",
+            "name": "Magnet Rise",
+            "type": "electric",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "metalsound",
+            "name": "Metal Sound",
+            "type": "steel",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          },
+          {
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "psybeam",
+            "name": "Psybeam",
+            "type": "psychic",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "psychup",
+            "name": "Psych Up",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "raindance",
+            "name": "Rain Dance",
+            "type": "water",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "safeguard",
+            "name": "Safeguard",
+            "type": "normal",
+            "category": "status",
+            "pp": 25
+          },
+          {
+            "move": "shadowball",
+            "name": "Shadow Ball",
+            "type": "ghost",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "signalbeam",
+            "name": "Signal Beam",
+            "type": "bug",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "silverwind",
+            "name": "Silver Wind",
+            "type": "bug",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "skillswap",
+            "name": "Skill Swap",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "solarbeam",
+            "name": "Solar Beam",
+            "type": "grass",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "stealthrock",
+            "name": "Stealth Rock",
+            "type": "rock",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "move": "strugglebug",
+            "name": "Struggle Bug",
+            "type": "bug",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "substitute",
+            "name": "Substitute",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "sunnyday",
+            "name": "Sunny Day",
+            "type": "fire",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "telekinesis",
+            "name": "Telekinesis",
+            "type": "psychic",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "terablast",
+            "name": "Tera Blast",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "thief",
+            "name": "Thief",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "venoshock",
+            "name": "Venoshock",
+            "type": "poison",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 10
+          }
+        ],
+        "tutor": [
+          {
+            "move": "bugbite",
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "flashcannon",
+            "name": "Flash Cannon",
+            "type": "steel",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigadrain",
+            "name": "Giga Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "gunkshot",
+            "name": "Gunk Shot",
+            "type": "poison",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 80,
+            "pp": 5
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "irondefense",
+            "name": "Iron Defense",
+            "type": "steel",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "ironhead",
+            "name": "Iron Head",
+            "type": "steel",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "magnetrise",
+            "name": "Magnet Rise",
+            "type": "electric",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "psychic",
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "shadowball",
+            "name": "Shadow Ball",
+            "type": "ghost",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "signalbeam",
+            "name": "Signal Beam",
+            "type": "bug",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "skillswap",
+            "name": "Skill Swap",
+            "type": "psychic",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "stealthrock",
+            "name": "Stealth Rock",
+            "type": "rock",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "stringshot",
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "accuracy": 95,
+            "pp": 40
+          },
+          {
+            "move": "suckerpunch",
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "telekinesis",
+            "name": "Telekinesis",
+            "type": "psychic",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          }
+        ],
+        "egg": [],
+        "evolution": []
+      },
+      "image": "img/pokemon/wormadam/art_trash-cloak.png"
+    }
+  ],
+  "images": {
+    "art": "img/pokemon/wormadam/art.png"
+  }
+}

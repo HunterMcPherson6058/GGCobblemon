@@ -1,0 +1,1260 @@
+{
+  "dex": 263,
+  "slug": "ampharos",
+  "national": 181,
+  "name": "Ampharos",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "id": "static",
+      "hidden": false,
+      "name": "Static",
+      "desc": "The Pok\u00e9mon is charged with static electricity and may paralyze attackers that make direct contact with it."
+    },
+    {
+      "id": "moldbreaker",
+      "hidden": true,
+      "name": "Mold Breaker",
+      "desc": "The Pok\u00e9mon's moves are unimpeded by the Ability of the target."
+    }
+  ],
+  "height": 14,
+  "weight": 615,
+  "catchRate": 45,
+  "baseExp": 255,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "monster",
+    "field"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 90,
+    "attack": 60,
+    "defence": 80,
+    "special_attack": 115,
+    "special_defence": 90,
+    "speed": 75
+  },
+  "preEvolution": "flaaffy",
+  "evolutions": [],
+  "flavor": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pok\u00e9mon to send signals back and forth with others far away.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "dragonpulse",
+        "name": "Dragon Pulse",
+        "type": "dragon",
+        "category": "special",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "growl",
+        "name": "Growl",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "iondeluge",
+        "name": "Ion Deluge",
+        "type": "electric",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "magneticflux",
+        "name": "Magnetic Flux",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "thundershock",
+        "name": "Thunder Shock",
+        "type": "electric",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "zapcannon",
+        "name": "Zap Cannon",
+        "type": "electric",
+        "category": "special",
+        "power": 120,
+        "accuracy": 50,
+        "pp": 5
+      },
+      {
+        "level": 11,
+        "move": "cottonspore",
+        "name": "Cotton Spore",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 16,
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 20,
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "level": 25,
+        "move": "electroball",
+        "name": "Electro Ball",
+        "type": "electric",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 29,
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 35,
+        "move": "powergem",
+        "name": "Power Gem",
+        "type": "rock",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 40,
+        "move": "discharge",
+        "name": "Discharge",
+        "type": "electric",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 46,
+        "move": "cottonguard",
+        "name": "Cotton Guard",
+        "type": "grass",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 51,
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 57,
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 62,
+        "move": "thunder",
+        "name": "Thunder",
+        "type": "electric",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      },
+      {
+        "level": 70,
+        "move": "tailglow",
+        "name": "Tail Glow",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "tm": [
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "breakingswipe",
+        "name": "Breaking Swipe",
+        "type": "dragon",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brutalswing",
+        "name": "Brutal Swing",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "doubleedge",
+        "name": "Double-Edge",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dragoncheer",
+        "name": "Dragon Cheer",
+        "type": "dragon",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dragonpulse",
+        "name": "Dragon Pulse",
+        "type": "dragon",
+        "category": "special",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dragontail",
+        "name": "Dragon Tail",
+        "type": "dragon",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "echoedvoice",
+        "name": "Echoed Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "eerieimpulse",
+        "name": "Eerie Impulse",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "electricterrain",
+        "name": "Electric Terrain",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "electroball",
+        "name": "Electro Ball",
+        "type": "electric",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "focusblast",
+        "name": "Focus Blast",
+        "type": "fighting",
+        "category": "special",
+        "power": 120,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "healbell",
+        "name": "Heal Bell",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magnetrise",
+        "name": "Magnet Rise",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "megakick",
+        "name": "Mega Kick",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 75,
+        "pp": 5
+      },
+      {
+        "move": "megapunch",
+        "name": "Mega Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "meteorbeam",
+        "name": "Meteor Beam",
+        "type": "rock",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "outrage",
+        "name": "Outrage",
+        "type": "dragon",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "powergem",
+        "name": "Power Gem",
+        "type": "rock",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poweruppunch",
+        "name": "Power-Up Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "roar",
+        "name": "Roar",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rockclimb",
+        "name": "Rock Climb",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "screech",
+        "name": "Screech",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stompingtantrum",
+        "name": "Stomping Tantrum",
+        "type": "ground",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "strength",
+        "name": "Strength",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "supercellslam",
+        "name": "Supercell Slam",
+        "type": "electric",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thunder",
+        "name": "Thunder",
+        "type": "electric",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "voltswitch",
+        "name": "Volt Switch",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "earthpower",
+        "name": "Earth Power",
+        "type": "ground",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dragonpulse",
+        "name": "Dragon Pulse",
+        "type": "dragon",
+        "category": "special",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "healbell",
+        "name": "Heal Bell",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magnetrise",
+        "name": "Magnet Rise",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "meteorbeam",
+        "name": "Meteor Beam",
+        "type": "rock",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "outrage",
+        "name": "Outrage",
+        "type": "dragon",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stompingtantrum",
+        "name": "Stomping Tantrum",
+        "type": "ground",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "eerieimpulse",
+        "name": "Eerie Impulse",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "electricterrain",
+        "name": "Electric Terrain",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "flatter",
+        "name": "Flatter",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "odorsleuth",
+        "name": "Odor Sleuth",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "sandattack",
+        "name": "Sand Attack",
+        "type": "ground",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "paraboliccharge",
+        "name": "Parabolic Charge",
+        "type": "electric",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "evolution": [],
+    "special": [
+      {
+        "move": "holdback",
+        "name": "Hold Back",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      }
+    ]
+  },
+  "forms": [
+    {
+      "id": "mega",
+      "name": "Mega Ampharos",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "abilities": [
+        {
+          "id": "fluffy",
+          "hidden": false,
+          "name": "Fluffy",
+          "desc": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+        }
+      ],
+      "height": 14,
+      "weight": 615,
+      "stats": {
+        "hp": 90,
+        "attack": 105,
+        "defence": 90,
+        "special_attack": 145,
+        "special_defence": 115,
+        "speed": 65
+      },
+      "flavor": "Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.",
+      "moves": null,
+      "image": "img/pokemon/ampharos/art_mega.png"
+    }
+  ],
+  "images": {
+    "art": "img/pokemon/ampharos/art.png"
+  }
+}

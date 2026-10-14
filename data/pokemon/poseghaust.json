@@ -1,0 +1,665 @@
+{
+  "dex": 117,
+  "slug": "poseghaust",
+  "national": 2017,
+  "name": "Poseghaust",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "id": "disguise",
+      "hidden": false,
+      "name": "Disguise",
+      "desc": "Once per battle, the shroud that covers the Pok\u00e9mon can protect it from an attack."
+    }
+  ],
+  "height": 1,
+  "weight": 1,
+  "catchRate": 126,
+  "baseExp": 145,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "field"
+  ],
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 72,
+    "attack": 75,
+    "defence": 64,
+    "special_attack": 108,
+    "special_defence": 85,
+    "speed": 81
+  },
+  "preEvolution": "posamal",
+  "evolutions": [],
+  "flavor": "",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "growl",
+        "name": "Growl",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 7,
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 12,
+        "move": "feint",
+        "name": "Feint",
+        "type": "normal",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 18,
+        "move": "nightshade",
+        "name": "Night Shade",
+        "type": "ghost",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 28,
+        "move": "willowisp",
+        "name": "Will-O-Wisp",
+        "type": "fire",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "level": 35,
+        "move": "darkpulse",
+        "name": "Dark Pulse",
+        "type": "dark",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 41,
+        "move": "spite",
+        "name": "Spite",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 45,
+        "move": "moonlight",
+        "name": "Moonlight",
+        "type": "fairy",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 49,
+        "move": "phantomforce",
+        "name": "Phantom Force",
+        "type": "ghost",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 56,
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "teleport",
+        "name": "Teleport",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "mimic",
+        "name": "Mimic",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "doubleteam",
+        "name": "Double Team",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "psywave",
+        "name": "Psywave",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "hiddenpower",
+        "name": "Hidden Power",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "snore",
+        "name": "Snore",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "frustration",
+        "name": "Frustration",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "return",
+        "name": "Return",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "attract",
+        "name": "Attract",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "nightmare",
+        "name": "Nightmare",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "torment",
+        "name": "Torment",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "snatch",
+        "name": "Snatch",
+        "type": "dark",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "captivate",
+        "name": "Captivate",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "uturn",
+        "name": "U-turn",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "trickroom",
+        "name": "Trick Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "round",
+        "name": "Round",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "retaliate",
+        "name": "Retaliate",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "screech",
+        "name": "Screech",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "faketears",
+        "name": "Fake Tears",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "powerswap",
+        "name": "Power Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "guardswap",
+        "name": "Guard Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "assurance",
+        "name": "Assurance",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "tailslap",
+        "name": "Tail Slap",
+        "type": "normal",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 85,
+        "pp": 10
+      },
+      {
+        "move": "mysticalfire",
+        "name": "Mystical Fire",
+        "type": "fire",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "lastresort",
+        "name": "Last Resort",
+        "type": "normal",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "roleplay",
+        "name": "Role Play",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "superfang",
+        "name": "Super Fang",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "nastyplot",
+        "name": "Nasty Plot",
+        "type": "dark",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "playrough",
+        "name": "Play Rough",
+        "type": "fairy",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "yawn",
+        "name": "Yawn",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "evolution": []
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/poseghaust/art.png"
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "dex": 4,
+  "slug": "piplup",
+  "national": 393,
+  "name": "Piplup",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "id": "torrent",
+      "hidden": false,
+      "name": "Torrent",
+      "desc": "Powers up Water-type moves when the Pok\u00e9mon's HP is low."
+    },
+    {
+      "id": "defiant",
+      "hidden": true,
+      "name": "Defiant",
+      "desc": "If the Pok\u00e9mon has any stat lowered by an opposing Pok\u00e9mon, its Attack stat will be boosted sharply."
+    }
+  ],
+  "height": 4,
+  "weight": 52,
+  "catchRate": 45,
+  "baseExp": 63,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.875,
+  "eggCycles": 20,
+  "eggGroups": [
+    "water_1",
+    "field"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 53,
+    "attack": 56,
+    "defence": 53,
+    "special_attack": 56,
+    "special_defence": 56,
+    "speed": 40
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "prinplup",
+      "condition": "Level 16"
+    }
+  ],
+  "flavor": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "bubble",
+        "name": "Bubble",
+        "type": "water",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "pound",
+        "name": "Pound",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "watersport",
+        "name": "Water Sport",
+        "type": "water",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "level": 4,
+        "move": "growl",
+        "name": "Growl",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 8,
+        "move": "watergun",
+        "name": "Water Gun",
+        "type": "water",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 11,
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 15,
+        "move": "peck",
+        "name": "Peck",
+        "type": "flying",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 15,
+        "move": "wingattack",
+        "name": "Wing Attack",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 18,
+        "move": "bubblebeam",
+        "name": "Bubble Beam",
+        "type": "water",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 22,
+        "move": "bide",
+        "name": "Bide",
+        "type": "normal",
+        "category": "physical",
+        "pp": 10
+      },
+      {
+        "level": 25,
+        "move": "furyattack",
+        "name": "Fury Attack",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "level": 29,
+        "move": "brine",
+        "name": "Brine",
+        "type": "water",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 32,
+        "move": "whirlpool",
+        "name": "Whirlpool",
+        "type": "water",
+        "category": "special",
+        "power": 35,
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "level": 36,
+        "move": "mist",
+        "name": "Mist",
+        "type": "ice",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 39,
+        "move": "drillpeck",
+        "name": "Drill Peck",
+        "type": "flying",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 43,
+        "move": "hydropump",
+        "name": "Hydro Pump",
+        "type": "water",
+        "category": "special",
+        "power": 110,
+        "accuracy": 80,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "blizzard",
+        "name": "Blizzard",
+        "type": "ice",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brine",
+        "name": "Brine",
+        "type": "water",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "chillingwater",
+        "name": "Chilling Water",
+        "type": "water",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "cut",
+        "name": "Cut",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 30
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "disarmingvoice",
+        "name": "Disarming Voice",
+        "type": "fairy",
+        "category": "special",
+        "power": 40,
+        "pp": 15
+      },
+      {
+        "move": "dive",
+        "name": "Dive",
+        "type": "water",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "echoedvoice",
+        "name": "Echoed Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "featherdance",
+        "name": "Feather Dance",
+        "type": "flying",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "flipturn",
+        "name": "Flip Turn",
+        "type": "water",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "hail",
+        "name": "Hail",
+        "type": "ice",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "haze",
+        "name": "Haze",
+        "type": "ice",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hydropump",
+        "name": "Hydro Pump",
+        "type": "water",
+        "category": "special",
+        "power": 110,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "icebeam",
+        "name": "Ice Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icespinner",
+        "name": "Ice Spinner",
+        "type": "ice",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "liquidation",
+        "name": "Liquidation",
+        "type": "water",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "pluck",
+        "name": "Pluck",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "quash",
+        "name": "Quash",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "snore",
+        "name": "Snore",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "snowscape",
+        "name": "Snowscape",
+        "type": "ice",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "surf",
+        "name": "Surf",
+        "type": "water",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "tripleaxel",
+        "name": "Triple Axel",
+        "type": "ice",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "waterfall",
+        "name": "Waterfall",
+        "type": "water",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "waterpledge",
+        "name": "Water Pledge",
+        "type": "water",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "whirlpool",
+        "name": "Whirlpool",
+        "type": "water",
+        "category": "special",
+        "power": 35,
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "workup",
+        "name": "Work Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "drillrun",
+        "name": "Drill Run",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 95,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dive",
+        "name": "Dive",
+        "type": "water",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "flipturn",
+        "name": "Flip Turn",
+        "type": "water",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "icebeam",
+        "name": "Ice Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "liquidation",
+        "name": "Liquidation",
+        "type": "water",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "snore",
+        "name": "Snore",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "tripleaxel",
+        "name": "Triple Axel",
+        "type": "ice",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "waterpledge",
+        "name": "Water Pledge",
+        "type": "water",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "egg": [
+      {
+        "move": "aquaring",
+        "name": "Aqua Ring",
+        "type": "water",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "bide",
+        "name": "Bide",
+        "type": "normal",
+        "category": "physical",
+        "pp": 10
+      },
+      {
+        "move": "doublehit",
+        "name": "Double Hit",
+        "type": "normal",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "featherdance",
+        "name": "Feather Dance",
+        "type": "flying",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "flail",
+        "name": "Flail",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "mudsport",
+        "name": "Mud Sport",
+        "type": "ground",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "powertrip",
+        "name": "Power Trip",
+        "type": "dark",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "snore",
+        "name": "Snore",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "supersonic",
+        "name": "Supersonic",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 55,
+        "pp": 20
+      },
+      {
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "yawn",
+        "name": "Yawn",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "freezedry",
+        "name": "Freeze-Dry",
+        "type": "ice",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "frostbreath",
+        "name": "Frost Breath",
+        "type": "ice",
+        "category": "special",
+        "power": 60,
+        "accuracy": 90,
+        "pp": 10
+      }
+    ],
+    "evolution": [
+      {
+        "move": "metalclaw",
+        "name": "Metal Claw",
+        "type": "steel",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 35
+      }
+    ],
+    "special": [
+      {
+        "move": "sing",
+        "name": "Sing",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 55,
+        "pp": 15
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/piplup/art.png"
+  }
+}

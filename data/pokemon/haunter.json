@@ -1,0 +1,1137 @@
+{
+  "dex": 306,
+  "slug": "haunter",
+  "national": 93,
+  "name": "Haunter",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "id": "levitate",
+      "hidden": false,
+      "name": "Levitate",
+      "desc": "By floating in the air, the Pok\u00e9mon receives full immunity to all Ground-type moves."
+    }
+  ],
+  "height": 16,
+  "weight": 1,
+  "catchRate": 90,
+  "baseExp": 142,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "amorphous"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 45,
+    "attack": 50,
+    "defence": 45,
+    "special_attack": 115,
+    "special_defence": 55,
+    "speed": 90
+  },
+  "preEvolution": "gastly",
+  "evolutions": [
+    {
+      "to": "gengar",
+      "condition": "Trade"
+    }
+  ],
+  "flavor": "Haunter is a dangerous Pok\u00e9mon. If one beckons you while floating in darkness, you must never approach it. This Pok\u00e9mon will try to lick you with its tongue and steal your life away.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "hypnosis",
+        "name": "Hypnosis",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 60,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "lick",
+        "name": "Lick",
+        "type": "ghost",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "meanlook",
+        "name": "Mean Look",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "nightmare",
+        "name": "Nightmare",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "shadowpunch",
+        "name": "Shadow Punch",
+        "type": "ghost",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "level": 12,
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 16,
+        "move": "spite",
+        "name": "Spite",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 20,
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 24,
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 30,
+        "move": "nightshade",
+        "name": "Night Shade",
+        "type": "ghost",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 36,
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 42,
+        "move": "darkpulse",
+        "name": "Dark Pulse",
+        "type": "dark",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 48,
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 54,
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 60,
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "tm": [
+      {
+        "move": "acidspray",
+        "name": "Acid Spray",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "corrosivegas",
+        "name": "Corrosive Gas",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "darkpulse",
+        "name": "Dark Pulse",
+        "type": "dark",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "embargo",
+        "name": "Embargo",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "explosion",
+        "name": "Explosion",
+        "type": "normal",
+        "category": "physical",
+        "power": 250,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "focusblast",
+        "name": "Focus Blast",
+        "type": "fighting",
+        "category": "special",
+        "power": 120,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "foulplay",
+        "name": "Foul Play",
+        "type": "dark",
+        "category": "physical",
+        "power": 95,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gunkshot",
+        "name": "Gunk Shot",
+        "type": "poison",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "haze",
+        "name": "Haze",
+        "type": "ice",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "imprison",
+        "name": "Imprison",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "infestation",
+        "name": "Infestation",
+        "type": "bug",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "metronome",
+        "name": "Metronome",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "nastyplot",
+        "name": "Nasty Plot",
+        "type": "dark",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "nightshade",
+        "name": "Night Shade",
+        "type": "ghost",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "painsplit",
+        "name": "Pain Split",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "phantomforce",
+        "name": "Phantom Force",
+        "type": "ghost",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poltergeist",
+        "name": "Poltergeist",
+        "type": "ghost",
+        "category": "physical",
+        "power": 110,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "selfdestruct",
+        "name": "Self-Destruct",
+        "type": "normal",
+        "category": "physical",
+        "power": 200,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "sludgewave",
+        "name": "Sludge Wave",
+        "type": "poison",
+        "category": "special",
+        "power": 95,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "snatch",
+        "name": "Snatch",
+        "type": "dark",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "spite",
+        "name": "Spite",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "thunder",
+        "name": "Thunder",
+        "type": "electric",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "torment",
+        "name": "Torment",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "toxicspikes",
+        "name": "Toxic Spikes",
+        "type": "poison",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "trickroom",
+        "name": "Trick Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "venoshock",
+        "name": "Venoshock",
+        "type": "poison",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "willowisp",
+        "name": "Will-O-Wisp",
+        "type": "fire",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "corrosivegas",
+        "name": "Corrosive Gas",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "darkpulse",
+        "name": "Dark Pulse",
+        "type": "dark",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "foulplay",
+        "name": "Foul Play",
+        "type": "dark",
+        "category": "physical",
+        "power": 95,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gunkshot",
+        "name": "Gunk Shot",
+        "type": "poison",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "painsplit",
+        "name": "Pain Split",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poltergeist",
+        "name": "Poltergeist",
+        "type": "ghost",
+        "category": "physical",
+        "power": 110,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "snatch",
+        "name": "Snatch",
+        "type": "dark",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "spite",
+        "name": "Spite",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "astonish",
+        "name": "Astonish",
+        "type": "ghost",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "clearsmog",
+        "name": "Clear Smog",
+        "type": "poison",
+        "category": "special",
+        "power": 50,
+        "pp": 15
+      },
+      {
+        "move": "disable",
+        "name": "Disable",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grudge",
+        "name": "Grudge",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "haze",
+        "name": "Haze",
+        "type": "ice",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "nightmare",
+        "name": "Nightmare",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "perishsong",
+        "name": "Perish Song",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "psywave",
+        "name": "Psywave",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "reflecttype",
+        "name": "Reflect Type",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "smog",
+        "name": "Smog",
+        "type": "poison",
+        "category": "special",
+        "power": 30,
+        "accuracy": 70,
+        "pp": 20
+      },
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      }
+    ],
+    "evolution": [
+      {
+        "move": "shadowpunch",
+        "name": "Shadow Punch",
+        "type": "ghost",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/haunter/art.png"
+  }
+}

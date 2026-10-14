@@ -1,0 +1,578 @@
+{
+  "dex": 267,
+  "slug": "tadbulb",
+  "national": 938,
+  "name": "Tadbulb",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "id": "owntempo",
+      "hidden": false,
+      "name": "Own Tempo",
+      "desc": "The Pok\u00e9mon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate."
+    },
+    {
+      "id": "static",
+      "hidden": false,
+      "name": "Static",
+      "desc": "The Pok\u00e9mon is charged with static electricity and may paralyze attackers that make direct contact with it."
+    },
+    {
+      "id": "damp",
+      "hidden": true,
+      "name": "Damp",
+      "desc": "The Pok\u00e9mon dampens its surroundings, preventing all Pok\u00e9mon from using explosive moves such as Self-Destruct."
+    }
+  ],
+  "height": 3,
+  "weight": 4,
+  "catchRate": 190,
+  "baseExp": 54,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "water_1"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 61,
+    "attack": 31,
+    "defence": 41,
+    "special_attack": 59,
+    "special_defence": 35,
+    "speed": 45
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "bellibolt",
+      "condition": "Use Thunder Stone"
+    }
+  ],
+  "flavor": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 7,
+        "move": "thundershock",
+        "name": "Thunder Shock",
+        "type": "electric",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 11,
+        "move": "watergun",
+        "name": "Water Gun",
+        "type": "water",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 17,
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 21,
+        "move": "spark",
+        "name": "Spark",
+        "type": "electric",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 24,
+        "move": "mudshot",
+        "name": "Mud Shot",
+        "type": "ground",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "level": 25,
+        "move": "flail",
+        "name": "Flail",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 32,
+        "move": "discharge",
+        "name": "Discharge",
+        "type": "electric",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 36,
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 40,
+        "move": "electricterrain",
+        "name": "Electric Terrain",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 45,
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 50,
+        "move": "zapcannon",
+        "name": "Zap Cannon",
+        "type": "electric",
+        "category": "special",
+        "power": 120,
+        "accuracy": 50,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "acidspray",
+        "name": "Acid Spray",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "chillingwater",
+        "name": "Chilling Water",
+        "type": "water",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "eerieimpulse",
+        "name": "Eerie Impulse",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "electricterrain",
+        "name": "Electric Terrain",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "electroball",
+        "name": "Electro Ball",
+        "type": "electric",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "muddywater",
+        "name": "Muddy Water",
+        "type": "water",
+        "category": "special",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 10
+      },
+      {
+        "move": "mudshot",
+        "name": "Mud Shot",
+        "type": "ground",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thunder",
+        "name": "Thunder",
+        "type": "electric",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "voltswitch",
+        "name": "Volt Switch",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "muddywater",
+        "name": "Muddy Water",
+        "type": "water",
+        "category": "special",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 10
+      },
+      {
+        "move": "paraboliccharge",
+        "name": "Parabolic Charge",
+        "type": "electric",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "soak",
+        "name": "Soak",
+        "type": "water",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "evolution": []
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/tadbulb/art.png"
+  }
+}

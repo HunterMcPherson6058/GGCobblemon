@@ -1,0 +1,1019 @@
+{
+  "dex": 188,
+  "slug": "bronzor",
+  "national": 436,
+  "name": "Bronzor",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "id": "levitate",
+      "hidden": false,
+      "name": "Levitate",
+      "desc": "By floating in the air, the Pok\u00e9mon receives full immunity to all Ground-type moves."
+    },
+    {
+      "id": "heatproof",
+      "hidden": false,
+      "name": "Heatproof",
+      "desc": "The Pok\u00e9mon's heatproof body halves the damage taken from Fire-type moves."
+    },
+    {
+      "id": "mirrorarmor",
+      "hidden": true,
+      "name": "Mirror Armor",
+      "desc": "Bounces back only the stat-lowering effects that the Pok\u00e9mon receives."
+    }
+  ],
+  "height": 5,
+  "weight": 605,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": -1,
+  "eggCycles": 20,
+  "eggGroups": [
+    "mineral"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 1,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 57,
+    "attack": 24,
+    "defence": 86,
+    "special_attack": 24,
+    "special_defence": 86,
+    "speed": 23
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "bronzong",
+      "condition": "Level 33"
+    }
+  ],
+  "flavor": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "confusion",
+        "name": "Confusion",
+        "type": "psychic",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 4,
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 5,
+        "move": "psywave",
+        "name": "Psywave",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 8,
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 12,
+        "move": "imprison",
+        "name": "Imprison",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 16,
+        "move": "gyroball",
+        "name": "Gyro Ball",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 20,
+        "move": "hypnosis",
+        "name": "Hypnosis",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 60,
+        "pp": 20
+      },
+      {
+        "level": 24,
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "level": 28,
+        "move": "extrasensory",
+        "name": "Extrasensory",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 32,
+        "move": "heavyslam",
+        "name": "Heavy Slam",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 36,
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "level": 40,
+        "move": "metalsound",
+        "name": "Metal Sound",
+        "type": "steel",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "level": 44,
+        "move": "futuresight",
+        "name": "Future Sight",
+        "type": "psychic",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ancientpower",
+        "name": "Ancient Power",
+        "type": "rock",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "earthquake",
+        "name": "Earthquake",
+        "type": "ground",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "expandingforce",
+        "name": "Expanding Force",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flashcannon",
+        "name": "Flash Cannon",
+        "type": "steel",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "futuresight",
+        "name": "Future Sight",
+        "type": "psychic",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gravity",
+        "name": "Gravity",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "guardswap",
+        "name": "Guard Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "gyroball",
+        "name": "Gyro Ball",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "heavyslam",
+        "name": "Heavy Slam",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icespinner",
+        "name": "Ice Spinner",
+        "type": "ice",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "imprison",
+        "name": "Imprison",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ironhead",
+        "name": "Iron Head",
+        "type": "steel",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "metalsound",
+        "name": "Metal Sound",
+        "type": "steel",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "powergem",
+        "name": "Power Gem",
+        "type": "rock",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "powerswap",
+        "name": "Power Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychicterrain",
+        "name": "Psychic Terrain",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psyshock",
+        "name": "Psyshock",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "recycle",
+        "name": "Recycle",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockblast",
+        "name": "Rock Blast",
+        "type": "rock",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rockpolish",
+        "name": "Rock Polish",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "rollout",
+        "name": "Rollout",
+        "type": "rock",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "sandstorm",
+        "name": "Sandstorm",
+        "type": "rock",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarbeam",
+        "name": "Solar Beam",
+        "type": "grass",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "speedswap",
+        "name": "Speed Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stealthrock",
+        "name": "Stealth Rock",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "steelbeam",
+        "name": "Steel Beam",
+        "type": "steel",
+        "category": "special",
+        "power": 140,
+        "accuracy": 95,
+        "pp": 5
+      },
+      {
+        "move": "steelroller",
+        "name": "Steel Roller",
+        "type": "steel",
+        "category": "physical",
+        "power": 130,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "stompingtantrum",
+        "name": "Stomping Tantrum",
+        "type": "ground",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "storedpower",
+        "name": "Stored Power",
+        "type": "psychic",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "trickroom",
+        "name": "Trick Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "zenheadbutt",
+        "name": "Zen Headbutt",
+        "type": "psychic",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 90,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ancientpower",
+        "name": "Ancient Power",
+        "type": "rock",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "expandingforce",
+        "name": "Expanding Force",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "flashcannon",
+        "name": "Flash Cannon",
+        "type": "steel",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gravity",
+        "name": "Gravity",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ironhead",
+        "name": "Iron Head",
+        "type": "steel",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "recycle",
+        "name": "Recycle",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rollout",
+        "name": "Rollout",
+        "type": "rock",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stealthrock",
+        "name": "Stealth Rock",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "steelbeam",
+        "name": "Steel Beam",
+        "type": "steel",
+        "category": "special",
+        "power": 140,
+        "accuracy": 95,
+        "pp": 5
+      },
+      {
+        "move": "steelroller",
+        "name": "Steel Roller",
+        "type": "steel",
+        "category": "physical",
+        "power": 130,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "stompingtantrum",
+        "name": "Stomping Tantrum",
+        "type": "ground",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "zenheadbutt",
+        "name": "Zen Headbutt",
+        "type": "psychic",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 90,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "feintattack",
+        "name": "Feint Attack",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "gravity",
+        "name": "Gravity",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "healblock",
+        "name": "Heal Block",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "psywave",
+        "name": "Psywave",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "recycle",
+        "name": "Recycle",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "evolution": [
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/bronzor/art.png"
+  }
+}

@@ -1,0 +1,1161 @@
+{
+  "abilities": [
+    {
+      "id": "afterimage",
+      "name": "Afterimage",
+      "short": "After using a damaging move, the user creates an afterimage. Making the next attack against it have a chance to miss.",
+      "effect": "After using a damaging move, the user creates an afterimage. Making the next attack against it have a 20% chance to miss.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "ninjask",
+          "name": "Mega Ninjask",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "beakforce",
+      "name": "Beak Force",
+      "short": "Powers up pecking moves.",
+      "effect": "Powers up pecking moves.",
+      "validMoves": [
+        {
+          "move": "peck",
+          "name": "Peck",
+          "type": "flying",
+          "category": "physical",
+          "power": 35,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "move": "drillpeck",
+          "name": "Drill Peck",
+          "type": "flying",
+          "category": "physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "move": "furyattack",
+          "name": "Fury Attack",
+          "type": "normal",
+          "category": "physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20
+        },
+        {
+          "move": "pluck",
+          "name": "Pluck",
+          "type": "flying",
+          "category": "physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "move": "beakblast",
+          "name": "Beak Blast",
+          "type": "flying",
+          "category": "physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "drillrun",
+          "name": "Drill Run",
+          "type": "ground",
+          "category": "physical",
+          "power": 80,
+          "accuracy": 95,
+          "pp": 10
+        },
+        {
+          "move": "bravebird",
+          "name": "Brave Bird",
+          "type": "flying",
+          "category": "physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "fearow",
+          "name": "Mega Fearow",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "blazingheat",
+      "name": "Blazing Heat",
+      "short": "Boosts the Special Attack stat when the Pokemon is hit by a Fire-type move. The Pokemon also cannot be burned.",
+      "effect": "Boosts the Special Attack stat by one stage when the Pokemon is hit by a Fire-type move. The Pokemon also cannot be burned.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "centiskorch",
+          "name": "Mega Centiskorch",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "bountifulharvest",
+      "name": "Bountiful Harvest",
+      "short": "At the end of each turn, the user consumes a random berry.",
+      "effect": "At the end of each turn, the user consumes a random berry.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "tropius",
+          "name": "Mega Tropius",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "celestialwings",
+      "name": "Celestial Wings",
+      "short": "When entering battle, the pokemon creates Celestial Aura.",
+      "effect": "When entering battle, the pokemon creates Celestial Aura, levitating all Pokemon on the field.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "gardevoir",
+          "name": "Mega Gardevoir G",
+          "form": "mega-g"
+        }
+      ]
+    },
+    {
+      "id": "chromaticshift",
+      "name": "Chromatic Shift",
+      "short": "When hit by a attack, the user becomes immune to that attack's type until hit by a different attacking type.",
+      "effect": "When hit by a attack, the user becomes immune to that attack's type until hit by a different attacking type.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "kecleon",
+          "name": "Mega Kecleon",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "compressedcore",
+      "name": "Compressed Core",
+      "short": "When hit by a special attack, the user's special attack is greatly boosted.",
+      "effect": "When hit by a special attack, the user's special attack is boosted by two stages.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "gigalith",
+          "name": "Mega Gigalith",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "countercharge",
+      "name": "Countercharge",
+      "short": "When hit by a physical attack, the user's next physical attack is powered up.",
+      "effect": "When hit by a physical attack, the user's next physical attack is powered up by 50%.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "escavalier",
+          "name": "Mega Escavalier",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "counterweight",
+      "name": "Counterweight",
+      "short": "If the target weighs more than the user, it's physical moves increase in power.",
+      "effect": "If the target weighs more than the user, it's physical moves increase in power by 30%.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "ledian",
+          "name": "Mega Ledian",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "crueltrick",
+      "name": "Cruel Trick",
+      "short": "Gives priority to status moves and when affecting a target with a status move, their speed is also reduced.",
+      "effect": "Gives priority to status moves and when affecting a target with a status move, their speed is also reduced by one stage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "grimmsnarl",
+          "name": "Mega Grimmsnarl",
+          "form": "mega"
+        },
+        {
+          "slug": "banette",
+          "name": "Mega Banette",
+          "form": "mega"
+        },
+        {
+          "slug": "liepard",
+          "name": "Mega Liepard",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "cursedbrew",
+      "name": "Cursed Brew",
+      "short": "When the user drains HP from a Pokemon, that Pokemon's healing is reduced by half.",
+      "effect": "When the user drains HP from a Pokemon, that Pokemon's healing is reduced by half.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "sinistcha",
+          "name": "Mega Sinistcha",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "dominance",
+      "name": "Dominance",
+      "short": "When an opposing Pokemon's HP falls below half, it's attack and special attack are reduced.",
+      "effect": "When an opposing Pokemon's HP falls below half, it's attack and special attack are reduced by one stage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "archeops",
+          "name": "Mega Archeops",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "draconicrush",
+      "name": "Draconic Rush",
+      "short": "Gives priority to Dragon-Type moves.",
+      "effect": "Gives priority to Dragon-Type moves.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "yanmega",
+          "name": "Mega Yanmega",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "dueldiscipline",
+      "name": "Duel Discipline",
+      "short": "Mixing different attacking types boosts their power.",
+      "effect": "Mixing different attacking types boost their power by 40%.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "infernape",
+          "name": "Mega Infernape",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "earthshaker",
+      "name": "Earthshaker",
+      "short": "The user's defense is doubled and prevents the user from receiving a critical hit.",
+      "effect": "The user's defense is doubled and prevents the user from receiving a critical hit.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "torterra",
+          "name": "Mega Torterra",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "emperorsdecree",
+      "name": "Emperors Decree",
+      "short": "Opposing Pokemon cannot have their offensive stats raised while the user is on the field.",
+      "effect": "Opposing Pokemon cannot have their offensive stats raised while the user is on the field.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "empoleon",
+          "name": "Mega Empoleon",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "endlesshunger",
+      "name": "Endless Hunger",
+      "short": "The user heals half it's HP each time it knocks out a Pokemon.",
+      "effect": "The user heals half it's maximum HP each time it knocks out a Pokemon. The move Aura Wheel always deal Dark-Type damage.",
+      "validMoves": [
+        {
+          "move": "aurawheel",
+          "name": "Aura Wheel",
+          "type": "electric",
+          "category": "physical",
+          "power": 110,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "morpeko",
+          "name": "Mega Morpeko",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "everlastingsands",
+      "name": "Everlasting Sands",
+      "short": "The Pokemon changes the weather to potentially blind Pokemon.",
+      "effect": "The Pokemon changes the weather to potentially blind Pokemon. Includes the effects of sandstorm and lowers the accuracy of all Pokemon by 20% that are not Ground and Rock Type.",
+      "validMoves": [],
+      "pokemon": []
+    },
+    {
+      "id": "flutteringdust",
+      "name": "Fluttering Dust",
+      "short": "Powder moves used by the user affect all opposing pokemon.",
+      "effect": "Powder moves used by the user affect all opposing pokemon.",
+      "validMoves": [
+        {
+          "move": "poisonpowder",
+          "name": "Poison Powder",
+          "type": "poison",
+          "category": "status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 35
+        },
+        {
+          "move": "sleeppowder",
+          "name": "Sleep Powder",
+          "type": "grass",
+          "category": "status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 15
+        },
+        {
+          "move": "powdersnow",
+          "name": "Powder Snow",
+          "type": "ice",
+          "category": "special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "butterfree",
+          "name": "Mega Butterfree",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "flyingfortress",
+      "name": "Flying Fortress",
+      "short": "When entering battle, the user's defense and special defense is boosted and gains immunity to Ground Type moves.",
+      "effect": "When entering battle, the user's defense and special defense is boosted by one stage and gains immunity to Ground Type moves.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "palossand",
+          "name": "Mega Palossand",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "freezinggale",
+      "name": "Freezing Gale",
+      "short": "The Pokemon changes the weather to potentially freeze Pokemon.",
+      "effect": "The Pokemon changes the weather to potentially freeze Pokemon. Includes the effects of snow and has 20% chance to freeze Pokemon every turn that are not Ice or Fire Type.",
+      "validMoves": [],
+      "pokemon": []
+    },
+    {
+      "id": "ghostlycharm",
+      "name": "Ghostly Charm",
+      "short": "The users Fairy-Type moves become Ghost-Type and can hit Normal-Type Pokemon.",
+      "effect": "The users Fairy-Type moves become Ghost-Type and can hit Normal-Type Pokemon.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "hatterene",
+          "name": "Mega Hatterene",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "gravitywell",
+      "name": "Gravity Well",
+      "short": "When entering battle, the pokemon intensifies the gravity.",
+      "effect": "When entering battle, the pokemon intensifies the gravity.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "steelix",
+          "name": "Mega Steelix",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "hauntingflame",
+      "name": "Haunting Flame",
+      "short": "The user's fire moves can burn Fire-Types.",
+      "effect": "The user's fire moves can burn Fire-Types.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "chandelure",
+          "name": "Mega Chandelure",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "hauntingmelody",
+      "name": "Haunting Melody",
+      "short": "Sound-based moves become Ghost-type moves and enables them to hit Normal-Type Pokemon.",
+      "effect": "Sound-based moves become Ghost-type moves and enables them to hit Normal-Type Pokemon.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "kricketune",
+          "name": "Mega Kricketune",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "headstrong",
+      "name": "Headstrong",
+      "short": "Head-based moves have increased power and chance to flinch.",
+      "effect": "Head-based moves have 30% increased power and a 20% chance to flinch.",
+      "validMoves": [
+        {
+          "move": "headsmash",
+          "name": "Head Smash",
+          "type": "rock",
+          "category": "physical",
+          "power": 150,
+          "accuracy": 80,
+          "pp": 5
+        },
+        {
+          "move": "headbutt",
+          "name": "Headbutt",
+          "type": "normal",
+          "category": "physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "zenheadbutt",
+          "name": "Zen Headbutt",
+          "type": "psychic",
+          "category": "physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15
+        },
+        {
+          "move": "ironhead",
+          "name": "Iron Head",
+          "type": "steel",
+          "category": "physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "rampardos",
+          "name": "Mega Rampardos",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "improviser",
+      "name": "Improviser",
+      "short": "Pikachu's moves ignore traditional rules gaining new interactions.",
+      "effect": "Pikachu's moves ignore traditional rules gaining new interactions. General Rule: All Electric type attacks hit ground types for neutral damage. Quick attack: Becomes +4 priority instead of +1. Iron Tail: Can hit through protect with a 50% damage reduction. Electro Ball: Increases speed by one stage after use. Thunderbolt: Can paralyze ground-type and gains increased chance to paralyze increased to 40%. Volt Tackle: Ignores recoil damage.",
+      "validMoves": [
+        {
+          "move": "quickattack",
+          "name": "Quick Attack",
+          "type": "normal",
+          "category": "physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "move": "irontail",
+          "name": "Iron Tail",
+          "type": "steel",
+          "category": "physical",
+          "power": 100,
+          "accuracy": 75,
+          "pp": 15
+        },
+        {
+          "move": "electroball",
+          "name": "Electro Ball",
+          "type": "electric",
+          "category": "special",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "thunderbolt",
+          "name": "Thunderbolt",
+          "type": "electric",
+          "category": "special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "volttackle",
+          "name": "Volt Tackle",
+          "type": "electric",
+          "category": "physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "pikachu",
+          "name": "Mega Pikachu",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "masterstrike",
+      "name": "Master Strike",
+      "short": "Moves that make direct contact attack the target even if the target protects itself.",
+      "effect": "Moves that make direct contact attack the target even if the target protects itself for 50% of the damage. This ability also bypasses Psychic Wall.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "crobat",
+          "name": "Mega Crobat",
+          "form": "mega"
+        },
+        {
+          "slug": "machamp",
+          "name": "Mega Machamp",
+          "form": "mega"
+        },
+        {
+          "slug": "excadrill",
+          "name": "Mega Excadrill",
+          "form": "mega"
+        },
+        {
+          "slug": "golurk",
+          "name": "Mega Golurk",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "overdrived",
+      "name": "Overdrived",
+      "short": "After the user uses Shift Gear, the next steel type move is powered up and inflicts burn.",
+      "effect": "After the user uses Shift Gear, the next steel type move has 30% increased power and inflicts burn.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "klinklang",
+          "name": "Mega Klinklang",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "primordial",
+      "name": "Primordial",
+      "short": "When weather is created, the effect becomes enhanced.",
+      "effect": "When weather is created, the effect becomes enhanced. Rain becomes Primordial Sea, Sun becomes Desolate Land, Snow becomes Freezing Gale, Sandstorm becomes Everlasting Sands.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "relicanth",
+          "name": "Mega Relicanth",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "protectiveinstinct",
+      "name": "Protective Instinct",
+      "short": "When an ally is hit by a damaging move, the user's Attack is increased.",
+      "effect": "When an ally is hit by a damaging move, the user's Attack is increased by one stage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "bewear",
+          "name": "Mega Bewear",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "psychicwall",
+      "name": "Psychic Wall",
+      "short": "When entering battle, the user creates a invisible wall, making moves that make direct contact miss the user.",
+      "effect": "When entering battle, the user creates a invisible wall, making moves that make direct contact miss the user.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "mrmime",
+          "name": "Mega Mr. Mime",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "queenscommand",
+      "name": "Queen's Command",
+      "short": "Vespiquen's Order moves gain additional effects.",
+      "effect": "Vespiquen's Order moves gain additional effects. Attack Order: Raises itself and allies attack by one stage. Defend Order: Raises allies defense and special defense by one stage. Heal Order: Heals allies up to 25% of their maximum hp.",
+      "validMoves": [
+        {
+          "move": "attackorder",
+          "name": "Attack Order",
+          "type": "bug",
+          "category": "physical",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "defendorder",
+          "name": "Defend Order",
+          "type": "bug",
+          "category": "status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "move": "healorder",
+          "name": "Heal Order",
+          "type": "bug",
+          "category": "status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "vespiquen",
+          "name": "Mega Vespiquen",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "soulharvest",
+      "name": "Soul Harvest",
+      "short": "Boosts the Special Attack stat after knocking out any Pokemon.",
+      "effect": "Boosts the Special Attack stat by one stage after knocking out any Pokemon.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "houndoom",
+          "name": "Mega Houndoom",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "spikydefense",
+      "name": "Spiky Defense",
+      "short": "Inflicts damage on the attacker upon contact and lowers it's speed.",
+      "effect": "Inflicts 1/8 maximum health damage on the attacker upon contact and lowers it's speed by one stage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "ferrothorn",
+          "name": "Mega Ferrothorn",
+          "form": "mega"
+        },
+        {
+          "slug": "skarmory",
+          "name": "Mega Skarmory",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "spiritguard",
+      "name": "Spirit Guard",
+      "short": "The user's Wonder Guard also protects it from status conditions and indirect damage.",
+      "effect": "The user's Wonder Guard also protects it from status conditions and indirect damage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "shedinja",
+          "name": "Mega Shedinja",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "splitpsyche",
+      "name": "Split Psyche",
+      "short": "The user's mind is split into two, giving priority to status moves and raises special attack when it's stats are lowered.",
+      "effect": "The user's mind is split into two, giving priority to status moves and raises special attack by one stage when it's stats are lowered.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "meowstic",
+          "name": "Mega Meowstic",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "sporecloud",
+      "name": "Spore Cloud",
+      "short": "Spore moves used by the user affect all opposing pokemon.",
+      "effect": "Spore moves used by the user affect all opposing pokemon.",
+      "validMoves": [
+        {
+          "move": "spore",
+          "name": "Spore",
+          "type": "grass",
+          "category": "status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "stunspore",
+          "name": "Stun Spore",
+          "type": "grass",
+          "category": "status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 30
+        },
+        {
+          "move": "cottonspore",
+          "name": "Cotton Spore",
+          "type": "grass",
+          "category": "status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "amoonguss",
+          "name": "Mega Amoonguss",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "staticrush",
+      "name": "Static Rush",
+      "short": "Gives priority to Electric-Type moves.",
+      "effect": "Gives priority to Electric-Type moves.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "boltund",
+          "name": "Mega Boltund",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "surgingpsyche",
+      "name": "Surging Psyche",
+      "short": "Doubles the Pokemon's Speed stat on Electric or Psychic Terrain.",
+      "effect": "Doubles the Pokemon's Speed stat on Electric or Psychic Terrain.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "raichu",
+          "name": "Mega Raichu (Alolan)",
+          "form": "alolan-mega"
+        }
+      ]
+    },
+    {
+      "id": "toxicvoice",
+      "name": "Toxic Voice",
+      "short": "All sound-based moves become Poison-type moves.",
+      "effect": "All sound-based moves become Poison-type moves.",
+      "validMoves": [
+        {
+          "move": "boomburst",
+          "name": "Boomburst",
+          "type": "normal",
+          "category": "special",
+          "power": 140,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "bugbuzz",
+          "name": "Bug Buzz",
+          "type": "bug",
+          "category": "special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "chatter",
+          "name": "Chatter",
+          "type": "flying",
+          "category": "special",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "move": "clangingscales",
+          "name": "Clanging Scales",
+          "type": "dragon",
+          "category": "special",
+          "power": 110,
+          "accuracy": 100,
+          "pp": 5
+        },
+        {
+          "move": "soulblaze",
+          "name": "Soulblaze",
+          "type": null,
+          "category": null,
+          "power": null,
+          "accuracy": null,
+          "pp": null
+        },
+        {
+          "move": "confide",
+          "name": "Confide",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "move": "disarmingvoice",
+          "name": "Disarming Voice",
+          "type": "fairy",
+          "category": "special",
+          "power": 40,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "move": "echoedvoice",
+          "name": "Echoed Voice",
+          "type": "normal",
+          "category": "special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "grasswhistle",
+          "name": "Grass Whistle",
+          "type": "grass",
+          "category": "status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 15
+        },
+        {
+          "move": "growl",
+          "name": "Growl",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40
+        },
+        {
+          "move": "hypervoice",
+          "name": "Hyper Voice",
+          "type": "normal",
+          "category": "special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "metalsound",
+          "name": "Metal Sound",
+          "type": "steel",
+          "category": "status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40
+        },
+        {
+          "move": "nobleroar",
+          "name": "Noble Roar",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "move": "partingshot",
+          "name": "Parting Shot",
+          "type": "dark",
+          "category": "status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "move": "perishsong",
+          "name": "Perish Song",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "move": "relicsong",
+          "name": "Relic Song",
+          "type": "normal",
+          "category": "special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "roar",
+          "name": "Roar",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "move": "round",
+          "name": "Round",
+          "type": "normal",
+          "category": "special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "screech",
+          "name": "Screech",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40
+        },
+        {
+          "move": "sing",
+          "name": "Sing",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 15
+        },
+        {
+          "move": "snarl",
+          "name": "Snarl",
+          "type": "dark",
+          "category": "special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "move": "snore",
+          "name": "Snore",
+          "type": "normal",
+          "category": "special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "move": "sparklingaria",
+          "name": "Sparkling Aria",
+          "type": "water",
+          "category": "special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "supersonic",
+          "name": "Supersonic",
+          "type": "normal",
+          "category": "status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20
+        },
+        {
+          "move": "uproar",
+          "name": "Uproar",
+          "type": "normal",
+          "category": "special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "move": "hauntingconcerto",
+          "name": "Haunting Concerto",
+          "type": "ghost",
+          "category": "special",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "pokemon": [
+        {
+          "slug": "toxtricity",
+          "name": "Mega Toxtricity",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "trickster",
+      "name": "Trickster",
+      "short": "When entering battle, the user creates a bizarre area.",
+      "effect": "When entering battle, the user creates Trick Room.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "sableye",
+          "name": "Mega Sableye G",
+          "form": "mega-g"
+        }
+      ]
+    },
+    {
+      "id": "trueform",
+      "name": "True Form",
+      "short": "When entering battle for the first time, the user unleashes it's true form and strikes fear into all pokemon.",
+      "effect": "When entering battle for the first time, the user unleashes it's true form and strikes fear into all pokemon.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "mimikyu",
+          "name": "Mega Mimikyu",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "truewings",
+      "name": "True Wings",
+      "short": "Gives priority to Flying-type moves.",
+      "effect": "Gives priority to Flying-type moves.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "talonflame",
+          "name": "Mega Talonflame",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "twinartillery",
+      "name": "Twin Artillery",
+      "short": "Special attacks fire from both arm cannons, striking twice.",
+      "effect": "Special attacks fire from both arm cannons, striking twice. The second hit for 30% of it's damage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "armarouge",
+          "name": "Mega Armarouge",
+          "form": "mega"
+        }
+      ]
+    },
+    {
+      "id": "voltrush",
+      "name": "Volt Rush",
+      "short": "When the user uses the move Volt Tackle, it's attack is boosted.",
+      "effect": "When the user uses the move Volt Tackle, it's attack is boosted by one stage.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "raichu",
+          "name": "Mega Raichu X",
+          "form": "mega-x"
+        }
+      ]
+    },
+    {
+      "id": "windchaser",
+      "name": "Wind Chaser",
+      "short": "When entering battle, the pokemon creates tailwind.",
+      "effect": "When entering battle, the pokemon creates tailwind.",
+      "validMoves": [],
+      "pokemon": [
+        {
+          "slug": "whimsicott",
+          "name": "Mega Whimsicott",
+          "form": "mega"
+        },
+        {
+          "slug": "drifblim",
+          "name": "Mega Drifblim",
+          "form": "mega"
+        }
+      ]
+    }
+  ]
+}

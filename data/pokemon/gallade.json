@@ -1,0 +1,2019 @@
+{
+  "dex": 179,
+  "slug": "gallade",
+  "national": 475,
+  "name": "Gallade",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "id": "steadfast",
+      "hidden": false,
+      "name": "Steadfast",
+      "desc": "The Pok\u00e9mon's determination boosts its Speed stat every time it flinches."
+    },
+    {
+      "id": "sharpness",
+      "hidden": false,
+      "name": "Sharpness",
+      "desc": "Powers up slicing moves."
+    },
+    {
+      "id": "justified",
+      "hidden": true,
+      "name": "Justified",
+      "desc": "When the Pok\u00e9mon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice."
+    }
+  ],
+  "height": 16,
+  "weight": 520,
+  "catchRate": 45,
+  "baseExp": 259,
+  "baseFriendship": 35,
+  "growthRate": "slow",
+  "genderRatio": 1,
+  "eggCycles": 20,
+  "eggGroups": [
+    "human_like",
+    "amorphous"
+  ],
+  "evYield": {
+    "attack": 3,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 78,
+    "attack": 125,
+    "defence": 65,
+    "special_attack": 65,
+    "special_defence": 115,
+    "speed": 80
+  },
+  "preEvolution": "kirlia",
+  "evolutions": [],
+  "flavor": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "aquacutter",
+        "name": "Aqua Cutter",
+        "type": "water",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "confusion",
+        "name": "Confusion",
+        "type": "psychic",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "disarmingvoice",
+        "name": "Disarming Voice",
+        "type": "fairy",
+        "category": "special",
+        "power": 40,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "doubleteam",
+        "name": "Double Team",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "drainingkiss",
+        "name": "Draining Kiss",
+        "type": "fairy",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "futuresight",
+        "name": "Future Sight",
+        "type": "psychic",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "growl",
+        "name": "Growl",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "hypnosis",
+        "name": "Hypnosis",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 60,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "imprison",
+        "name": "Imprison",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "leafblade",
+        "name": "Leaf Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "leer",
+        "name": "Leer",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "lifedew",
+        "name": "Life Dew",
+        "type": "water",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "luckychant",
+        "name": "Lucky Chant",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "nightslash",
+        "name": "Night Slash",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "psybeam",
+        "name": "Psybeam",
+        "type": "psychic",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "sacredsword",
+        "name": "Sacred Sword",
+        "type": "fighting",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "slash",
+        "name": "Slash",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 9,
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 12,
+        "move": "feint",
+        "name": "Feint",
+        "type": "normal",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 15,
+        "move": "teleport",
+        "name": "Teleport",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 18,
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "level": 23,
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 28,
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 35,
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 42,
+        "move": "psychocut",
+        "name": "Psycho Cut",
+        "type": "psychic",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 49,
+        "move": "healpulse",
+        "name": "Heal Pulse",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 56,
+        "move": "quickguard",
+        "name": "Quick Guard",
+        "type": "fighting",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "level": 56,
+        "move": "wideguard",
+        "name": "Wide Guard",
+        "type": "rock",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 63,
+        "move": "closecombat",
+        "name": "Close Combat",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "airslash",
+        "name": "Air Slash",
+        "type": "flying",
+        "category": "special",
+        "power": 75,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "alluringvoice",
+        "name": "Alluring Voice",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "aurasphere",
+        "name": "Aura Sphere",
+        "type": "fighting",
+        "category": "special",
+        "power": 80,
+        "pp": 20
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bulkup",
+        "name": "Bulk Up",
+        "type": "fighting",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "closecombat",
+        "name": "Close Combat",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "coaching",
+        "name": "Coaching",
+        "type": "fighting",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "cut",
+        "name": "Cut",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 30
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "disarmingvoice",
+        "name": "Disarming Voice",
+        "type": "fairy",
+        "category": "special",
+        "power": 40,
+        "pp": 15
+      },
+      {
+        "move": "doubleteam",
+        "name": "Double Team",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "drainingkiss",
+        "name": "Draining Kiss",
+        "type": "fairy",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dreameater",
+        "name": "Dream Eater",
+        "type": "psychic",
+        "category": "special",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dualchop",
+        "name": "Dual Chop",
+        "type": "dragon",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 15
+      },
+      {
+        "move": "earthquake",
+        "name": "Earthquake",
+        "type": "ground",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "echoedvoice",
+        "name": "Echoed Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "expandingforce",
+        "name": "Expanding Force",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "focusblast",
+        "name": "Focus Blast",
+        "type": "fighting",
+        "category": "special",
+        "power": 120,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "move": "futuresight",
+        "name": "Future Sight",
+        "type": "psychic",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "imprison",
+        "name": "Imprison",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "leafblade",
+        "name": "Leaf Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "lightscreen",
+        "name": "Light Screen",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "lowsweep",
+        "name": "Low Sweep",
+        "type": "fighting",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "magiccoat",
+        "name": "Magic Coat",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "magicroom",
+        "name": "Magic Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "megakick",
+        "name": "Mega Kick",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 75,
+        "pp": 5
+      },
+      {
+        "move": "megapunch",
+        "name": "Mega Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "metronome",
+        "name": "Metronome",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "mistyterrain",
+        "name": "Misty Terrain",
+        "type": "fairy",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "mysticalfire",
+        "name": "Mystical Fire",
+        "type": "fire",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "nightshade",
+        "name": "Night Shade",
+        "type": "ghost",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "painsplit",
+        "name": "Pain Split",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poweruppunch",
+        "name": "Power-Up Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psybeam",
+        "name": "Psybeam",
+        "type": "psychic",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychicterrain",
+        "name": "Psychic Terrain",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychocut",
+        "name": "Psycho Cut",
+        "type": "psychic",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psyshock",
+        "name": "Psyshock",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "recycle",
+        "name": "Recycle",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "retaliate",
+        "name": "Retaliate",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "revenge",
+        "name": "Revenge",
+        "type": "fighting",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "reversal",
+        "name": "Reversal",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "snatch",
+        "name": "Snatch",
+        "type": "dark",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarblade",
+        "name": "Solar Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 125,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "storedpower",
+        "name": "Stored Power",
+        "type": "psychic",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "strength",
+        "name": "Strength",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "torment",
+        "name": "Torment",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "trickroom",
+        "name": "Trick Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "tripleaxel",
+        "name": "Triple Axel",
+        "type": "ice",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "upperhand",
+        "name": "Upper Hand",
+        "type": "fighting",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "vacuumwave",
+        "name": "Vacuum Wave",
+        "type": "fighting",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "willowisp",
+        "name": "Will-O-Wisp",
+        "type": "fire",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "workup",
+        "name": "Work Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "xscissor",
+        "name": "X-Scissor",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "zenheadbutt",
+        "name": "Zen Headbutt",
+        "type": "psychic",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 90,
+        "pp": 15
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "icebeam",
+        "name": "Ice Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "allyswitch",
+        "name": "Ally Switch",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "bulkup",
+        "name": "Bulk Up",
+        "type": "fighting",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "calmmind",
+        "name": "Calm Mind",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "coaching",
+        "name": "Coaching",
+        "type": "fighting",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "dazzlinggleam",
+        "name": "Dazzling Gleam",
+        "type": "fairy",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "dualchop",
+        "name": "Dual Chop",
+        "type": "dragon",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 15
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "expandingforce",
+        "name": "Expanding Force",
+        "type": "psychic",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "magiccoat",
+        "name": "Magic Coat",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "magicroom",
+        "name": "Magic Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "mysticalfire",
+        "name": "Mystical Fire",
+        "type": "fire",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "painsplit",
+        "name": "Pain Split",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "psychocut",
+        "name": "Psycho Cut",
+        "type": "psychic",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "recycle",
+        "name": "Recycle",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skillswap",
+        "name": "Skill Swap",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "snatch",
+        "name": "Snatch",
+        "type": "dark",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "telekinesis",
+        "name": "Telekinesis",
+        "type": "psychic",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "trick",
+        "name": "Trick",
+        "type": "psychic",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "tripleaxel",
+        "name": "Triple Axel",
+        "type": "ice",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "vacuumwave",
+        "name": "Vacuum Wave",
+        "type": "fighting",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "wonderroom",
+        "name": "Wonder Room",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "xscissor",
+        "name": "X-Scissor",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "zenheadbutt",
+        "name": "Zen Headbutt",
+        "type": "psychic",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 90,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "confuseray",
+        "name": "Confuse Ray",
+        "type": "ghost",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "disable",
+        "name": "Disable",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grudge",
+        "name": "Grudge",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "meanlook",
+        "name": "Mean Look",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "memento",
+        "name": "Memento",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "mysticalfire",
+        "name": "Mystical Fire",
+        "type": "fire",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "shadowsneak",
+        "name": "Shadow Sneak",
+        "type": "ghost",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "synchronoise",
+        "name": "Synchronoise",
+        "type": "psychic",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "evolution": [],
+    "special": [
+      {
+        "move": "sing",
+        "name": "Sing",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 55,
+        "pp": 15
+      },
+      {
+        "move": "wish",
+        "name": "Wish",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      }
+    ]
+  },
+  "forms": [
+    {
+      "id": "mega",
+      "name": "Mega Gallade",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "abilities": [
+        {
+          "id": "sharpness",
+          "hidden": false,
+          "name": "Sharpness",
+          "desc": "Powers up slicing moves."
+        }
+      ],
+      "height": 16,
+      "weight": 564,
+      "stats": {
+        "hp": 78,
+        "attack": 165,
+        "defence": 95,
+        "special_attack": 65,
+        "special_defence": 115,
+        "speed": 110
+      },
+      "flavor": "It gets power from the bond it has with its Trainer. Mega Evolution has given it plates to slice its enemies and a cape to protect its body.",
+      "moves": null,
+      "image": "img/pokemon/gallade/art_mega.png"
+    },
+    {
+      "id": "mega-g",
+      "name": "Mega Gallade G",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "abilities": [
+        {
+          "id": "darkaura",
+          "hidden": false,
+          "name": "Dark Aura",
+          "desc": "Powers up the Dark-type moves of all Pok\u00e9mon on the field."
+        }
+      ],
+      "height": 16,
+      "weight": 564,
+      "stats": {
+        "hp": 78,
+        "attack": 145,
+        "defence": 95,
+        "special_attack": 65,
+        "special_defence": 105,
+        "speed": 140
+      },
+      "flavor": "A description for this Pok\u00e9mon has not been written yet.",
+      "moves": null,
+      "image": "img/pokemon/gallade/art_mega-g.png"
+    }
+  ],
+  "images": {
+    "art": "img/pokemon/gallade/art.png"
+  }
+}

@@ -1,0 +1,831 @@
+{
+  "dex": 48,
+  "slug": "beautifly",
+  "national": 267,
+  "name": "Beautifly",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "id": "swarm",
+      "hidden": false,
+      "name": "Swarm",
+      "desc": "Powers up Bug-type moves when the Pok\u00e9mon's HP is low."
+    },
+    {
+      "id": "rivalry",
+      "hidden": false,
+      "name": "Rivalry",
+      "desc": "The Pok\u00e9mon's competitive spirit makes it deal more damage to Pok\u00e9mon of the same gender, but less damage to Pok\u00e9mon of the opposite gender."
+    },
+    {
+      "id": "solarpower",
+      "hidden": true,
+      "name": "Solar Power",
+      "desc": "In harsh sunlight, the Pok\u00e9mon's Sp. Atk stat is boosted, but its HP decreases every turn."
+    }
+  ],
+  "height": 10,
+  "weight": 284,
+  "catchRate": 45,
+  "baseExp": 198,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 3,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 75,
+    "attack": 75,
+    "defence": 50,
+    "special_attack": 105,
+    "special_defence": 50,
+    "speed": 95
+  },
+  "preEvolution": "silcoon",
+  "evolutions": [],
+  "flavor": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "gust",
+        "name": "Gust",
+        "type": "flying",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "harden",
+        "name": "Harden",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "poisonsting",
+        "name": "Poison Sting",
+        "type": "poison",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 12,
+        "move": "absorb",
+        "name": "Absorb",
+        "type": "grass",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 15,
+        "move": "stunspore",
+        "name": "Stun Spore",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 75,
+        "pp": 30
+      },
+      {
+        "level": 17,
+        "move": "morningsun",
+        "name": "Morning Sun",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 20,
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "level": 22,
+        "move": "megadrain",
+        "name": "Mega Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 27,
+        "move": "attract",
+        "name": "Attract",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 29,
+        "move": "airslash",
+        "name": "Air Slash",
+        "type": "flying",
+        "category": "special",
+        "power": 75,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "level": 30,
+        "move": "whirlwind",
+        "name": "Whirlwind",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 32,
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 35,
+        "move": "bugbuzz",
+        "name": "Bug Buzz",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 37,
+        "move": "rage",
+        "name": "Rage",
+        "type": "normal",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 39,
+        "move": "strengthsap",
+        "name": "Strength Sap",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 40,
+        "move": "quiverdance",
+        "name": "Quiver Dance",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 42,
+        "move": "pollenpuff",
+        "name": "Pollen Puff",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 52,
+        "move": "hurricane",
+        "name": "Hurricane",
+        "type": "flying",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "acrobatics",
+        "name": "Acrobatics",
+        "type": "flying",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "move": "airslash",
+        "name": "Air Slash",
+        "type": "flying",
+        "category": "special",
+        "power": 75,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "attract",
+        "name": "Attract",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bugbuzz",
+        "name": "Bug Buzz",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "infestation",
+        "name": "Infestation",
+        "type": "bug",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "silverwind",
+        "name": "Silver Wind",
+        "type": "bug",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarbeam",
+        "name": "Solar Beam",
+        "type": "grass",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "strugglebug",
+        "name": "Struggle Bug",
+        "type": "bug",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "tailwind",
+        "name": "Tailwind",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "twister",
+        "name": "Twister",
+        "type": "dragon",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "uturn",
+        "name": "U-turn",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "venoshock",
+        "name": "Venoshock",
+        "type": "poison",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "fly",
+        "name": "Fly",
+        "type": "flying",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 95,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "psychic",
+        "name": "Psychic",
+        "type": "psychic",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "shadowball",
+        "name": "Shadow Ball",
+        "type": "ghost",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "signalbeam",
+        "name": "Signal Beam",
+        "type": "bug",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "tailwind",
+        "name": "Tailwind",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "twister",
+        "name": "Twister",
+        "type": "dragon",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "egg": [],
+    "evolution": []
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/beautifly/art.png"
+  }
+}

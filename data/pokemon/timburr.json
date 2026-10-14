@@ -1,0 +1,896 @@
+{
+  "dex": 294,
+  "slug": "timburr",
+  "national": 532,
+  "name": "Timburr",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "id": "guts",
+      "hidden": false,
+      "name": "Guts",
+      "desc": "It's so gutsy that having a status condition boosts the Pok\u00e9mon's Attack stat."
+    },
+    {
+      "id": "sheerforce",
+      "hidden": false,
+      "name": "Sheer Force",
+      "desc": "Removes any additional effects from the Pok\u00e9mon's moves, but increases the moves' power."
+    },
+    {
+      "id": "ironfist",
+      "hidden": true,
+      "name": "Iron Fist",
+      "desc": "Powers up punching moves."
+    }
+  ],
+  "height": 6,
+  "weight": 125,
+  "catchRate": 180,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.75,
+  "eggCycles": 20,
+  "eggGroups": [
+    "human_like"
+  ],
+  "evYield": {
+    "attack": 1,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 75,
+    "attack": 80,
+    "defence": 55,
+    "special_attack": 25,
+    "special_defence": 35,
+    "speed": 35
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "gurdurr",
+      "condition": "Level 25"
+    }
+  ],
+  "flavor": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "bide",
+        "name": "Bide",
+        "type": "normal",
+        "category": "physical",
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "leer",
+        "name": "Leer",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "pound",
+        "name": "Pound",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 4,
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 8,
+        "move": "rockthrow",
+        "name": "Rock Throw",
+        "type": "rock",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 15
+      },
+      {
+        "level": 12,
+        "move": "focusenergy",
+        "name": "Focus Energy",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 16,
+        "move": "bulkup",
+        "name": "Bulk Up",
+        "type": "fighting",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 20,
+        "move": "wakeupslap",
+        "name": "Wake-Up Slap",
+        "type": "fighting",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 24,
+        "move": "chipaway",
+        "name": "Chip Away",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 28,
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 32,
+        "move": "dynamicpunch",
+        "name": "Dynamic Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 50,
+        "pp": 5
+      },
+      {
+        "level": 36,
+        "move": "hammerarm",
+        "name": "Hammer Arm",
+        "type": "fighting",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 40,
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "level": 44,
+        "move": "superpower",
+        "name": "Superpower",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 48,
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tm": [
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brutalswing",
+        "name": "Brutal Swing",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bulkup",
+        "name": "Bulk Up",
+        "type": "fighting",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "closecombat",
+        "name": "Close Combat",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "coaching",
+        "name": "Coaching",
+        "type": "fighting",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "doubleedge",
+        "name": "Double-Edge",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "focusblast",
+        "name": "Focus Blast",
+        "type": "fighting",
+        "category": "special",
+        "power": 120,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "focusenergy",
+        "name": "Focus Energy",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "lowsweep",
+        "name": "Low Sweep",
+        "type": "fighting",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "megakick",
+        "name": "Mega Kick",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 75,
+        "pp": 5
+      },
+      {
+        "move": "megapunch",
+        "name": "Mega Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poweruppunch",
+        "name": "Power-Up Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "retaliate",
+        "name": "Retaliate",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "revenge",
+        "name": "Revenge",
+        "type": "fighting",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "reversal",
+        "name": "Reversal",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "smackdown",
+        "name": "Smack Down",
+        "type": "rock",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "strength",
+        "name": "Strength",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "superpower",
+        "name": "Superpower",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "workup",
+        "name": "Work Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      }
+    ],
+    "tutor": [
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "bulkup",
+        "name": "Bulk Up",
+        "type": "fighting",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "coaching",
+        "name": "Coaching",
+        "type": "fighting",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "focusenergy",
+        "name": "Focus Energy",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "superpower",
+        "name": "Superpower",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "cometpunch",
+        "name": "Comet Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 18,
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "counter",
+        "name": "Counter",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "detect",
+        "name": "Detect",
+        "type": "fighting",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "forcepalm",
+        "name": "Force Palm",
+        "type": "fighting",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "foresight",
+        "name": "Foresight",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "machpunch",
+        "name": "Mach Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "slam",
+        "name": "Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 75,
+        "pp": 20
+      },
+      {
+        "move": "smellingsalts",
+        "name": "Smelling Salts",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wideguard",
+        "name": "Wide Guard",
+        "type": "rock",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "evolution": []
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/timburr/art.png"
+  }
+}

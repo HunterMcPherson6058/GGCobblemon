@@ -1,0 +1,725 @@
+{
+  "dex": 56,
+  "slug": "tandemaus",
+  "national": 924,
+  "name": "Tandemaus",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "id": "runaway",
+      "hidden": false,
+      "name": "Run Away",
+      "desc": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    {
+      "id": "pickup",
+      "hidden": false,
+      "name": "Pickup",
+      "desc": "The Pok\u00e9mon may pick up an item another Pok\u00e9mon used during a battle. It may pick up items outside of battle, too."
+    },
+    {
+      "id": "owntempo",
+      "hidden": true,
+      "name": "Own Tempo",
+      "desc": "The Pok\u00e9mon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate."
+    }
+  ],
+  "height": 3,
+  "weight": 18,
+  "catchRate": 150,
+  "baseExp": 61,
+  "baseFriendship": 50,
+  "growthRate": "fast",
+  "genderRatio": -1,
+  "eggCycles": 10,
+  "eggGroups": [
+    "field",
+    "fairy"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "stats": {
+    "hp": 50,
+    "attack": 50,
+    "defence": 45,
+    "special_attack": 40,
+    "special_defence": 45,
+    "speed": 75
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "maushold",
+      "condition": "Level 25"
+    }
+  ],
+  "flavor": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "pound",
+        "name": "Pound",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 5,
+        "move": "echoedvoice",
+        "name": "Echoed Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 8,
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 11,
+        "move": "superfang",
+        "name": "Super Fang",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 14,
+        "move": "doublehit",
+        "name": "Double Hit",
+        "type": "normal",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 18,
+        "move": "bulletseed",
+        "name": "Bullet Seed",
+        "type": "grass",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 22,
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 26,
+        "move": "playrough",
+        "name": "Play Rough",
+        "type": "fairy",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 30,
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 33,
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 37,
+        "move": "beatup",
+        "name": "Beat Up",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 41,
+        "move": "copycat",
+        "name": "Copycat",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 46,
+        "move": "populationbomb",
+        "name": "Population Bomb",
+        "type": "normal",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 90,
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "batonpass",
+        "name": "Baton Pass",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "beatup",
+        "name": "Beat Up",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "bulletseed",
+        "name": "Bullet Seed",
+        "type": "grass",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "crunch",
+        "name": "Crunch",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "doubleedge",
+        "name": "Double-Edge",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "echoedvoice",
+        "name": "Echoed Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "faketears",
+        "name": "Fake Tears",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "lowsweep",
+        "name": "Low Sweep",
+        "type": "fighting",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "mudshot",
+        "name": "Mud Shot",
+        "type": "ground",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "playrough",
+        "name": "Play Rough",
+        "type": "fairy",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "superfang",
+        "name": "Super Fang",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "uturn",
+        "name": "U-turn",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "babydolleyes",
+        "name": "Baby-Doll Eyes",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "playrough",
+        "name": "Play Rough",
+        "type": "fairy",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "shadowclaw",
+        "name": "Shadow Claw",
+        "type": "ghost",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "superfang",
+        "name": "Super Fang",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "egg": [
+      {
+        "move": "afteryou",
+        "name": "After You",
+        "type": "normal",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "batonpass",
+        "name": "Baton Pass",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "bite",
+        "name": "Bite",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "feint",
+        "name": "Feint",
+        "type": "normal",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "switcheroo",
+        "name": "Switcheroo",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "tickle",
+        "name": "Tickle",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "evolution": [],
+    "special": [
+      {
+        "move": "celebrate",
+        "name": "Celebrate",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/tandemaus/art.png"
+  }
+}

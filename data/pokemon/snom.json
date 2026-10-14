@@ -1,0 +1,289 @@
+{
+  "dex": 112,
+  "slug": "snom",
+  "national": 872,
+  "name": "Snom",
+  "types": [
+    "ice",
+    "bug"
+  ],
+  "abilities": [
+    {
+      "id": "shielddust",
+      "hidden": false,
+      "name": "Shield Dust",
+      "desc": "Protective dust shields the Pok\u00e9mon from the additional effects of moves."
+    },
+    {
+      "id": "icescales",
+      "hidden": true,
+      "name": "Ice Scales",
+      "desc": "The Pok\u00e9mon is protected by ice scales, which halve the damage taken from special moves."
+    }
+  ],
+  "height": 3,
+  "weight": 38,
+  "catchRate": 190,
+  "baseExp": 37,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 1,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 40,
+    "attack": 40,
+    "defence": 56,
+    "special_attack": 75,
+    "special_defence": 70,
+    "speed": 19
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "frosmoth",
+      "condition": "High friendship, Night"
+    }
+  ],
+  "flavor": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "powdersnow",
+        "name": "Powder Snow",
+        "type": "ice",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "strugglebug",
+        "name": "Struggle Bug",
+        "type": "bug",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tm": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bugbuzz",
+        "name": "Bug Buzz",
+        "type": "bug",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "iciclespear",
+        "name": "Icicle Spear",
+        "type": "ice",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "lunge",
+        "name": "Lunge",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "pounce",
+        "name": "Pounce",
+        "type": "bug",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "strugglebug",
+        "name": "Struggle Bug",
+        "type": "bug",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "fairywind",
+        "name": "Fairy Wind",
+        "type": "fairy",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "mirrorcoat",
+        "name": "Mirror Coat",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "evolution": [
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/snom/art.png"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "dex": 38,
+  "slug": "kakuna",
+  "national": 14,
+  "name": "Kakuna",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "id": "shedskin",
+      "hidden": false,
+      "name": "Shed Skin",
+      "desc": "The Pok\u00e9mon may cure its own status conditions by shedding its skin."
+    },
+    {
+      "id": "overcoat",
+      "hidden": false,
+      "name": "Overcoat",
+      "desc": "The Pok\u00e9mon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+    },
+    {
+      "id": "poisonpoint",
+      "hidden": false,
+      "name": "Poison Point",
+      "desc": "Contact with the Pok\u00e9mon may poison the attacker."
+    }
+  ],
+  "height": 6,
+  "weight": 100,
+  "catchRate": 120,
+  "baseExp": 72,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 2,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 45,
+    "attack": 25,
+    "defence": 50,
+    "special_attack": 25,
+    "special_defence": 25,
+    "speed": 35
+  },
+  "preEvolution": "weedle",
+  "evolutions": [
+    {
+      "to": "beedrill",
+      "condition": "Level 10"
+    }
+  ],
+  "flavor": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "harden",
+        "name": "Harden",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "poisonsting",
+        "name": "Poison Sting",
+        "type": "poison",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 100,
+        "pp": 35
+      }
+    ],
+    "tm": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "infestation",
+        "name": "Infestation",
+        "type": "bug",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      }
+    ],
+    "egg": [],
+    "evolution": [
+      {
+        "move": "twineedle",
+        "name": "Twineedle",
+        "type": "bug",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "furyattack",
+        "name": "Fury Attack",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 85,
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/kakuna/art.png"
+  }
+}

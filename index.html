@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cobblemon Eternal Platinum Pokédex</title>
+  <meta name="description" content="Pokédex for the Cobblemon Eternal Platinum modpack — stats, moves, evolutions and Mega forms.">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    // Apply saved theme before first paint to avoid a flash
+    document.documentElement.dataset.theme =
+      localStorage.getItem("pokedex-theme") ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="site-title" href="#/">Cobblemon Eternal Platinum</a>
+      <nav class="site-nav" id="site-nav">
+        <a href="#/" data-nav="pokedex">Pokédex</a>
+        <a href="#/battle-changes" data-nav="battle">Battle changes</a>
+      </nav>
+      <div class="search-box">
+        <input id="search" type="search" placeholder="Search Pokémon or abilities…" autocomplete="off" spellcheck="false">
+        <div id="search-results" class="search-results" hidden></div>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <main id="app" class="wrap">
+    <noscript><p class="error">This Pokédex needs JavaScript enabled to display Pokémon data.</p></noscript>
+    <p class="error" id="load-error" hidden></p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Data from the Grunion Games modpack. Fan-made project; Pokémon © Nintendo / Creatures Inc. / GAME FREAK inc.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1032 @@
+{
+  "dex": 122,
+  "slug": "snover",
+  "national": 459,
+  "name": "Snover",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "id": "snowwarning",
+      "hidden": false,
+      "name": "Snow Warning",
+      "desc": "The Pok\u00e9mon makes it snow when it enters a battle."
+    },
+    {
+      "id": "soundproof",
+      "hidden": true,
+      "name": "Soundproof",
+      "desc": "Soundproofing gives the Pok\u00e9mon full immunity to all sound-based moves."
+    }
+  ],
+  "height": 10,
+  "weight": 505,
+  "catchRate": 120,
+  "baseExp": 67,
+  "baseFriendship": 50,
+  "growthRate": "slow",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "monster",
+    "grass"
+  ],
+  "evYield": {
+    "attack": 1,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 60,
+    "attack": 62,
+    "defence": 50,
+    "special_attack": 62,
+    "special_defence": 60,
+    "speed": 40
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "abomasnow",
+      "condition": "Level 40"
+    }
+  ],
+  "flavor": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "grasswhistle",
+        "name": "Grass Whistle",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 55,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "leer",
+        "name": "Leer",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "powdersnow",
+        "name": "Powder Snow",
+        "type": "ice",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 5,
+        "move": "leafage",
+        "name": "Leafage",
+        "type": "grass",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 10,
+        "move": "mist",
+        "name": "Mist",
+        "type": "ice",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 15,
+        "move": "iceshard",
+        "name": "Ice Shard",
+        "type": "ice",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 20,
+        "move": "razorleaf",
+        "name": "Razor Leaf",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "level": 25,
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "level": 30,
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "level": 35,
+        "move": "ingrain",
+        "name": "Ingrain",
+        "type": "grass",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 41,
+        "move": "woodhammer",
+        "name": "Wood Hammer",
+        "type": "grass",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 45,
+        "move": "blizzard",
+        "name": "Blizzard",
+        "type": "ice",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "level": 50,
+        "move": "sheercold",
+        "name": "Sheer Cold",
+        "type": "ice",
+        "category": "special",
+        "accuracy": 30,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "avalanche",
+        "name": "Avalanche",
+        "type": "ice",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "blizzard",
+        "name": "Blizzard",
+        "type": "ice",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bulletseed",
+        "name": "Bullet Seed",
+        "type": "grass",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "chillingwater",
+        "name": "Chilling Water",
+        "type": "water",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "doubleedge",
+        "name": "Double-Edge",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "frostbreath",
+        "name": "Frost Breath",
+        "type": "ice",
+        "category": "special",
+        "power": 60,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "hail",
+        "name": "Hail",
+        "type": "ice",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "icebeam",
+        "name": "Ice Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icespinner",
+        "name": "Ice Spinner",
+        "type": "ice",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "iciclespear",
+        "name": "Icicle Spear",
+        "type": "ice",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "leafstorm",
+        "name": "Leaf Storm",
+        "type": "grass",
+        "category": "special",
+        "power": 130,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "megapunch",
+        "name": "Mega Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roleplay",
+        "name": "Role Play",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "snowscape",
+        "name": "Snowscape",
+        "type": "ice",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarbeam",
+        "name": "Solar Beam",
+        "type": "grass",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "liquidation",
+        "name": "Liquidation",
+        "type": "water",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "auroraveil",
+        "name": "Aurora Veil",
+        "type": "ice",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "bodypress",
+        "name": "Body Press",
+        "type": "fighting",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "earthpower",
+        "name": "Earth Power",
+        "type": "ground",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "earthquake",
+        "name": "Earthquake",
+        "type": "ground",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "focusblast",
+        "name": "Focus Blast",
+        "type": "fighting",
+        "category": "special",
+        "power": 120,
+        "accuracy": 70,
+        "pp": 5
+      },
+      {
+        "move": "focuspunch",
+        "name": "Focus Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hardpress",
+        "name": "Hard Press",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "lowkick",
+        "name": "Low Kick",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "megakick",
+        "name": "Mega Kick",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 75,
+        "pp": 5
+      },
+      {
+        "move": "outrage",
+        "name": "Outrage",
+        "type": "dragon",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rockclimb",
+        "name": "Rock Climb",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocksmash",
+        "name": "Rock Smash",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "stompingtantrum",
+        "name": "Stomping Tantrum",
+        "type": "ground",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "strength",
+        "name": "Strength",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "icebeam",
+        "name": "Ice Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "icywind",
+        "name": "Icy Wind",
+        "type": "ice",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roleplay",
+        "name": "Role Play",
+        "type": "psychic",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "waterpulse",
+        "name": "Water Pulse",
+        "type": "water",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "doubleedge",
+        "name": "Double-Edge",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "growth",
+        "name": "Growth",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "leechseed",
+        "name": "Leech Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "naturalgift",
+        "name": "Natural Gift",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skullbash",
+        "name": "Skull Bash",
+        "type": "normal",
+        "category": "physical",
+        "power": 130,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "stomp",
+        "name": "Stomp",
+        "type": "normal",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "aurorabeam",
+        "name": "Aurora Beam",
+        "type": "ice",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "superpower",
+        "name": "Superpower",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "icehammer",
+        "name": "Ice Hammer",
+        "type": "ice",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 90,
+        "pp": 10
+      }
+    ],
+    "evolution": [
+      {
+        "move": "icepunch",
+        "name": "Ice Punch",
+        "type": "ice",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/snover/art.png"
+  }
+}

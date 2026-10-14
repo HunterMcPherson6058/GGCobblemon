@@ -1,0 +1,812 @@
+{
+  "dex": 73,
+  "slug": "bellsprout",
+  "national": 69,
+  "name": "Bellsprout",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "id": "chlorophyll",
+      "hidden": false,
+      "name": "Chlorophyll",
+      "desc": "Boosts the Pok\u00e9mon's Speed stat in harsh sunlight."
+    },
+    {
+      "id": "runaway",
+      "hidden": false,
+      "name": "Run Away",
+      "desc": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    {
+      "id": "gluttony",
+      "hidden": true,
+      "name": "Gluttony",
+      "desc": "If the Pok\u00e9mon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less."
+    }
+  ],
+  "height": 7,
+  "weight": 40,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "grass"
+  ],
+  "evYield": {
+    "attack": 1,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 50,
+    "attack": 75,
+    "defence": 35,
+    "special_attack": 70,
+    "special_defence": 30,
+    "speed": 40
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "weepinbell",
+      "condition": "Level 21"
+    }
+  ],
+  "flavor": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pok\u00e9mon spits a corrosive fluid that melts even iron.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "vinewhip",
+        "name": "Vine Whip",
+        "type": "grass",
+        "category": "physical",
+        "power": 45,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "level": 7,
+        "move": "growth",
+        "name": "Growth",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 11,
+        "move": "wrap",
+        "name": "Wrap",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "level": 13,
+        "move": "sleeppowder",
+        "name": "Sleep Powder",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "level": 15,
+        "move": "poisonpowder",
+        "name": "Poison Powder",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 75,
+        "pp": 35
+      },
+      {
+        "level": 17,
+        "move": "stunspore",
+        "name": "Stun Spore",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 75,
+        "pp": 30
+      },
+      {
+        "level": 23,
+        "move": "acid",
+        "name": "Acid",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 27,
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 29,
+        "move": "sweetscent",
+        "name": "Sweet Scent",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 35,
+        "move": "gastroacid",
+        "name": "Gastro Acid",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 39,
+        "move": "razorleaf",
+        "name": "Razor Leaf",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "level": 41,
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 47,
+        "move": "slam",
+        "name": "Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 75,
+        "pp": 20
+      },
+      {
+        "level": 52,
+        "move": "powerwhip",
+        "name": "Power Whip",
+        "type": "grass",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 85,
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "acidspray",
+        "name": "Acid Spray",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "bind",
+        "name": "Bind",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "bulletseed",
+        "name": "Bullet Seed",
+        "type": "grass",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "cut",
+        "name": "Cut",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 30
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flash",
+        "name": "Flash",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "gastroacid",
+        "name": "Gastro Acid",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "grassknot",
+        "name": "Grass Knot",
+        "type": "grass",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "grassyterrain",
+        "name": "Grassy Terrain",
+        "type": "grass",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "infestation",
+        "name": "Infestation",
+        "type": "bug",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "leafstorm",
+        "name": "Leaf Storm",
+        "type": "grass",
+        "category": "special",
+        "power": 130,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "leechlife",
+        "name": "Leech Life",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "lunge",
+        "name": "Lunge",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "naturepower",
+        "name": "Nature Power",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "pounce",
+        "name": "Pounce",
+        "type": "bug",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "powerwhip",
+        "name": "Power Whip",
+        "type": "grass",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 85,
+        "pp": 10
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "sludgewave",
+        "name": "Sludge Wave",
+        "type": "poison",
+        "category": "special",
+        "power": 95,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "solarbeam",
+        "name": "Solar Beam",
+        "type": "grass",
+        "category": "special",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "venoshock",
+        "name": "Venoshock",
+        "type": "poison",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "weatherball",
+        "name": "Weather Ball",
+        "type": "normal",
+        "category": "special",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "toxicspikes",
+        "name": "Toxic Spikes",
+        "type": "poison",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bind",
+        "name": "Bind",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "energyball",
+        "name": "Energy Ball",
+        "type": "grass",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gastroacid",
+        "name": "Gastro Acid",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigadrain",
+        "name": "Giga Drain",
+        "type": "grass",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "grassyglide",
+        "name": "Grassy Glide",
+        "type": "grass",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "leechlife",
+        "name": "Leech Life",
+        "type": "bug",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "magicalleaf",
+        "name": "Magical Leaf",
+        "type": "grass",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "seedbomb",
+        "name": "Seed Bomb",
+        "type": "grass",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "belch",
+        "name": "Belch",
+        "type": "poison",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "clearsmog",
+        "name": "Clear Smog",
+        "type": "poison",
+        "category": "special",
+        "power": 50,
+        "pp": 15
+      },
+      {
+        "move": "ingrain",
+        "name": "Ingrain",
+        "type": "grass",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "naturalgift",
+        "name": "Natural Gift",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "strengthsap",
+        "name": "Strength Sap",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "suckerpunch",
+        "name": "Sucker Punch",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "synthesis",
+        "name": "Synthesis",
+        "type": "grass",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "tickle",
+        "name": "Tickle",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "worryseed",
+        "name": "Worry Seed",
+        "type": "grass",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wringout",
+        "name": "Wring Out",
+        "type": "normal",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 5
+      }
+    ],
+    "evolution": [],
+    "special": [
+      {
+        "move": "teeterdance",
+        "name": "Teeter Dance",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/bellsprout/art.png"
+  }
+}

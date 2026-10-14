@@ -1,0 +1,236 @@
+{
+  "dex": 186,
+  "slug": "wobbuffet",
+  "national": 202,
+  "name": "Wobbuffet",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "id": "shadowtag",
+      "hidden": false,
+      "name": "Shadow Tag",
+      "desc": "The Pok\u00e9mon steps on the opposing Pok\u00e9mon's shadows to prevent them from fleeing or switching out."
+    },
+    {
+      "id": "telepathy",
+      "hidden": false,
+      "name": "Telepathy",
+      "desc": "The Pok\u00e9mon anticipates and dodges the attacks of its allies."
+    },
+    {
+      "id": "magicguard",
+      "hidden": true,
+      "name": "Magic Guard",
+      "desc": "The Pok\u00e9mon only takes damage from attacks."
+    }
+  ],
+  "height": 13,
+  "weight": 285,
+  "catchRate": 45,
+  "baseExp": 142,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "amorphous"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 2,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 197,
+    "attack": 33,
+    "defence": 78,
+    "special_attack": 33,
+    "special_defence": 78,
+    "speed": 33
+  },
+  "preEvolution": "wynaut",
+  "evolutions": [],
+  "flavor": "Wobbuffet does nothing but endure attacks\u2014it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pok\u00e9mon will try to take the foe with it using Destiny Bond.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "amnesia",
+        "name": "Amnesia",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "comeuppance",
+        "name": "Comeuppance",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "counter",
+        "name": "Counter",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "mirrorcoat",
+        "name": "Mirror Coat",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "splash",
+        "name": "Splash",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "teleport",
+        "name": "Teleport",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "tm": [
+      {
+        "move": "amnesia",
+        "name": "Amnesia",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "confide",
+        "name": "Confide",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "flatter",
+        "name": "Flatter",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "painsplit",
+        "name": "Pain Split",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "egg": [],
+    "evolution": [],
+    "special": [
+      {
+        "move": "tickle",
+        "name": "Tickle",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/wobbuffet/art.png"
+  }
+}

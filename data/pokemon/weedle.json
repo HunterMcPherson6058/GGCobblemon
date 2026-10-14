@@ -1,0 +1,195 @@
+{
+  "dex": 37,
+  "slug": "weedle",
+  "national": 13,
+  "name": "Weedle",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "id": "shielddust",
+      "hidden": false,
+      "name": "Shield Dust",
+      "desc": "Protective dust shields the Pok\u00e9mon from the additional effects of moves."
+    },
+    {
+      "id": "runaway",
+      "hidden": false,
+      "name": "Run Away",
+      "desc": "Enables a sure getaway from wild Pok\u00e9mon."
+    },
+    {
+      "id": "technician",
+      "hidden": true,
+      "name": "Technician",
+      "desc": "Powers up weak moves so the Pok\u00e9mon can deal more damage with them."
+    }
+  ],
+  "height": 3,
+  "weight": 32,
+  "catchRate": 255,
+  "baseExp": 39,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "stats": {
+    "hp": 40,
+    "attack": 35,
+    "defence": 30,
+    "special_attack": 20,
+    "special_defence": 20,
+    "speed": 50
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "kakuna",
+      "condition": "Level 7"
+    }
+  ],
+  "flavor": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "poisonsting",
+        "name": "Poison Sting",
+        "type": "poison",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "level": 9,
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tm": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "skittersmack",
+        "name": "Skitter Smack",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      }
+    ],
+    "egg": [],
+    "evolution": [
+      {
+        "move": "harden",
+        "name": "Harden",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/weedle/art.png"
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "dex": 202,
+  "slug": "carkol",
+  "national": 838,
+  "name": "Carkol",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "id": "steamengine",
+      "hidden": false,
+      "name": "Steam Engine",
+      "desc": "Boosts the Speed stat drastically when the Pok\u00e9mon is hit by a Fire- or Water-type move."
+    },
+    {
+      "id": "flamebody",
+      "hidden": false,
+      "name": "Flame Body",
+      "desc": "Contact with the Pok\u00e9mon may burn the attacker."
+    },
+    {
+      "id": "flashfire",
+      "hidden": true,
+      "name": "Flash Fire",
+      "desc": "If hit by a Fire-type move, the Pok\u00e9mon absorbs the flames and uses them to power up its own Fire-type moves."
+    }
+  ],
+  "height": 11,
+  "weight": 780,
+  "catchRate": 120,
+  "baseExp": 144,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "mineral"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 2,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 80,
+    "attack": 60,
+    "defence": 90,
+    "special_attack": 60,
+    "special_defence": 70,
+    "speed": 50
+  },
+  "preEvolution": "rolycoly",
+  "evolutions": [
+    {
+      "to": "coalossal",
+      "condition": "Level 34"
+    }
+  ],
+  "flavor": "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "burnup",
+        "name": "Burn Up",
+        "type": "fire",
+        "category": "special",
+        "power": 130,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "flamecharge",
+        "name": "Flame Charge",
+        "type": "fire",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "rapidspin",
+        "name": "Rapid Spin",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "smackdown",
+        "name": "Smack Down",
+        "type": "rock",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "smokescreen",
+        "name": "Smokescreen",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 15,
+        "move": "rockpolish",
+        "name": "Rock Polish",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 20,
+        "move": "ancientpower",
+        "name": "Ancient Power",
+        "type": "rock",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 27,
+        "move": "incinerate",
+        "name": "Incinerate",
+        "type": "fire",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 35,
+        "move": "stealthrock",
+        "name": "Stealth Rock",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 41,
+        "move": "heatcrash",
+        "name": "Heat Crash",
+        "type": "fire",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 48,
+        "move": "rockblast",
+        "name": "Rock Blast",
+        "type": "rock",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 55,
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "ancientpower",
+        "name": "Ancient Power",
+        "type": "rock",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "bodypress",
+        "name": "Body Press",
+        "type": "fighting",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "dig",
+        "name": "Dig",
+        "type": "ground",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "explosion",
+        "name": "Explosion",
+        "type": "normal",
+        "category": "physical",
+        "power": 250,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "fireblast",
+        "name": "Fire Blast",
+        "type": "fire",
+        "category": "special",
+        "power": 110,
+        "accuracy": 85,
+        "pp": 5
+      },
+      {
+        "move": "firespin",
+        "name": "Fire Spin",
+        "type": "fire",
+        "category": "special",
+        "power": 35,
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "flamecharge",
+        "name": "Flame Charge",
+        "type": "fire",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flamethrower",
+        "name": "Flamethrower",
+        "type": "fire",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "flareblitz",
+        "name": "Flare Blitz",
+        "type": "fire",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "gyroball",
+        "name": "Gyro Ball",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "heatcrash",
+        "name": "Heat Crash",
+        "type": "fire",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "heatwave",
+        "name": "Heat Wave",
+        "type": "fire",
+        "category": "special",
+        "power": 95,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "heavyslam",
+        "name": "Heavy Slam",
+        "type": "steel",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "incinerate",
+        "name": "Incinerate",
+        "type": "fire",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ironhead",
+        "name": "Iron Head",
+        "type": "steel",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "meteorbeam",
+        "name": "Meteor Beam",
+        "type": "rock",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "overheat",
+        "name": "Overheat",
+        "type": "fire",
+        "category": "special",
+        "power": 130,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "powergem",
+        "name": "Power Gem",
+        "type": "rock",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "reflect",
+        "name": "Reflect",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockblast",
+        "name": "Rock Blast",
+        "type": "rock",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rockpolish",
+        "name": "Rock Polish",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "rocktomb",
+        "name": "Rock Tomb",
+        "type": "rock",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "sandstorm",
+        "name": "Sandstorm",
+        "type": "rock",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sandtomb",
+        "name": "Sand Tomb",
+        "type": "ground",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "scald",
+        "name": "Scald",
+        "type": "water",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "scorchingsands",
+        "name": "Scorching Sands",
+        "type": "ground",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "selfdestruct",
+        "name": "Self-Destruct",
+        "type": "normal",
+        "category": "physical",
+        "power": 200,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "smackdown",
+        "name": "Smack Down",
+        "type": "rock",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "spikes",
+        "name": "Spikes",
+        "type": "ground",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "stealthrock",
+        "name": "Stealth Rock",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "temperflare",
+        "name": "Temper Flare",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "willowisp",
+        "name": "Will-O-Wisp",
+        "type": "fire",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "ancientpower",
+        "name": "Ancient Power",
+        "type": "rock",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "bulldoze",
+        "name": "Bulldoze",
+        "type": "ground",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flamethrower",
+        "name": "Flamethrower",
+        "type": "fire",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "heatwave",
+        "name": "Heat Wave",
+        "type": "fire",
+        "category": "special",
+        "power": 95,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "irondefense",
+        "name": "Iron Defense",
+        "type": "steel",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "ironhead",
+        "name": "Iron Head",
+        "type": "steel",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "meteorbeam",
+        "name": "Meteor Beam",
+        "type": "rock",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "scorchingsands",
+        "name": "Scorching Sands",
+        "type": "ground",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "spikes",
+        "name": "Spikes",
+        "type": "ground",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "stealthrock",
+        "name": "Stealth Rock",
+        "type": "rock",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      }
+    ],
+    "egg": [
+      {
+        "move": "block",
+        "name": "Block",
+        "type": "normal",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "explosion",
+        "name": "Explosion",
+        "type": "normal",
+        "category": "physical",
+        "power": 250,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "evolution": [
+      {
+        "move": "tarshot",
+        "name": "Tar Shot",
+        "type": "rock",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/carkol/art.png"
+  }
+}

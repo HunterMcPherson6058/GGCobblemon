@@ -1,0 +1,217 @@
+{
+  "dex": 126,
+  "slug": "burmy",
+  "national": 412,
+  "name": "Burmy",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "id": "shedskin",
+      "hidden": false,
+      "name": "Shed Skin",
+      "desc": "The Pok\u00e9mon may cure its own status conditions by shedding its skin."
+    },
+    {
+      "id": "overcoat",
+      "hidden": true,
+      "name": "Overcoat",
+      "desc": "The Pok\u00e9mon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+    }
+  ],
+  "height": 2,
+  "weight": 34,
+  "catchRate": 120,
+  "baseExp": 45,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 1,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 40,
+    "attack": 29,
+    "defence": 45,
+    "special_attack": 29,
+    "special_defence": 45,
+    "speed": 36
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "wormadam",
+      "condition": "Level 20"
+    },
+    {
+      "to": "mothim",
+      "condition": "Level 20"
+    }
+  ],
+  "flavor": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+  "moves": {
+    "level": [
+      {
+        "level": 10,
+        "move": "pinmissile",
+        "name": "Pin Missile",
+        "type": "bug",
+        "category": "physical",
+        "power": 25,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "level": 10,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 15,
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 20,
+        "move": "psywave",
+        "name": "Psywave",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 20,
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      }
+    ],
+    "tm": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "uturn",
+        "name": "U-turn",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "bugbite",
+        "name": "Bug Bite",
+        "type": "bug",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "stringshot",
+        "name": "String Shot",
+        "type": "bug",
+        "category": "status",
+        "accuracy": 95,
+        "pp": 40
+      }
+    ],
+    "egg": [
+      {
+        "move": "stickyweb",
+        "name": "Sticky Web",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      }
+    ],
+    "evolution": [
+      {
+        "move": "quiverdance",
+        "name": "Quiver Dance",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "quiverdance",
+        "name": "Quiver Dance",
+        "type": "bug",
+        "category": "status",
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/burmy/art.png"
+  }
+}

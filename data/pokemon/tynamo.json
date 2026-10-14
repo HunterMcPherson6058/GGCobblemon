@@ -1,0 +1,223 @@
+{
+  "dex": 276,
+  "slug": "tynamo",
+  "national": 602,
+  "name": "Tynamo",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "id": "levitate",
+      "hidden": false,
+      "name": "Levitate",
+      "desc": "By floating in the air, the Pok\u00e9mon receives full immunity to all Ground-type moves."
+    },
+    {
+      "id": "static",
+      "hidden": false,
+      "name": "Static",
+      "desc": "The Pok\u00e9mon is charged with static electricity and may paralyze attackers that make direct contact with it."
+    }
+  ],
+  "height": 2,
+  "weight": 3,
+  "catchRate": 190,
+  "baseExp": 55,
+  "baseFriendship": 50,
+  "growthRate": "slow",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "amorphous"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "stats": {
+    "hp": 35,
+    "attack": 55,
+    "defence": 40,
+    "special_attack": 45,
+    "special_defence": 40,
+    "speed": 60
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "eelektrik",
+      "condition": "Level 39"
+    }
+  ],
+  "flavor": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "spark",
+        "name": "Spark",
+        "type": "electric",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "tackle",
+        "name": "Tackle",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "level": 60,
+        "move": "electroshot",
+        "name": "Electro Shot",
+        "type": "electric",
+        "category": "special",
+        "power": 130,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magnetrise",
+        "name": "Magnet Rise",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "magnetrise",
+        "name": "Magnet Rise",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "egg": [],
+    "evolution": [
+      {
+        "move": "crunch",
+        "name": "Crunch",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/tynamo/art.png"
+  }
+}

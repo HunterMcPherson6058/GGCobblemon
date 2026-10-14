@@ -1,0 +1,59 @@
+{
+  "dex": 192,
+  "slug": "tomledger",
+  "national": 9402,
+  "name": "Tomledger",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "id": "analytic",
+      "hidden": false,
+      "name": "Analytic",
+      "desc": "Boosts the power of the Pok\u00e9mon's move if it is the last to act that turn."
+    }
+  ],
+  "height": 10,
+  "weight": 100,
+  "catchRate": 100,
+  "baseExp": 100,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "evYield": {
+    "hp": 0,
+    "attack": 1,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 50,
+    "attack": 70,
+    "defence": 37,
+    "special_attack": 35,
+    "special_defence": 100,
+    "speed": 28
+  },
+  "preEvolution": null,
+  "evolutions": [],
+  "flavor": "A description for this Pok\u00e9mon has not been written yet.",
+  "moves": {
+    "level": [],
+    "tm": [],
+    "tutor": [],
+    "egg": [],
+    "evolution": []
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/tomledger/art.png"
+  }
+}

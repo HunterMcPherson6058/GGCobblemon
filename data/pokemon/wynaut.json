@@ -1,0 +1,216 @@
+{
+  "dex": 185,
+  "slug": "wynaut",
+  "national": 360,
+  "name": "Wynaut",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "id": "shadowtag",
+      "hidden": false,
+      "name": "Shadow Tag",
+      "desc": "The Pok\u00e9mon steps on the opposing Pok\u00e9mon's shadows to prevent them from fleeing or switching out."
+    },
+    {
+      "id": "telepathy",
+      "hidden": false,
+      "name": "Telepathy",
+      "desc": "The Pok\u00e9mon anticipates and dodges the attacks of its allies."
+    },
+    {
+      "id": "magicguard",
+      "hidden": true,
+      "name": "Magic Guard",
+      "desc": "The Pok\u00e9mon only takes damage from attacks."
+    }
+  ],
+  "height": 6,
+  "weight": 140,
+  "catchRate": 125,
+  "baseExp": 52,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "evYield": {
+    "attack": 0,
+    "defence": 0,
+    "hp": 1,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 95,
+    "attack": 23,
+    "defence": 48,
+    "special_attack": 23,
+    "special_defence": 48,
+    "speed": 23
+  },
+  "preEvolution": null,
+  "evolutions": [
+    {
+      "to": "wobbuffet",
+      "condition": "Level 15"
+    }
+  ],
+  "flavor": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pok\u00e9mon gains endurance and is trained to dole out powerful counterattacks.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "amnesia",
+        "name": "Amnesia",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "counter",
+        "name": "Counter",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "level": 1,
+        "move": "mirrorcoat",
+        "name": "Mirror Coat",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "level": 1,
+        "move": "splash",
+        "name": "Splash",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      }
+    ],
+    "tm": [
+      {
+        "move": "amnesia",
+        "name": "Amnesia",
+        "type": "psychic",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      }
+    ],
+    "tutor": [],
+    "egg": [],
+    "evolution": [
+      {
+        "move": "counter",
+        "name": "Counter",
+        "type": "fighting",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "mirrorcoat",
+        "name": "Mirror Coat",
+        "type": "psychic",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "safeguard",
+        "name": "Safeguard",
+        "type": "normal",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "move": "destinybond",
+        "name": "Destiny Bond",
+        "type": "ghost",
+        "category": "status",
+        "pp": 5
+      }
+    ],
+    "special": [
+      {
+        "move": "tickle",
+        "name": "Tickle",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      }
+    ]
+  },
+  "forms": [],
+  "images": {
+    "art": "img/pokemon/wynaut/art.png"
+  }
+}

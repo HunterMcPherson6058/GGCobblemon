@@ -1,0 +1,4078 @@
+[
+  {
+    "dex": 1,
+    "slug": "chimchar",
+    "name": "Chimchar",
+    "national": 390,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/chimchar/art.png"
+  },
+  {
+    "dex": 2,
+    "slug": "monferno",
+    "name": "Monferno",
+    "national": 391,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/monferno/art.png"
+  },
+  {
+    "dex": 3,
+    "slug": "infernape",
+    "name": "Infernape",
+    "national": 392,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/infernape/art.png"
+  },
+  {
+    "dex": 4,
+    "slug": "piplup",
+    "name": "Piplup",
+    "national": 393,
+    "types": [
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/piplup/art.png"
+  },
+  {
+    "dex": 5,
+    "slug": "prinplup",
+    "name": "Prinplup",
+    "national": 394,
+    "types": [
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/prinplup/art.png"
+  },
+  {
+    "dex": 6,
+    "slug": "empoleon",
+    "name": "Empoleon",
+    "national": 395,
+    "types": [
+      "water",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/empoleon/art.png"
+  },
+  {
+    "dex": 7,
+    "slug": "turtwig",
+    "name": "Turtwig",
+    "national": 387,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/turtwig/art.png"
+  },
+  {
+    "dex": 8,
+    "slug": "grotle",
+    "name": "Grotle",
+    "national": 388,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/grotle/art.png"
+  },
+  {
+    "dex": 9,
+    "slug": "torterra",
+    "name": "Torterra",
+    "national": 389,
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/torterra/art.png"
+  },
+  {
+    "dex": 10,
+    "slug": "starly",
+    "name": "Starly",
+    "national": 396,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/starly/art.png"
+  },
+  {
+    "dex": 11,
+    "slug": "staravia",
+    "name": "Staravia",
+    "national": 397,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/staravia/art.png"
+  },
+  {
+    "dex": 12,
+    "slug": "staraptor",
+    "name": "Staraptor",
+    "national": 398,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/staraptor/art.png"
+  },
+  {
+    "dex": 13,
+    "slug": "pidgey",
+    "name": "Pidgey",
+    "national": 16,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pidgey/art.png"
+  },
+  {
+    "dex": 14,
+    "slug": "pidgeotto",
+    "name": "Pidgeotto",
+    "national": 17,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pidgeotto/art.png"
+  },
+  {
+    "dex": 15,
+    "slug": "pidgeot",
+    "name": "Pidgeot",
+    "national": 18,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/pidgeot/art.png"
+  },
+  {
+    "dex": 16,
+    "slug": "rookidee",
+    "name": "Rookidee",
+    "national": 821,
+    "types": [
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rookidee/art.png"
+  },
+  {
+    "dex": 17,
+    "slug": "corvisquire",
+    "name": "Corvisquire",
+    "national": 822,
+    "types": [
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/corvisquire/art.png"
+  },
+  {
+    "dex": 18,
+    "slug": "corviknight",
+    "name": "Corviknight",
+    "national": 823,
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/corviknight/art.png"
+  },
+  {
+    "dex": 19,
+    "slug": "fletchling",
+    "name": "Fletchling",
+    "national": 661,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/fletchling/art.png"
+  },
+  {
+    "dex": 20,
+    "slug": "fletchinder",
+    "name": "Fletchinder",
+    "national": 662,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/fletchinder/art.png"
+  },
+  {
+    "dex": 21,
+    "slug": "talonflame",
+    "name": "Talonflame",
+    "national": 663,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/talonflame/art.png"
+  },
+  {
+    "dex": 22,
+    "slug": "quakey",
+    "name": "Quakey",
+    "national": 3013,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/quakey/art.png"
+  },
+  {
+    "dex": 23,
+    "slug": "quakia",
+    "name": "Quakia",
+    "national": 3014,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/quakia/art.png"
+  },
+  {
+    "dex": 24,
+    "slug": "quakiot",
+    "name": "Quakiot",
+    "national": 3015,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/quakiot/art.png"
+  },
+  {
+    "dex": 25,
+    "slug": "rufflet",
+    "name": "Rufflet",
+    "national": 627,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rufflet/art.png"
+  },
+  {
+    "dex": 26,
+    "slug": "braviary",
+    "name": "Braviary",
+    "national": 628,
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/braviary/art.png"
+  },
+  {
+    "dex": 27,
+    "slug": "bidoof",
+    "name": "Bidoof",
+    "national": 399,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bidoof/art.png"
+  },
+  {
+    "dex": 28,
+    "slug": "bibarel",
+    "name": "Bibarel",
+    "national": 400,
+    "types": [
+      "normal",
+      "water"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/bibarel/art.png"
+  },
+  {
+    "dex": 29,
+    "slug": "wooloo",
+    "name": "Wooloo",
+    "national": 831,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wooloo/art.png"
+  },
+  {
+    "dex": 30,
+    "slug": "dubwool",
+    "name": "Dubwool",
+    "national": 832,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/dubwool/art.png"
+  },
+  {
+    "dex": 31,
+    "slug": "pachirisu",
+    "name": "Pachirisu",
+    "national": 417,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/pachirisu/art.png"
+  },
+  {
+    "dex": 32,
+    "slug": "kricketot",
+    "name": "Kricketot",
+    "national": 401,
+    "types": [
+      "bug",
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kricketot/art.png"
+  },
+  {
+    "dex": 33,
+    "slug": "kricketune",
+    "name": "Kricketune",
+    "national": 402,
+    "types": [
+      "bug",
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/kricketune/art.png"
+  },
+  {
+    "dex": 34,
+    "slug": "caterpie",
+    "name": "Caterpie",
+    "national": 10,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/caterpie/art.png"
+  },
+  {
+    "dex": 35,
+    "slug": "metapod",
+    "name": "Metapod",
+    "national": 11,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/metapod/art.png"
+  },
+  {
+    "dex": 36,
+    "slug": "butterfree",
+    "name": "Butterfree",
+    "national": 12,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/butterfree/art.png"
+  },
+  {
+    "dex": 37,
+    "slug": "weedle",
+    "name": "Weedle",
+    "national": 13,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/weedle/art.png"
+  },
+  {
+    "dex": 38,
+    "slug": "kakuna",
+    "name": "Kakuna",
+    "national": 14,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kakuna/art.png"
+  },
+  {
+    "dex": 39,
+    "slug": "beedrill",
+    "name": "Beedrill",
+    "national": 15,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/beedrill/art.png"
+  },
+  {
+    "dex": 40,
+    "slug": "ledyba",
+    "name": "Ledyba",
+    "national": 165,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/ledyba/art.png"
+  },
+  {
+    "dex": 41,
+    "slug": "ledian",
+    "name": "Ledian",
+    "national": 166,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/ledian/art.png"
+  },
+  {
+    "dex": 42,
+    "slug": "oddish",
+    "name": "Oddish",
+    "national": 43,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/oddish/art.png"
+  },
+  {
+    "dex": 43,
+    "slug": "gloom",
+    "name": "Gloom",
+    "national": 44,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/gloom/art.png"
+  },
+  {
+    "dex": 44,
+    "slug": "vileplume",
+    "name": "Vileplume",
+    "national": 45,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/vileplume/art.png"
+  },
+  {
+    "dex": 45,
+    "slug": "bellossom",
+    "name": "Bellossom",
+    "national": 182,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bellossom/art.png"
+  },
+  {
+    "dex": 46,
+    "slug": "wurmple",
+    "name": "Wurmple",
+    "national": 265,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wurmple/art.png"
+  },
+  {
+    "dex": 47,
+    "slug": "silcoon",
+    "name": "Silcoon",
+    "national": 266,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/silcoon/art.png"
+  },
+  {
+    "dex": 48,
+    "slug": "beautifly",
+    "name": "Beautifly",
+    "national": 267,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/beautifly/art.png"
+  },
+  {
+    "dex": 49,
+    "slug": "cascoon",
+    "name": "Cascoon",
+    "national": 268,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cascoon/art.png"
+  },
+  {
+    "dex": 50,
+    "slug": "dustox",
+    "name": "Dustox",
+    "national": 269,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/dustox/art.png"
+  },
+  {
+    "dex": 51,
+    "slug": "nincada",
+    "name": "Nincada",
+    "national": 290,
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/nincada/art.png"
+  },
+  {
+    "dex": 52,
+    "slug": "ninjask",
+    "name": "Ninjask",
+    "national": 291,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/ninjask/art.png"
+  },
+  {
+    "dex": 53,
+    "slug": "shedinja",
+    "name": "Shedinja",
+    "national": 292,
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/shedinja/art.png"
+  },
+  {
+    "dex": 54,
+    "slug": "cutiefly",
+    "name": "Cutiefly",
+    "national": 742,
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cutiefly/art.png"
+  },
+  {
+    "dex": 55,
+    "slug": "ribombee",
+    "name": "Ribombee",
+    "national": 743,
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/ribombee/art.png"
+  },
+  {
+    "dex": 56,
+    "slug": "tandemaus",
+    "name": "Tandemaus",
+    "national": 924,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tandemaus/art.png"
+  },
+  {
+    "dex": 57,
+    "slug": "maushold",
+    "name": "Maushold",
+    "national": 925,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/maushold/art.png"
+  },
+  {
+    "dex": 58,
+    "slug": "sewaddle",
+    "name": "Sewaddle",
+    "national": 540,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sewaddle/art.png"
+  },
+  {
+    "dex": 59,
+    "slug": "swadloon",
+    "name": "Swadloon",
+    "national": 541,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/swadloon/art.png"
+  },
+  {
+    "dex": 60,
+    "slug": "leavanny",
+    "name": "Leavanny",
+    "national": 542,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/leavanny/art.png"
+  },
+  {
+    "dex": 61,
+    "slug": "hoothoot",
+    "name": "Hoothoot",
+    "national": 163,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hoothoot/art.png"
+  },
+  {
+    "dex": 62,
+    "slug": "noctowl",
+    "name": "Noctowl",
+    "national": 164,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/noctowl/art.png"
+  },
+  {
+    "dex": 63,
+    "slug": "murkrow",
+    "name": "Murkrow",
+    "national": 198,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/murkrow/art.png"
+  },
+  {
+    "dex": 64,
+    "slug": "honchkrow",
+    "name": "Honchkrow",
+    "national": 430,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/honchkrow/art.png"
+  },
+  {
+    "dex": 65,
+    "slug": "chatot",
+    "name": "Chatot",
+    "national": 441,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/chatot/art.png"
+  },
+  {
+    "dex": 66,
+    "slug": "wattrel",
+    "name": "Wattrel",
+    "national": 940,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wattrel/art.png"
+  },
+  {
+    "dex": 67,
+    "slug": "kilowattrel",
+    "name": "Kilowattrel",
+    "national": 941,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kilowattrel/art.png"
+  },
+  {
+    "dex": 68,
+    "slug": "spearow",
+    "name": "Spearow",
+    "national": 21,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/spearow/art.png"
+  },
+  {
+    "dex": 69,
+    "slug": "fearow",
+    "name": "Fearow",
+    "national": 22,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/fearow/art.png"
+  },
+  {
+    "dex": 70,
+    "slug": "zubat",
+    "name": "Zubat",
+    "national": 41,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/zubat/art.png"
+  },
+  {
+    "dex": 71,
+    "slug": "golbat",
+    "name": "Golbat",
+    "national": 42,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/golbat/art.png"
+  },
+  {
+    "dex": 72,
+    "slug": "crobat",
+    "name": "Crobat",
+    "national": 169,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/crobat/art.png"
+  },
+  {
+    "dex": 73,
+    "slug": "bellsprout",
+    "name": "Bellsprout",
+    "national": 69,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bellsprout/art.png"
+  },
+  {
+    "dex": 74,
+    "slug": "weepinbell",
+    "name": "Weepinbell",
+    "national": 70,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/weepinbell/art.png"
+  },
+  {
+    "dex": 75,
+    "slug": "victreebel",
+    "name": "Victreebel",
+    "national": 71,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/victreebel/art.png"
+  },
+  {
+    "dex": 76,
+    "slug": "sunkern",
+    "name": "Sunkern",
+    "national": 191,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sunkern/art.png"
+  },
+  {
+    "dex": 77,
+    "slug": "sunflora",
+    "name": "Sunflora",
+    "national": 192,
+    "types": [
+      "grass"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/sunflora/art.png"
+  },
+  {
+    "dex": 78,
+    "slug": "budew",
+    "name": "Budew",
+    "national": 406,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/budew/art.png"
+  },
+  {
+    "dex": 79,
+    "slug": "roselia",
+    "name": "Roselia",
+    "national": 315,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/roselia/art.png"
+  },
+  {
+    "dex": 80,
+    "slug": "roserade",
+    "name": "Roserade",
+    "national": 407,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/roserade/art.png"
+  },
+  {
+    "dex": 81,
+    "slug": "oniat",
+    "name": "Oniat",
+    "national": 9015,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/oniat/art.png"
+  },
+  {
+    "dex": 82,
+    "slug": "farfetchd",
+    "name": "Farfetch\u2019d",
+    "national": 83,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/farfetchd/art.png"
+  },
+  {
+    "dex": 83,
+    "slug": "sirfetchd",
+    "name": "Sirfetch\u2019d",
+    "national": 865,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sirfetchd/art.png"
+  },
+  {
+    "dex": 84,
+    "slug": "cherubi",
+    "name": "Cherubi",
+    "national": 420,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cherubi/art.png"
+  },
+  {
+    "dex": 85,
+    "slug": "cherrim",
+    "name": "Cherrim",
+    "national": 421,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cherrim/art.png"
+  },
+  {
+    "dex": 86,
+    "slug": "petilil",
+    "name": "Petilil",
+    "national": 548,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/petilil/art.png"
+  },
+  {
+    "dex": 87,
+    "slug": "lilligant",
+    "name": "Lilligant",
+    "national": 549,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/lilligant/art.png"
+  },
+  {
+    "dex": 88,
+    "slug": "cottonee",
+    "name": "Cottonee",
+    "national": 546,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cottonee/art.png"
+  },
+  {
+    "dex": 89,
+    "slug": "whimsicott",
+    "name": "Whimsicott",
+    "national": 547,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/whimsicott/art.png"
+  },
+  {
+    "dex": 90,
+    "slug": "foongus",
+    "name": "Foongus",
+    "national": 590,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/foongus/art.png"
+  },
+  {
+    "dex": 91,
+    "slug": "amoonguss",
+    "name": "Amoonguss",
+    "national": 591,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/amoonguss/art.png"
+  },
+  {
+    "dex": 92,
+    "slug": "diglett",
+    "name": "Diglett",
+    "national": 50,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/diglett/art.png"
+  },
+  {
+    "dex": 93,
+    "slug": "dugtrio",
+    "name": "Dugtrio",
+    "national": 51,
+    "types": [
+      "ground"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/dugtrio/art.png"
+  },
+  {
+    "dex": 94,
+    "slug": "sporas",
+    "name": "Sporas",
+    "national": 9006,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sporas/art.png"
+  },
+  {
+    "dex": 95,
+    "slug": "paras",
+    "name": "Paras",
+    "national": 46,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/paras/art.png"
+  },
+  {
+    "dex": 96,
+    "slug": "parasect",
+    "name": "Parasect",
+    "national": 47,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/parasect/art.png"
+  },
+  {
+    "dex": 97,
+    "slug": "ferroseed",
+    "name": "Ferroseed",
+    "national": 597,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/ferroseed/art.png"
+  },
+  {
+    "dex": 98,
+    "slug": "ferrothorn",
+    "name": "Ferrothorn",
+    "national": 598,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/ferrothorn/art.png"
+  },
+  {
+    "dex": 99,
+    "slug": "vadovine",
+    "name": "Vadovine",
+    "national": 1200,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/vadovine/art.png"
+  },
+  {
+    "dex": 100,
+    "slug": "tangela",
+    "name": "Tangela",
+    "national": 114,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tangela/art.png"
+  },
+  {
+    "dex": 101,
+    "slug": "tangrowth",
+    "name": "Tangrowth",
+    "national": 465,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tangrowth/art.png"
+  },
+  {
+    "dex": 102,
+    "slug": "yanma",
+    "name": "Yanma",
+    "national": 193,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/yanma/art.png"
+  },
+  {
+    "dex": 103,
+    "slug": "yanmega",
+    "name": "Yanmega",
+    "national": 469,
+    "types": [
+      "bug",
+      "dragon"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/yanmega/art.png"
+  },
+  {
+    "dex": 104,
+    "slug": "venipede",
+    "name": "Venipede",
+    "national": 543,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/venipede/art.png"
+  },
+  {
+    "dex": 105,
+    "slug": "whirlipede",
+    "name": "Whirlipede",
+    "national": 544,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/whirlipede/art.png"
+  },
+  {
+    "dex": 106,
+    "slug": "scolipede",
+    "name": "Scolipede",
+    "national": 545,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/scolipede/art.png"
+  },
+  {
+    "dex": 107,
+    "slug": "karrablast",
+    "name": "Karrablast",
+    "national": 588,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/karrablast/art.png"
+  },
+  {
+    "dex": 108,
+    "slug": "escavalier",
+    "name": "Escavalier",
+    "national": 589,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/escavalier/art.png"
+  },
+  {
+    "dex": 109,
+    "slug": "mudbray",
+    "name": "Mudbray",
+    "national": 749,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mudbray/art.png"
+  },
+  {
+    "dex": 110,
+    "slug": "mudsdale",
+    "name": "Mudsdale",
+    "national": 750,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mudsdale/art.png"
+  },
+  {
+    "dex": 111,
+    "slug": "kecleon",
+    "name": "Kecleon",
+    "national": 352,
+    "types": [
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/kecleon/art.png"
+  },
+  {
+    "dex": 112,
+    "slug": "snom",
+    "name": "Snom",
+    "national": 872,
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/snom/art.png"
+  },
+  {
+    "dex": 113,
+    "slug": "frosmoth",
+    "name": "Frosmoth",
+    "national": 873,
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/frosmoth/art.png"
+  },
+  {
+    "dex": 114,
+    "slug": "bonsly",
+    "name": "Bonsly",
+    "national": 438,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bonsly/art.png"
+  },
+  {
+    "dex": 115,
+    "slug": "sudowoodo",
+    "name": "Sudowoodo",
+    "national": 185,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sudowoodo/art.png"
+  },
+  {
+    "dex": 116,
+    "slug": "posamal",
+    "name": "Posamal",
+    "national": 2016,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/posamal/art.png"
+  },
+  {
+    "dex": 117,
+    "slug": "poseghaust",
+    "name": "Poseghaust",
+    "national": 2017,
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/poseghaust/art.png"
+  },
+  {
+    "dex": 118,
+    "slug": "carnivine",
+    "name": "Carnivine",
+    "national": 455,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/carnivine/art.png"
+  },
+  {
+    "dex": 119,
+    "slug": "tropius",
+    "name": "Tropius",
+    "national": 357,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/tropius/art.png"
+  },
+  {
+    "dex": 120,
+    "slug": "capsakid",
+    "name": "Capsakid",
+    "national": 951,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/capsakid/art.png"
+  },
+  {
+    "dex": 121,
+    "slug": "scovillain",
+    "name": "Scovillain",
+    "national": 952,
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/scovillain/art.png"
+  },
+  {
+    "dex": 122,
+    "slug": "snover",
+    "name": "Snover",
+    "national": 459,
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/snover/art.png"
+  },
+  {
+    "dex": 123,
+    "slug": "abomasnow",
+    "name": "Abomasnow",
+    "national": 460,
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/abomasnow/art.png"
+  },
+  {
+    "dex": 124,
+    "slug": "combee",
+    "name": "Combee",
+    "national": 415,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/combee/art.png"
+  },
+  {
+    "dex": 125,
+    "slug": "vespiquen",
+    "name": "Vespiquen",
+    "national": 416,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/vespiquen/art.png"
+  },
+  {
+    "dex": 126,
+    "slug": "burmy",
+    "name": "Burmy",
+    "national": 412,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/burmy/art.png"
+  },
+  {
+    "dex": 127,
+    "slug": "wormadam",
+    "name": "Wormadam",
+    "national": 413,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wormadam/art.png"
+  },
+  {
+    "dex": 128,
+    "slug": "mothim",
+    "name": "Mothim",
+    "national": 414,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mothim/art.png"
+  },
+  {
+    "dex": 129,
+    "slug": "dwebble",
+    "name": "Dwebble",
+    "national": 557,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/dwebble/art.png"
+  },
+  {
+    "dex": 130,
+    "slug": "crustle",
+    "name": "Crustle",
+    "national": 558,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/crustle/art.png"
+  },
+  {
+    "dex": 131,
+    "slug": "joltik",
+    "name": "Joltik",
+    "national": 595,
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/joltik/art.png"
+  },
+  {
+    "dex": 132,
+    "slug": "galvantula",
+    "name": "Galvantula",
+    "national": 596,
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/galvantula/art.png"
+  },
+  {
+    "dex": 133,
+    "slug": "yamper",
+    "name": "Yamper",
+    "national": 835,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/yamper/art.png"
+  },
+  {
+    "dex": 134,
+    "slug": "boltund",
+    "name": "Boltund",
+    "national": 836,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/boltund/art.png"
+  },
+  {
+    "dex": 135,
+    "slug": "impidimp",
+    "name": "Impidimp",
+    "national": 859,
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/impidimp/art.png"
+  },
+  {
+    "dex": 136,
+    "slug": "morgrem",
+    "name": "Morgrem",
+    "national": 860,
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/morgrem/art.png"
+  },
+  {
+    "dex": 137,
+    "slug": "grimmsnarl",
+    "name": "Grimmsnarl",
+    "national": 861,
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/grimmsnarl/art.png"
+  },
+  {
+    "dex": 138,
+    "slug": "chisler",
+    "name": "chisler",
+    "national": 9036,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/chisler/art.png"
+  },
+  {
+    "dex": 139,
+    "slug": "scyther",
+    "name": "Scyther",
+    "national": 123,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/scyther/art.png"
+  },
+  {
+    "dex": 140,
+    "slug": "kleavor",
+    "name": "Kleavor",
+    "national": 900,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kleavor/art.png"
+  },
+  {
+    "dex": 141,
+    "slug": "scizor",
+    "name": "Scizor",
+    "national": 212,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/scizor/art.png"
+  },
+  {
+    "dex": 142,
+    "slug": "toddlbug",
+    "name": "Toddlbug",
+    "national": 9039,
+    "types": [
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/toddlbug/art.png"
+  },
+  {
+    "dex": 143,
+    "slug": "heracross",
+    "name": "Heracross",
+    "national": 214,
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/heracross/art.png"
+  },
+  {
+    "dex": 144,
+    "slug": "pinsir",
+    "name": "Pinsir",
+    "national": 127,
+    "types": [
+      "bug"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/pinsir/art.png"
+  },
+  {
+    "dex": 145,
+    "slug": "pawniard",
+    "name": "Pawniard",
+    "national": 624,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pawniard/art.png"
+  },
+  {
+    "dex": 146,
+    "slug": "bisharp",
+    "name": "Bisharp",
+    "national": 625,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bisharp/art.png"
+  },
+  {
+    "dex": 147,
+    "slug": "kingambit",
+    "name": "Kingambit",
+    "national": 983,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kingambit/art.png"
+  },
+  {
+    "dex": 148,
+    "slug": "wimpod",
+    "name": "Wimpod",
+    "national": 767,
+    "types": [
+      "bug",
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wimpod/art.png"
+  },
+  {
+    "dex": 149,
+    "slug": "golisopod",
+    "name": "Golisopod",
+    "national": 768,
+    "types": [
+      "bug",
+      "water"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/golisopod/art.png"
+  },
+  {
+    "dex": 150,
+    "slug": "mankey",
+    "name": "Mankey",
+    "national": 56,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mankey/art.png"
+  },
+  {
+    "dex": 151,
+    "slug": "primeape",
+    "name": "Primeape",
+    "national": 57,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/primeape/art.png"
+  },
+  {
+    "dex": 152,
+    "slug": "annihilape",
+    "name": "Annihilape",
+    "national": 979,
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/annihilape/art.png"
+  },
+  {
+    "dex": 153,
+    "slug": "smoggle",
+    "name": "Smoggle",
+    "national": 3016,
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/smoggle/art.png"
+  },
+  {
+    "dex": 154,
+    "slug": "smugrawl",
+    "name": "Smugrawl",
+    "national": 3017,
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/smugrawl/art.png"
+  },
+  {
+    "dex": 155,
+    "slug": "machop",
+    "name": "Machop",
+    "national": 66,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/machop/art.png"
+  },
+  {
+    "dex": 156,
+    "slug": "machoke",
+    "name": "Machoke",
+    "national": 67,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/machoke/art.png"
+  },
+  {
+    "dex": 157,
+    "slug": "machamp",
+    "name": "Machamp",
+    "national": 68,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/machamp/art.png"
+  },
+  {
+    "dex": 158,
+    "slug": "slakoth",
+    "name": "Slakoth",
+    "national": 287,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/slakoth/art.png"
+  },
+  {
+    "dex": 159,
+    "slug": "vigoroth",
+    "name": "Vigoroth",
+    "national": 288,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/vigoroth/art.png"
+  },
+  {
+    "dex": 160,
+    "slug": "slaking",
+    "name": "Slaking",
+    "national": 289,
+    "types": [
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/slaking/art.png"
+  },
+  {
+    "dex": 161,
+    "slug": "riolu",
+    "name": "Riolu",
+    "national": 447,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/riolu/art.png"
+  },
+  {
+    "dex": 162,
+    "slug": "lucario",
+    "name": "Lucario",
+    "national": 448,
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/lucario/art.png"
+  },
+  {
+    "dex": 163,
+    "slug": "stufful",
+    "name": "Stufful",
+    "national": 759,
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/stufful/art.png"
+  },
+  {
+    "dex": 164,
+    "slug": "bewear",
+    "name": "Bewear",
+    "national": 760,
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/bewear/art.png"
+  },
+  {
+    "dex": 165,
+    "slug": "meditite",
+    "name": "Meditite",
+    "national": 307,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/meditite/art.png"
+  },
+  {
+    "dex": 166,
+    "slug": "medicham",
+    "name": "Medicham",
+    "national": 308,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/medicham/art.png"
+  },
+  {
+    "dex": 167,
+    "slug": "hawlucha",
+    "name": "Hawlucha",
+    "national": 701,
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/hawlucha/art.png"
+  },
+  {
+    "dex": 168,
+    "slug": "crabrawler",
+    "name": "Crabrawler",
+    "national": 739,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/crabrawler/art.png"
+  },
+  {
+    "dex": 169,
+    "slug": "crabominable",
+    "name": "Crabominable",
+    "national": 740,
+    "types": [
+      "fighting",
+      "ice"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/crabominable/art.png"
+  },
+  {
+    "dex": 170,
+    "slug": "falinks",
+    "name": "Falinks",
+    "national": 870,
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/falinks/art.png"
+  },
+  {
+    "dex": 171,
+    "slug": "abra",
+    "name": "Abra",
+    "national": 63,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/abra/art.png"
+  },
+  {
+    "dex": 172,
+    "slug": "kadabra",
+    "name": "Kadabra",
+    "national": 64,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kadabra/art.png"
+  },
+  {
+    "dex": 173,
+    "slug": "alakazam",
+    "name": "Alakazam",
+    "national": 65,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/alakazam/art.png"
+  },
+  {
+    "dex": 174,
+    "slug": "drowzee",
+    "name": "Drowzee",
+    "national": 96,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/drowzee/art.png"
+  },
+  {
+    "dex": 175,
+    "slug": "hypno",
+    "name": "Hypno",
+    "national": 97,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/hypno/art.png"
+  },
+  {
+    "dex": 176,
+    "slug": "ralts",
+    "name": "Ralts",
+    "national": 280,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/ralts/art.png"
+  },
+  {
+    "dex": 177,
+    "slug": "kirlia",
+    "name": "Kirlia",
+    "national": 281,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kirlia/art.png"
+  },
+  {
+    "dex": 178,
+    "slug": "gardevoir",
+    "name": "Gardevoir",
+    "national": 282,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/gardevoir/art.png"
+  },
+  {
+    "dex": 179,
+    "slug": "gallade",
+    "name": "Gallade",
+    "national": 475,
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/gallade/art.png"
+  },
+  {
+    "dex": 180,
+    "slug": "girafarig",
+    "name": "Girafarig",
+    "national": 203,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/girafarig/art.png"
+  },
+  {
+    "dex": 181,
+    "slug": "farigiraf",
+    "name": "Farigiraf",
+    "national": 981,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/farigiraf/art.png"
+  },
+  {
+    "dex": 182,
+    "slug": "mimejr",
+    "name": "Mime Jr.",
+    "national": 439,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mimejr/art.png"
+  },
+  {
+    "dex": 183,
+    "slug": "mrmime",
+    "name": "Mr. Mime",
+    "national": 122,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/mrmime/art.png"
+  },
+  {
+    "dex": 184,
+    "slug": "mrrime",
+    "name": "Mr. Rime",
+    "national": 866,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mrrime/art.png"
+  },
+  {
+    "dex": 185,
+    "slug": "wynaut",
+    "name": "Wynaut",
+    "national": 360,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wynaut/art.png"
+  },
+  {
+    "dex": 186,
+    "slug": "wobbuffet",
+    "name": "Wobbuffet",
+    "national": 202,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/wobbuffet/art.png"
+  },
+  {
+    "dex": 187,
+    "slug": "meowth",
+    "name": "Meowth",
+    "national": 52,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/meowth/art.png"
+  },
+  {
+    "dex": 188,
+    "slug": "bronzor",
+    "name": "Bronzor",
+    "national": 436,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bronzor/art.png"
+  },
+  {
+    "dex": 189,
+    "slug": "bronzong",
+    "name": "Bronzong",
+    "national": 437,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bronzong/art.png"
+  },
+  {
+    "dex": 190,
+    "slug": "espurr",
+    "name": "Espurr",
+    "national": 677,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/espurr/art.png"
+  },
+  {
+    "dex": 191,
+    "slug": "meowstic",
+    "name": "Meowstic",
+    "national": 678,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/meowstic/art.png"
+  },
+  {
+    "dex": 192,
+    "slug": "tomledger",
+    "name": "Tomledger",
+    "national": 9402,
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tomledger/art.png"
+  },
+  {
+    "dex": 193,
+    "slug": "chingling",
+    "name": "Chingling",
+    "national": 433,
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/chingling/art.png"
+  },
+  {
+    "dex": 194,
+    "slug": "chimecho",
+    "name": "Chimecho",
+    "national": 358,
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/chimecho/art.png"
+  },
+  {
+    "dex": 195,
+    "slug": "geodude",
+    "name": "Geodude",
+    "national": 74,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/geodude/art.png"
+  },
+  {
+    "dex": 196,
+    "slug": "graveler",
+    "name": "Graveler",
+    "national": 75,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/graveler/art.png"
+  },
+  {
+    "dex": 197,
+    "slug": "golem",
+    "name": "Golem",
+    "national": 76,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/golem/art.png"
+  },
+  {
+    "dex": 198,
+    "slug": "roggenrola",
+    "name": "Roggenrola",
+    "national": 524,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/roggenrola/art.png"
+  },
+  {
+    "dex": 199,
+    "slug": "boldore",
+    "name": "Boldore",
+    "national": 525,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/boldore/art.png"
+  },
+  {
+    "dex": 200,
+    "slug": "gigalith",
+    "name": "Gigalith",
+    "national": 526,
+    "types": [
+      "rock"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/gigalith/art.png"
+  },
+  {
+    "dex": 201,
+    "slug": "rolycoly",
+    "name": "Rolycoly",
+    "national": 837,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rolycoly/art.png"
+  },
+  {
+    "dex": 202,
+    "slug": "carkol",
+    "name": "Carkol",
+    "national": 838,
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/carkol/art.png"
+  },
+  {
+    "dex": 203,
+    "slug": "coalossal",
+    "name": "Coalossal",
+    "national": 839,
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/coalossal/art.png"
+  },
+  {
+    "dex": 204,
+    "slug": "carbink",
+    "name": "Carbink",
+    "national": 703,
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/carbink/art.png"
+  },
+  {
+    "dex": 205,
+    "slug": "nosepass",
+    "name": "Nosepass",
+    "national": 299,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/nosepass/art.png"
+  },
+  {
+    "dex": 206,
+    "slug": "probopass",
+    "name": "Probopass",
+    "national": 476,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/probopass/art.png"
+  },
+  {
+    "dex": 207,
+    "slug": "snebble",
+    "name": "snebble",
+    "national": 9021,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/snebble/art.png"
+  },
+  {
+    "dex": 208,
+    "slug": "onix",
+    "name": "Onix",
+    "national": 95,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/onix/art.png"
+  },
+  {
+    "dex": 209,
+    "slug": "steelix",
+    "name": "Steelix",
+    "national": 208,
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/steelix/art.png"
+  },
+  {
+    "dex": 210,
+    "slug": "aron",
+    "name": "Aron",
+    "national": 304,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/aron/art.png"
+  },
+  {
+    "dex": 211,
+    "slug": "lairon",
+    "name": "Lairon",
+    "national": 305,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/lairon/art.png"
+  },
+  {
+    "dex": 212,
+    "slug": "aggron",
+    "name": "Aggron",
+    "national": 306,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/aggron/art.png"
+  },
+  {
+    "dex": 213,
+    "slug": "mawile",
+    "name": "Mawile",
+    "national": 303,
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/mawile/art.png"
+  },
+  {
+    "dex": 214,
+    "slug": "skarmory",
+    "name": "Skarmory",
+    "national": 227,
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/skarmory/art.png"
+  },
+  {
+    "dex": 215,
+    "slug": "klink",
+    "name": "Klink",
+    "national": 599,
+    "types": [
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/klink/art.png"
+  },
+  {
+    "dex": 216,
+    "slug": "klang",
+    "name": "Klang",
+    "national": 600,
+    "types": [
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/klang/art.png"
+  },
+  {
+    "dex": 217,
+    "slug": "klinklang",
+    "name": "Klinklang",
+    "national": 601,
+    "types": [
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/klinklang/art.png"
+  },
+  {
+    "dex": 218,
+    "slug": "drilbur",
+    "name": "Drilbur",
+    "national": 529,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/drilbur/art.png"
+  },
+  {
+    "dex": 219,
+    "slug": "excadrill",
+    "name": "Excadrill",
+    "national": 530,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/excadrill/art.png"
+  },
+  {
+    "dex": 220,
+    "slug": "cranidos",
+    "name": "Cranidos",
+    "national": 408,
+    "types": [
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cranidos/art.png"
+  },
+  {
+    "dex": 221,
+    "slug": "rampardos",
+    "name": "Rampardos",
+    "national": 409,
+    "types": [
+      "rock"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/rampardos/art.png"
+  },
+  {
+    "dex": 222,
+    "slug": "shieldon",
+    "name": "Shieldon",
+    "national": 410,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/shieldon/art.png"
+  },
+  {
+    "dex": 223,
+    "slug": "bastiodon",
+    "name": "Bastiodon",
+    "national": 411,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/bastiodon/art.png"
+  },
+  {
+    "dex": 224,
+    "slug": "archen",
+    "name": "Archen",
+    "national": 566,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/archen/art.png"
+  },
+  {
+    "dex": 225,
+    "slug": "archeops",
+    "name": "Archeops",
+    "national": 567,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/archeops/art.png"
+  },
+  {
+    "dex": 226,
+    "slug": "amaura",
+    "name": "Amaura",
+    "national": 698,
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/amaura/art.png"
+  },
+  {
+    "dex": 227,
+    "slug": "aurorus",
+    "name": "Aurorus",
+    "national": 699,
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/aurorus/art.png"
+  },
+  {
+    "dex": 228,
+    "slug": "tyrunt",
+    "name": "Tyrunt",
+    "national": 696,
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tyrunt/art.png"
+  },
+  {
+    "dex": 229,
+    "slug": "tyrantrum",
+    "name": "Tyrantrum",
+    "national": 697,
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/tyrantrum/art.png"
+  },
+  {
+    "dex": 230,
+    "slug": "petitero",
+    "name": "petitero",
+    "national": 9050,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/petitero/art.png"
+  },
+  {
+    "dex": 231,
+    "slug": "aerodactyl",
+    "name": "Aerodactyl",
+    "national": 142,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/aerodactyl/art.png"
+  },
+  {
+    "dex": 232,
+    "slug": "omanyte",
+    "name": "Omanyte",
+    "national": 138,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/omanyte/art.png"
+  },
+  {
+    "dex": 233,
+    "slug": "omastar",
+    "name": "Omastar",
+    "national": 139,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/omastar/art.png"
+  },
+  {
+    "dex": 234,
+    "slug": "kabuto",
+    "name": "Kabuto",
+    "national": 140,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/kabuto/art.png"
+  },
+  {
+    "dex": 235,
+    "slug": "kabutops",
+    "name": "Kabutops",
+    "national": 141,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/kabutops/art.png"
+  },
+  {
+    "dex": 236,
+    "slug": "relicanth",
+    "name": "Relicanth",
+    "national": 369,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/relicanth/art.png"
+  },
+  {
+    "dex": 237,
+    "slug": "rhyhorn",
+    "name": "Rhyhorn",
+    "national": 111,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rhyhorn/art.png"
+  },
+  {
+    "dex": 238,
+    "slug": "rhydon",
+    "name": "Rhydon",
+    "national": 112,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rhydon/art.png"
+  },
+  {
+    "dex": 239,
+    "slug": "rhyperior",
+    "name": "Rhyperior",
+    "national": 464,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/rhyperior/art.png"
+  },
+  {
+    "dex": 240,
+    "slug": "hippopotas",
+    "name": "Hippopotas",
+    "national": 449,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hippopotas/art.png"
+  },
+  {
+    "dex": 241,
+    "slug": "hippowdon",
+    "name": "Hippowdon",
+    "national": 450,
+    "types": [
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hippowdon/art.png"
+  },
+  {
+    "dex": 242,
+    "slug": "ponyta",
+    "name": "Ponyta",
+    "national": 77,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/ponyta/art.png"
+  },
+  {
+    "dex": 243,
+    "slug": "rapidash",
+    "name": "Rapidash",
+    "national": 78,
+    "types": [
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/rapidash/art.png"
+  },
+  {
+    "dex": 244,
+    "slug": "torkoal",
+    "name": "Torkoal",
+    "national": 324,
+    "types": [
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/torkoal/art.png"
+  },
+  {
+    "dex": 245,
+    "slug": "houndour",
+    "name": "Houndour",
+    "national": 228,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/houndour/art.png"
+  },
+  {
+    "dex": 246,
+    "slug": "houndoom",
+    "name": "Houndoom",
+    "national": 229,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/houndoom/art.png"
+  },
+  {
+    "dex": 247,
+    "slug": "sizzlipede",
+    "name": "Sizzlipede",
+    "national": 850,
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sizzlipede/art.png"
+  },
+  {
+    "dex": 248,
+    "slug": "centiskorch",
+    "name": "Centiskorch",
+    "national": 851,
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/centiskorch/art.png"
+  },
+  {
+    "dex": 249,
+    "slug": "magby",
+    "name": "Magby",
+    "national": 240,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/magby/art.png"
+  },
+  {
+    "dex": 250,
+    "slug": "magmar",
+    "name": "Magmar",
+    "national": 126,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/magmar/art.png"
+  },
+  {
+    "dex": 251,
+    "slug": "magmortar",
+    "name": "Magmortar",
+    "national": 467,
+    "types": [
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/magmortar/art.png"
+  },
+  {
+    "dex": 252,
+    "slug": "pumber",
+    "name": "Pumber",
+    "national": 9011,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pumber/art.png"
+  },
+  {
+    "dex": 253,
+    "slug": "growlithe",
+    "name": "Growlithe",
+    "national": 58,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/growlithe/art.png"
+  },
+  {
+    "dex": 254,
+    "slug": "arcanine",
+    "name": "Arcanine",
+    "national": 59,
+    "types": [
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/arcanine/art.png"
+  },
+  {
+    "dex": 255,
+    "slug": "slugma",
+    "name": "Slugma",
+    "national": 218,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/slugma/art.png"
+  },
+  {
+    "dex": 256,
+    "slug": "magcargo",
+    "name": "Magcargo",
+    "national": 219,
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/magcargo/art.png"
+  },
+  {
+    "dex": 257,
+    "slug": "charcadet",
+    "name": "Charcadet",
+    "national": 935,
+    "types": [
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/charcadet/art.png"
+  },
+  {
+    "dex": 258,
+    "slug": "armarouge",
+    "name": "Armarouge",
+    "national": 936,
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/armarouge/art.png"
+  },
+  {
+    "dex": 259,
+    "slug": "ceruledge",
+    "name": "Ceruledge",
+    "national": 937,
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/ceruledge/art.png"
+  },
+  {
+    "dex": 260,
+    "slug": "mushiro",
+    "name": "Mushiro",
+    "national": 10001,
+    "types": [
+      "fire",
+      "ice"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mushiro/art.png"
+  },
+  {
+    "dex": 261,
+    "slug": "mareep",
+    "name": "Mareep",
+    "national": 179,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mareep/art.png"
+  },
+  {
+    "dex": 262,
+    "slug": "flaaffy",
+    "name": "Flaaffy",
+    "national": 180,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/flaaffy/art.png"
+  },
+  {
+    "dex": 263,
+    "slug": "ampharos",
+    "name": "Ampharos",
+    "national": 181,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/ampharos/art.png"
+  },
+  {
+    "dex": 264,
+    "slug": "pichu",
+    "name": "Pichu",
+    "national": 172,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pichu/art.png"
+  },
+  {
+    "dex": 265,
+    "slug": "pikachu",
+    "name": "Pikachu",
+    "national": 25,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/pikachu/art.png"
+  },
+  {
+    "dex": 266,
+    "slug": "raichu",
+    "name": "Raichu",
+    "national": 26,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/raichu/art.png"
+  },
+  {
+    "dex": 267,
+    "slug": "tadbulb",
+    "name": "Tadbulb",
+    "national": 938,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tadbulb/art.png"
+  },
+  {
+    "dex": 268,
+    "slug": "bellibolt",
+    "name": "Bellibolt",
+    "national": 939,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/bellibolt/art.png"
+  },
+  {
+    "dex": 269,
+    "slug": "elekid",
+    "name": "Elekid",
+    "national": 239,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/elekid/art.png"
+  },
+  {
+    "dex": 270,
+    "slug": "electabuzz",
+    "name": "Electabuzz",
+    "national": 125,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/electabuzz/art.png"
+  },
+  {
+    "dex": 271,
+    "slug": "electivire",
+    "name": "Electivire",
+    "national": 466,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/electivire/art.png"
+  },
+  {
+    "dex": 272,
+    "slug": "whismur",
+    "name": "Whismur",
+    "national": 293,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/whismur/art.png"
+  },
+  {
+    "dex": 273,
+    "slug": "loudred",
+    "name": "Loudred",
+    "national": 294,
+    "types": [
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/loudred/art.png"
+  },
+  {
+    "dex": 274,
+    "slug": "exploud",
+    "name": "Exploud",
+    "national": 295,
+    "types": [
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/exploud/art.png"
+  },
+  {
+    "dex": 275,
+    "slug": "komodoom",
+    "name": "Komodoom",
+    "national": 2071,
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/komodoom/art.png"
+  },
+  {
+    "dex": 276,
+    "slug": "tynamo",
+    "name": "Tynamo",
+    "national": 602,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/tynamo/art.png"
+  },
+  {
+    "dex": 277,
+    "slug": "eelektrik",
+    "name": "Eelektrik",
+    "national": 603,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/eelektrik/art.png"
+  },
+  {
+    "dex": 278,
+    "slug": "eelektross",
+    "name": "Eelektross",
+    "national": 604,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/eelektross/art.png"
+  },
+  {
+    "dex": 279,
+    "slug": "pawmi",
+    "name": "Pawmi",
+    "national": 921,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pawmi/art.png"
+  },
+  {
+    "dex": 280,
+    "slug": "pawmo",
+    "name": "Pawmo",
+    "national": 922,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pawmo/art.png"
+  },
+  {
+    "dex": 281,
+    "slug": "pawmot",
+    "name": "Pawmot",
+    "national": 923,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/pawmot/art.png"
+  },
+  {
+    "dex": 282,
+    "slug": "dedenne",
+    "name": "Dedenne",
+    "national": 702,
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/dedenne/art.png"
+  },
+  {
+    "dex": 283,
+    "slug": "electrike",
+    "name": "Electrike",
+    "national": 309,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/electrike/art.png"
+  },
+  {
+    "dex": 284,
+    "slug": "manectric",
+    "name": "Manectric",
+    "national": 310,
+    "types": [
+      "electric"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/manectric/art.png"
+  },
+  {
+    "dex": 285,
+    "slug": "shinx",
+    "name": "Shinx",
+    "national": 403,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/shinx/art.png"
+  },
+  {
+    "dex": 286,
+    "slug": "luxio",
+    "name": "Luxio",
+    "national": 404,
+    "types": [
+      "electric"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/luxio/art.png"
+  },
+  {
+    "dex": 287,
+    "slug": "luxray",
+    "name": "Luxray",
+    "national": 405,
+    "types": [
+      "electric",
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/luxray/art.png"
+  },
+  {
+    "dex": 288,
+    "slug": "natu",
+    "name": "Natu",
+    "national": 177,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/natu/art.png"
+  },
+  {
+    "dex": 289,
+    "slug": "xatu",
+    "name": "Xatu",
+    "national": 178,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/xatu/art.png"
+  },
+  {
+    "dex": 290,
+    "slug": "snubbull",
+    "name": "Snubbull",
+    "national": 209,
+    "types": [
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/snubbull/art.png"
+  },
+  {
+    "dex": 291,
+    "slug": "granbull",
+    "name": "Granbull",
+    "national": 210,
+    "types": [
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/granbull/art.png"
+  },
+  {
+    "dex": 292,
+    "slug": "throh",
+    "name": "Throh",
+    "national": 538,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/throh/art.png"
+  },
+  {
+    "dex": 293,
+    "slug": "sawk",
+    "name": "Sawk",
+    "national": 539,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sawk/art.png"
+  },
+  {
+    "dex": 294,
+    "slug": "timburr",
+    "name": "Timburr",
+    "national": 532,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/timburr/art.png"
+  },
+  {
+    "dex": 295,
+    "slug": "gurdurr",
+    "name": "Gurdurr",
+    "national": 533,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/gurdurr/art.png"
+  },
+  {
+    "dex": 296,
+    "slug": "conkeldurr",
+    "name": "Conkeldurr",
+    "national": 534,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/conkeldurr/art.png"
+  },
+  {
+    "dex": 297,
+    "slug": "makuhita",
+    "name": "Makuhita",
+    "national": 296,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/makuhita/art.png"
+  },
+  {
+    "dex": 298,
+    "slug": "hariyama",
+    "name": "Hariyama",
+    "national": 297,
+    "types": [
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hariyama/art.png"
+  },
+  {
+    "dex": 299,
+    "slug": "tauros",
+    "name": "Tauros",
+    "national": 128,
+    "types": [
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/tauros/art.png"
+  },
+  {
+    "dex": 300,
+    "slug": "cacnea",
+    "name": "Cacnea",
+    "national": 331,
+    "types": [
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/cacnea/art.png"
+  },
+  {
+    "dex": 301,
+    "slug": "cacturne",
+    "name": "Cacturne",
+    "national": 332,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/cacturne/art.png"
+  },
+  {
+    "dex": 302,
+    "slug": "toxel",
+    "name": "Toxel",
+    "national": 848,
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/toxel/art.png"
+  },
+  {
+    "dex": 303,
+    "slug": "toxtricity",
+    "name": "Toxtricity",
+    "national": 849,
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/toxtricity/art.png"
+  },
+  {
+    "dex": 304,
+    "slug": "morpeko",
+    "name": "Morpeko",
+    "national": 877,
+    "types": [
+      "electric",
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/morpeko/art.png"
+  },
+  {
+    "dex": 305,
+    "slug": "gastly",
+    "name": "Gastly",
+    "national": 92,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/gastly/art.png"
+  },
+  {
+    "dex": 306,
+    "slug": "haunter",
+    "name": "Haunter",
+    "national": 93,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/haunter/art.png"
+  },
+  {
+    "dex": 307,
+    "slug": "gengar",
+    "name": "Gengar",
+    "national": 94,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/gengar/art.png"
+  },
+  {
+    "dex": 308,
+    "slug": "phantump",
+    "name": "Phantump",
+    "national": 708,
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/phantump/art.png"
+  },
+  {
+    "dex": 309,
+    "slug": "trevenant",
+    "name": "Trevenant",
+    "national": 709,
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/trevenant/art.png"
+  },
+  {
+    "dex": 310,
+    "slug": "misdreavus",
+    "name": "Misdreavus",
+    "national": 200,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/misdreavus/art.png"
+  },
+  {
+    "dex": 311,
+    "slug": "mismagius",
+    "name": "Mismagius",
+    "national": 429,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/mismagius/art.png"
+  },
+  {
+    "dex": 312,
+    "slug": "shuppet",
+    "name": "Shuppet",
+    "national": 353,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/shuppet/art.png"
+  },
+  {
+    "dex": 313,
+    "slug": "banette",
+    "name": "Banette",
+    "national": 354,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/banette/art.png"
+  },
+  {
+    "dex": 314,
+    "slug": "duskull",
+    "name": "Duskull",
+    "national": 355,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/duskull/art.png"
+  },
+  {
+    "dex": 315,
+    "slug": "dusclops",
+    "name": "Dusclops",
+    "national": 356,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/dusclops/art.png"
+  },
+  {
+    "dex": 316,
+    "slug": "dusknoir",
+    "name": "Dusknoir",
+    "national": 477,
+    "types": [
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/dusknoir/art.png"
+  },
+  {
+    "dex": 317,
+    "slug": "spiritomb",
+    "name": "Spiritomb",
+    "national": 442,
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/spiritomb/art.png"
+  },
+  {
+    "dex": 318,
+    "slug": "sableye",
+    "name": "Sableye",
+    "national": 302,
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/sableye/art.png"
+  },
+  {
+    "dex": 319,
+    "slug": "litwick",
+    "name": "Litwick",
+    "national": 607,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/litwick/art.png"
+  },
+  {
+    "dex": 320,
+    "slug": "lampent",
+    "name": "Lampent",
+    "national": 608,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/lampent/art.png"
+  },
+  {
+    "dex": 321,
+    "slug": "chandelure",
+    "name": "Chandelure",
+    "national": 609,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/chandelure/art.png"
+  },
+  {
+    "dex": 322,
+    "slug": "honedge",
+    "name": "Honedge",
+    "national": 679,
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/honedge/art.png"
+  },
+  {
+    "dex": 323,
+    "slug": "doublade",
+    "name": "Doublade",
+    "national": 680,
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/doublade/art.png"
+  },
+  {
+    "dex": 324,
+    "slug": "aegislash",
+    "name": "Aegislash",
+    "national": 681,
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/aegislash/art.png"
+  },
+  {
+    "dex": 325,
+    "slug": "golett",
+    "name": "Golett",
+    "national": 622,
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/golett/art.png"
+  },
+  {
+    "dex": 326,
+    "slug": "golurk",
+    "name": "Golurk",
+    "national": 623,
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/golurk/art.png"
+  },
+  {
+    "dex": 327,
+    "slug": "milcery",
+    "name": "Milcery",
+    "national": 868,
+    "types": [
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/milcery/art.png"
+  },
+  {
+    "dex": 328,
+    "slug": "alcremie",
+    "name": "Alcremie",
+    "national": 869,
+    "types": [
+      "fairy"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/alcremie/art.png"
+  },
+  {
+    "dex": 329,
+    "slug": "hatenna",
+    "name": "Hatenna",
+    "national": 856,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hatenna/art.png"
+  },
+  {
+    "dex": 330,
+    "slug": "hattrem",
+    "name": "Hattrem",
+    "national": 857,
+    "types": [
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/hattrem/art.png"
+  },
+  {
+    "dex": 331,
+    "slug": "hatterene",
+    "name": "Hatterene",
+    "national": 858,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/hatterene/art.png"
+  },
+  {
+    "dex": 332,
+    "slug": "poltchageist",
+    "name": "Poltchageist",
+    "national": 1012,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/poltchageist/art.png"
+  },
+  {
+    "dex": 333,
+    "slug": "sinistcha",
+    "name": "Sinistcha",
+    "national": 1013,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/sinistcha/art.png"
+  },
+  {
+    "dex": 334,
+    "slug": "mimikyu",
+    "name": "Mimikyu",
+    "national": 778,
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/mimikyu/art.png"
+  },
+  {
+    "dex": 335,
+    "slug": "absol",
+    "name": "Absol",
+    "national": 359,
+    "types": [
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/absol/art.png"
+  },
+  {
+    "dex": 336,
+    "slug": "drifloon",
+    "name": "Drifloon",
+    "national": 425,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/drifloon/art.png"
+  },
+  {
+    "dex": 337,
+    "slug": "drifblim",
+    "name": "Drifblim",
+    "national": 426,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/drifblim/art.png"
+  },
+  {
+    "dex": 338,
+    "slug": "inkay",
+    "name": "Inkay",
+    "national": 686,
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/inkay/art.png"
+  },
+  {
+    "dex": 339,
+    "slug": "malamar",
+    "name": "Malamar",
+    "national": 687,
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/malamar/art.png"
+  },
+  {
+    "dex": 340,
+    "slug": "purrloin",
+    "name": "Purrloin",
+    "national": 509,
+    "types": [
+      "dark"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/purrloin/art.png"
+  },
+  {
+    "dex": 341,
+    "slug": "liepard",
+    "name": "Liepard",
+    "national": 510,
+    "types": [
+      "dark"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/liepard/art.png"
+  },
+  {
+    "dex": 342,
+    "slug": "sandygast",
+    "name": "Sandygast",
+    "national": 769,
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/sandygast/art.png"
+  },
+  {
+    "dex": 343,
+    "slug": "palossand",
+    "name": "Palossand",
+    "national": 770,
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/palossand/art.png"
+  },
+  {
+    "dex": 344,
+    "slug": "stunky",
+    "name": "Stunky",
+    "national": 434,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/stunky/art.png"
+  },
+  {
+    "dex": 345,
+    "slug": "skuntank",
+    "name": "Skuntank",
+    "national": 435,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/skuntank/art.png"
+  },
+  {
+    "dex": 346,
+    "slug": "skorupi",
+    "name": "Skorupi",
+    "national": 451,
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/skorupi/art.png"
+  },
+  {
+    "dex": 347,
+    "slug": "drapion",
+    "name": "Drapion",
+    "national": 452,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/drapion/art.png"
+  },
+  {
+    "dex": 348,
+    "slug": "croagunk",
+    "name": "Croagunk",
+    "national": 453,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/croagunk/art.png"
+  },
+  {
+    "dex": 349,
+    "slug": "toxicroak",
+    "name": "Toxicroak",
+    "national": 454,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/toxicroak/art.png"
+  },
+  {
+    "dex": 350,
+    "slug": "helioptile",
+    "name": "Helioptile",
+    "national": 694,
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "hasMega": false,
+    "image": "img/pokemon/helioptile/art.png"
+  },
+  {
+    "dex": 351,
+    "slug": "heliolisk",
+    "name": "Heliolisk",
+    "national": 695,
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "hasMega": true,
+    "image": "img/pokemon/heliolisk/art.png"
+  }
+]

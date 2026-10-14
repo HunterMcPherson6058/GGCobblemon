@@ -1,0 +1,1834 @@
+{
+  "dex": 82,
+  "slug": "farfetchd",
+  "national": 83,
+  "name": "Farfetch\u2019d",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "id": "sharpness",
+      "hidden": false,
+      "name": "Sharpness",
+      "desc": "Powers up slicing moves."
+    },
+    {
+      "id": "innerfocus",
+      "hidden": false,
+      "name": "Inner Focus",
+      "desc": "The Pok\u00e9mon's intense focus prevents it from flinching or being affected by Intimidate."
+    },
+    {
+      "id": "superluck",
+      "hidden": true,
+      "name": "Super Luck",
+      "desc": "The Pok\u00e9mon is so lucky that the critical-hit ratios of its moves are boosted."
+    }
+  ],
+  "height": 8,
+  "weight": 150,
+  "catchRate": 45,
+  "baseExp": 132,
+  "baseFriendship": 50,
+  "growthRate": "medium_fast",
+  "genderRatio": 0.5,
+  "eggCycles": 20,
+  "eggGroups": [
+    "flying",
+    "field"
+  ],
+  "evYield": {
+    "attack": 1,
+    "defence": 0,
+    "hp": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 75,
+    "attack": 90,
+    "defence": 70,
+    "special_attack": 58,
+    "special_defence": 67,
+    "speed": 85
+  },
+  "preEvolution": "oniat",
+  "evolutions": [],
+  "flavor": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pok\u00e9mon has been known to fight with others over stalks.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "feint",
+        "name": "Feint",
+        "type": "normal",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "furyattack",
+        "name": "Fury Attack",
+        "type": "normal",
+        "category": "physical",
+        "power": 15,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "nightslash",
+        "name": "Night Slash",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "peck",
+        "name": "Peck",
+        "type": "flying",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 1,
+        "move": "sandattack",
+        "name": "Sand Attack",
+        "type": "ground",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 5,
+        "move": "leer",
+        "name": "Leer",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 10,
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "level": 15,
+        "move": "cut",
+        "name": "Cut",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 30
+      },
+      {
+        "level": 20,
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "level": 25,
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "level": 30,
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 32,
+        "move": "doublehit",
+        "name": "Double Hit",
+        "type": "normal",
+        "category": "physical",
+        "power": 35,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 35,
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 39,
+        "move": "drillpeck",
+        "name": "Drill Peck",
+        "type": "flying",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 40,
+        "move": "slash",
+        "name": "Slash",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 45,
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 50,
+        "move": "airslash",
+        "name": "Air Slash",
+        "type": "flying",
+        "category": "special",
+        "power": 75,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "level": 55,
+        "move": "leafblade",
+        "name": "Leaf Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 60,
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "level": 65,
+        "move": "bravebird",
+        "name": "Brave Bird",
+        "type": "flying",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 70,
+        "move": "sacredsword",
+        "name": "Sacred Sword",
+        "type": "fighting",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 75,
+        "move": "extremespeed",
+        "name": "Extreme Speed",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 5
+      }
+    ],
+    "tm": [
+      {
+        "move": "acrobatics",
+        "name": "Acrobatics",
+        "type": "flying",
+        "category": "physical",
+        "power": 55,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "agility",
+        "name": "Agility",
+        "type": "psychic",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "move": "airslash",
+        "name": "Air Slash",
+        "type": "flying",
+        "category": "special",
+        "power": 75,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "batonpass",
+        "name": "Baton Pass",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "bodyslam",
+        "name": "Body Slam",
+        "type": "normal",
+        "category": "physical",
+        "power": 85,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "bravebird",
+        "name": "Brave Bird",
+        "type": "flying",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "brutalswing",
+        "name": "Brutal Swing",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "closecombat",
+        "name": "Close Combat",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "cut",
+        "name": "Cut",
+        "type": "normal",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 95,
+        "pp": 30
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "featherdance",
+        "name": "Feather Dance",
+        "type": "flying",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "fly",
+        "name": "Fly",
+        "type": "flying",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "focusenergy",
+        "name": "Focus Energy",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "move": "headbutt",
+        "name": "Headbutt",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "heatwave",
+        "name": "Heat Wave",
+        "type": "fire",
+        "category": "special",
+        "power": 95,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lastresort",
+        "name": "Last Resort",
+        "type": "normal",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "leafblade",
+        "name": "Leaf Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "pluck",
+        "name": "Pluck",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychup",
+        "name": "Psych Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "retaliate",
+        "name": "Retaliate",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "revenge",
+        "name": "Revenge",
+        "type": "fighting",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "skyattack",
+        "name": "Sky Attack",
+        "type": "flying",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "solarblade",
+        "name": "Solar Blade",
+        "type": "grass",
+        "category": "physical",
+        "power": 125,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "steelwing",
+        "name": "Steel Wing",
+        "type": "steel",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 90,
+        "pp": 25
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "swordsdance",
+        "name": "Swords Dance",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "tailwind",
+        "name": "Tailwind",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "twister",
+        "name": "Twister",
+        "type": "dragon",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "uturn",
+        "name": "U-turn",
+        "type": "bug",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "workup",
+        "name": "Work Up",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      }
+    ],
+    "tutor": [
+      {
+        "move": "aerialace",
+        "name": "Aerial Ace",
+        "type": "flying",
+        "category": "physical",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "aircutter",
+        "name": "Air Cutter",
+        "type": "flying",
+        "category": "special",
+        "power": 60,
+        "accuracy": 95,
+        "pp": 25
+      },
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "defog",
+        "name": "Defog",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "dualwingbeat",
+        "name": "Dual Wingbeat",
+        "type": "flying",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "falseswipe",
+        "name": "False Swipe",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "move": "focusenergy",
+        "name": "Focus Energy",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "furycutter",
+        "name": "Fury Cutter",
+        "type": "bug",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 95,
+        "pp": 20
+      },
+      {
+        "move": "heatwave",
+        "name": "Heat Wave",
+        "type": "fire",
+        "category": "special",
+        "power": 95,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "irontail",
+        "name": "Iron Tail",
+        "type": "steel",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 75,
+        "pp": 15
+      },
+      {
+        "move": "knockoff",
+        "name": "Knock Off",
+        "type": "dark",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "laserfocus",
+        "name": "Laser Focus",
+        "type": "normal",
+        "category": "status",
+        "pp": 30
+      },
+      {
+        "move": "lastresort",
+        "name": "Last Resort",
+        "type": "normal",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "mudslap",
+        "name": "Mud-Slap",
+        "type": "ground",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "ominouswind",
+        "name": "Ominous Wind",
+        "type": "ghost",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "skyattack",
+        "name": "Sky Attack",
+        "type": "flying",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "tailwind",
+        "name": "Tailwind",
+        "type": "flying",
+        "category": "status",
+        "pp": 15
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "twister",
+        "name": "Twister",
+        "type": "dragon",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      }
+    ],
+    "egg": [
+      {
+        "move": "covet",
+        "name": "Covet",
+        "type": "normal",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "curse",
+        "name": "Curse",
+        "type": "ghost",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "featherdance",
+        "name": "Feather Dance",
+        "type": "flying",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "feint",
+        "name": "Feint",
+        "type": "normal",
+        "category": "physical",
+        "power": 30,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "finalgambit",
+        "name": "Final Gambit",
+        "type": "fighting",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "firstimpression",
+        "name": "First Impression",
+        "type": "bug",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "flail",
+        "name": "Flail",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "foresight",
+        "name": "Foresight",
+        "type": "normal",
+        "category": "status",
+        "pp": 40
+      },
+      {
+        "move": "gust",
+        "name": "Gust",
+        "type": "flying",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "move": "mirrormove",
+        "name": "Mirror Move",
+        "type": "flying",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "nightslash",
+        "name": "Night Slash",
+        "type": "dark",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "quickattack",
+        "name": "Quick Attack",
+        "type": "normal",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "roost",
+        "name": "Roost",
+        "type": "flying",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "simplebeam",
+        "name": "Simple Beam",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "skyattack",
+        "name": "Sky Attack",
+        "type": "flying",
+        "category": "physical",
+        "power": 140,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "trumpcard",
+        "name": "Trump Card",
+        "type": "normal",
+        "category": "special",
+        "pp": 5
+      },
+      {
+        "move": "matblock",
+        "name": "Mat Block",
+        "type": "fighting",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "evolution": [],
+    "special": [
+      {
+        "move": "wish",
+        "name": "Wish",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "yawn",
+        "name": "Yawn",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      }
+    ]
+  },
+  "forms": [
+    {
+      "id": "galarian",
+      "name": "Galarian Farfetch\u2019d",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "abilities": [
+        {
+          "id": "steadfast",
+          "hidden": false,
+          "name": "Steadfast",
+          "desc": "The Pok\u00e9mon's determination boosts its Speed stat every time it flinches."
+        },
+        {
+          "id": "defiant",
+          "hidden": false,
+          "name": "Defiant",
+          "desc": "If the Pok\u00e9mon has any stat lowered by an opposing Pok\u00e9mon, its Attack stat will be boosted sharply."
+        },
+        {
+          "id": "scrappy",
+          "hidden": true,
+          "name": "Scrappy",
+          "desc": "The Pok\u00e9mon can hit Ghost-type Pok\u00e9mon with Normal- and Fighting-type moves. It is also unaffected by Intimidate."
+        }
+      ],
+      "height": 8,
+      "weight": 420,
+      "stats": {
+        "hp": 70,
+        "attack": 100,
+        "defence": 75,
+        "special_attack": 68,
+        "special_defence": 77,
+        "speed": 55
+      },
+      "flavor": "Wielding a thick, heavy leek has strengthened its body. In battle, it bets everything on a single destructive blow.",
+      "moves": {
+        "level": [
+          {
+            "level": 1,
+            "move": "peck",
+            "name": "Peck",
+            "type": "flying",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 100,
+            "pp": 35
+          },
+          {
+            "level": 1,
+            "move": "sandattack",
+            "name": "Sand Attack",
+            "type": "ground",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 5,
+            "move": "leer",
+            "name": "Leer",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "level": 10,
+            "move": "furycutter",
+            "name": "Fury Cutter",
+            "type": "bug",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 95,
+            "pp": 20
+          },
+          {
+            "level": 15,
+            "move": "rocksmash",
+            "name": "Rock Smash",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 20,
+            "move": "brutalswing",
+            "name": "Brutal Swing",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 25,
+            "move": "detect",
+            "name": "Detect",
+            "type": "fighting",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "level": 30,
+            "move": "knockoff",
+            "name": "Knock Off",
+            "type": "dark",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 35,
+            "move": "defog",
+            "name": "Defog",
+            "type": "flying",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "level": 40,
+            "move": "brickbreak",
+            "name": "Brick Break",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 45,
+            "move": "swordsdance",
+            "name": "Swords Dance",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 50,
+            "move": "slam",
+            "name": "Slam",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 75,
+            "pp": 20
+          },
+          {
+            "level": 55,
+            "move": "leafblade",
+            "name": "Leaf Blade",
+            "type": "grass",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 60,
+            "move": "finalgambit",
+            "name": "Final Gambit",
+            "type": "fighting",
+            "category": "special",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "level": 65,
+            "move": "bravebird",
+            "name": "Brave Bird",
+            "type": "flying",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 70,
+            "move": "sacredsword",
+            "name": "Sacred Sword",
+            "type": "fighting",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "tm": [
+          {
+            "move": "assurance",
+            "name": "Assurance",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "bodyslam",
+            "name": "Body Slam",
+            "type": "normal",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "bravebird",
+            "name": "Brave Bird",
+            "type": "flying",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "brickbreak",
+            "name": "Brick Break",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "brutalswing",
+            "name": "Brutal Swing",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "closecombat",
+            "name": "Close Combat",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "covet",
+            "name": "Covet",
+            "type": "normal",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "curse",
+            "name": "Curse",
+            "type": "ghost",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "defog",
+            "name": "Defog",
+            "type": "flying",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "doubleedge",
+            "name": "Double-Edge",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "endure",
+            "name": "Endure",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "facade",
+            "name": "Facade",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "focusenergy",
+            "name": "Focus Energy",
+            "type": "normal",
+            "category": "status",
+            "pp": 30
+          },
+          {
+            "move": "furycutter",
+            "name": "Fury Cutter",
+            "type": "bug",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 95,
+            "pp": 20
+          },
+          {
+            "move": "helpinghand",
+            "name": "Helping Hand",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "knockoff",
+            "name": "Knock Off",
+            "type": "dark",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "leafblade",
+            "name": "Leaf Blade",
+            "type": "grass",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "poisonjab",
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "retaliate",
+            "name": "Retaliate",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "revenge",
+            "name": "Revenge",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "rocksmash",
+            "name": "Rock Smash",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "skyattack",
+            "name": "Sky Attack",
+            "type": "flying",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "solarblade",
+            "name": "Solar Blade",
+            "type": "grass",
+            "category": "physical",
+            "power": 125,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "steelwing",
+            "name": "Steel Wing",
+            "type": "steel",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 90,
+            "pp": 25
+          },
+          {
+            "move": "substitute",
+            "name": "Substitute",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sunnyday",
+            "name": "Sunny Day",
+            "type": "fire",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "superpower",
+            "name": "Superpower",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "swordsdance",
+            "name": "Swords Dance",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "terablast",
+            "name": "Tera Blast",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "throatchop",
+            "name": "Throat Chop",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "workup",
+            "name": "Work Up",
+            "type": "normal",
+            "category": "status",
+            "pp": 30
+          }
+        ],
+        "tutor": [
+          {
+            "move": "covet",
+            "name": "Covet",
+            "type": "normal",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "defog",
+            "name": "Defog",
+            "type": "flying",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "dualwingbeat",
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "focusenergy",
+            "name": "Focus Energy",
+            "type": "normal",
+            "category": "status",
+            "pp": 30
+          },
+          {
+            "move": "furycutter",
+            "name": "Fury Cutter",
+            "type": "bug",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 95,
+            "pp": 20
+          },
+          {
+            "move": "helpinghand",
+            "name": "Helping Hand",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "knockoff",
+            "name": "Knock Off",
+            "type": "dark",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "poisonjab",
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rocksmash",
+            "name": "Rock Smash",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "skyattack",
+            "name": "Sky Attack",
+            "type": "flying",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "superpower",
+            "name": "Superpower",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "throatchop",
+            "name": "Throat Chop",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "egg": [
+          {
+            "move": "counter",
+            "name": "Counter",
+            "type": "fighting",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "covet",
+            "name": "Covet",
+            "type": "normal",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "curse",
+            "name": "Curse",
+            "type": "ghost",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "doubleedge",
+            "name": "Double-Edge",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "feint",
+            "name": "Feint",
+            "type": "normal",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "flail",
+            "name": "Flail",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "nightslash",
+            "name": "Night Slash",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "quickattack",
+            "name": "Quick Attack",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "move": "quickguard",
+            "name": "Quick Guard",
+            "type": "fighting",
+            "category": "status",
+            "pp": 15
+          },
+          {
+            "move": "simplebeam",
+            "name": "Simple Beam",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "skyattack",
+            "name": "Sky Attack",
+            "type": "flying",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 90,
+            "pp": 5
+          }
+        ],
+        "evolution": []
+      },
+      "image": "img/pokemon/farfetchd/art_galarian.png"
+    }
+  ],
+  "images": {
+    "art": "img/pokemon/farfetchd/art.png"
+  }
+}

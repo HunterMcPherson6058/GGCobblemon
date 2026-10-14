@@ -1,0 +1,2254 @@
+{
+  "dex": 303,
+  "slug": "toxtricity",
+  "national": 849,
+  "name": "Toxtricity",
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "id": "punkrock",
+      "hidden": false,
+      "name": "Punk Rock",
+      "desc": "Boosts the power of sound-based moves. The Pok\u00e9mon also takes half the damage from these kinds of moves."
+    },
+    {
+      "id": "plus",
+      "hidden": false,
+      "name": "Plus",
+      "desc": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally with the Plus or Minus Ability is also in battle."
+    },
+    {
+      "id": "technician",
+      "hidden": true,
+      "name": "Technician",
+      "desc": "Powers up weak moves so the Pok\u00e9mon can deal more damage with them."
+    }
+  ],
+  "height": 16,
+  "weight": 400,
+  "catchRate": 45,
+  "baseExp": 176,
+  "baseFriendship": 50,
+  "growthRate": "medium_slow",
+  "genderRatio": 0.5,
+  "eggCycles": 25,
+  "eggGroups": [
+    "human_like"
+  ],
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "stats": {
+    "hp": 75,
+    "attack": 119,
+    "defence": 73,
+    "special_attack": 87,
+    "special_defence": 73,
+    "speed": 75
+  },
+  "preEvolution": "toxel",
+  "evolutions": [],
+  "flavor": "When this Pok\u00e9mon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
+  "moves": {
+    "level": [
+      {
+        "level": 1,
+        "move": "acid",
+        "name": "Acid",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "acidspray",
+        "name": "Acid Spray",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "belch",
+        "name": "Belch",
+        "type": "poison",
+        "category": "special",
+        "power": 120,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 1,
+        "move": "flail",
+        "name": "Flail",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 1,
+        "move": "growl",
+        "name": "Growl",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 40
+      },
+      {
+        "level": 1,
+        "move": "leer",
+        "name": "Leer",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "nobleroar",
+        "name": "Noble Roar",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 1,
+        "move": "nuzzle",
+        "name": "Nuzzle",
+        "type": "electric",
+        "category": "physical",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "spark",
+        "name": "Spark",
+        "type": "electric",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "tearfullook",
+        "name": "Tearful Look",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 1,
+        "move": "thundershock",
+        "name": "Thunder Shock",
+        "type": "electric",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "level": 4,
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "level": 8,
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "level": 12,
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 16,
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 24,
+        "move": "screech",
+        "name": "Screech",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "level": 28,
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "level": 32,
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "level": 36,
+        "move": "discharge",
+        "name": "Discharge",
+        "type": "electric",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "level": 40,
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "level": 44,
+        "move": "overdrive",
+        "name": "Overdrive",
+        "type": "electric",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 48,
+        "move": "boomburst",
+        "name": "Boomburst",
+        "type": "normal",
+        "category": "special",
+        "power": 140,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "level": 52,
+        "move": "iondeluge",
+        "name": "Ion Deluge",
+        "type": "electric",
+        "category": "status",
+        "pp": 25
+      },
+      {
+        "level": 52,
+        "move": "shiftgear",
+        "name": "Shift Gear",
+        "type": "steel",
+        "category": "status",
+        "pp": 10
+      }
+    ],
+    "tm": [
+      {
+        "move": "acidspray",
+        "name": "Acid Spray",
+        "type": "poison",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "brickbreak",
+        "name": "Brick Break",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "charge",
+        "name": "Charge",
+        "type": "electric",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "charm",
+        "name": "Charm",
+        "type": "fairy",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "eerieimpulse",
+        "name": "Eerie Impulse",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "electricterrain",
+        "name": "Electric Terrain",
+        "type": "electric",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "electroball",
+        "name": "Electro Ball",
+        "type": "electric",
+        "category": "special",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "encore",
+        "name": "Encore",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "endure",
+        "name": "Endure",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "facade",
+        "name": "Facade",
+        "type": "normal",
+        "category": "physical",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "fling",
+        "name": "Fling",
+        "type": "dark",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "gunkshot",
+        "name": "Gunk Shot",
+        "type": "poison",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hex",
+        "name": "Hex",
+        "type": "ghost",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "megakick",
+        "name": "Mega Kick",
+        "type": "normal",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 75,
+        "pp": 5
+      },
+      {
+        "move": "megapunch",
+        "name": "Mega Punch",
+        "type": "normal",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "metalsound",
+        "name": "Metal Sound",
+        "type": "steel",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "move": "metronome",
+        "name": "Metronome",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "payback",
+        "name": "Payback",
+        "type": "dark",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "poisontail",
+        "name": "Poison Tail",
+        "type": "poison",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "poweruppunch",
+        "name": "Power-Up Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "protect",
+        "name": "Protect",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "psychicnoise",
+        "name": "Psychic Noise",
+        "type": "psychic",
+        "category": "special",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "raindance",
+        "name": "Rain Dance",
+        "type": "water",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "scaryface",
+        "name": "Scary Face",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "screech",
+        "name": "Screech",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "sludgewave",
+        "name": "Sludge Wave",
+        "type": "poison",
+        "category": "special",
+        "power": 95,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "snarl",
+        "name": "Snarl",
+        "type": "dark",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "storedpower",
+        "name": "Stored Power",
+        "type": "psychic",
+        "category": "special",
+        "power": 20,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "substitute",
+        "name": "Substitute",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sunnyday",
+        "name": "Sunny Day",
+        "type": "fire",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "swagger",
+        "name": "Swagger",
+        "type": "normal",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "takedown",
+        "name": "Take Down",
+        "type": "normal",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 85,
+        "pp": 20
+      },
+      {
+        "move": "taunt",
+        "name": "Taunt",
+        "type": "dark",
+        "category": "status",
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "terablast",
+        "name": "Tera Blast",
+        "type": "normal",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "thief",
+        "name": "Thief",
+        "type": "dark",
+        "category": "physical",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 25
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunder",
+        "name": "Thunder",
+        "type": "electric",
+        "category": "special",
+        "power": 110,
+        "accuracy": 70,
+        "pp": 10
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderfang",
+        "name": "Thunder Fang",
+        "type": "electric",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderwave",
+        "name": "Thunder Wave",
+        "type": "electric",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 20
+      },
+      {
+        "move": "toxic",
+        "name": "Toxic",
+        "type": "poison",
+        "category": "status",
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "toxicspikes",
+        "name": "Toxic Spikes",
+        "type": "poison",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "trailblaze",
+        "name": "Trailblaze",
+        "type": "grass",
+        "category": "physical",
+        "power": 50,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "venoshock",
+        "name": "Venoshock",
+        "type": "poison",
+        "category": "special",
+        "power": 65,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "voltswitch",
+        "name": "Volt Switch",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "rockslide",
+        "name": "Rock Slide",
+        "type": "rock",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "stoneedge",
+        "name": "Stone Edge",
+        "type": "rock",
+        "category": "physical",
+        "power": 100,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "powergem",
+        "name": "Power Gem",
+        "type": "rock",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "flashcannon",
+        "name": "Flash Cannon",
+        "type": "steel",
+        "category": "special",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "closecombat",
+        "name": "Close Combat",
+        "type": "fighting",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "vacuumwave",
+        "name": "Vacuum Wave",
+        "type": "fighting",
+        "category": "special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 30
+      },
+      {
+        "move": "hiddenpower",
+        "name": "Hidden Power",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "tutor": [
+      {
+        "move": "chargebeam",
+        "name": "Charge Beam",
+        "type": "electric",
+        "category": "special",
+        "power": 50,
+        "accuracy": 90,
+        "pp": 10
+      },
+      {
+        "move": "drainpunch",
+        "name": "Drain Punch",
+        "type": "fighting",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "electroweb",
+        "name": "Electroweb",
+        "type": "electric",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "firepunch",
+        "name": "Fire Punch",
+        "type": "fire",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "gigaimpact",
+        "name": "Giga Impact",
+        "type": "normal",
+        "category": "physical",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "gunkshot",
+        "name": "Gunk Shot",
+        "type": "poison",
+        "category": "physical",
+        "power": 120,
+        "accuracy": 80,
+        "pp": 5
+      },
+      {
+        "move": "helpinghand",
+        "name": "Helping Hand",
+        "type": "normal",
+        "category": "status",
+        "pp": 20
+      },
+      {
+        "move": "hyperbeam",
+        "name": "Hyper Beam",
+        "type": "normal",
+        "category": "special",
+        "power": 150,
+        "accuracy": 90,
+        "pp": 5
+      },
+      {
+        "move": "hypervoice",
+        "name": "Hyper Voice",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "poisonjab",
+        "name": "Poison Jab",
+        "type": "poison",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "rest",
+        "name": "Rest",
+        "type": "psychic",
+        "category": "status",
+        "pp": 5
+      },
+      {
+        "move": "risingvoltage",
+        "name": "Rising Voltage",
+        "type": "electric",
+        "category": "special",
+        "power": 70,
+        "accuracy": 100,
+        "pp": 20
+      },
+      {
+        "move": "shockwave",
+        "name": "Shock Wave",
+        "type": "electric",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "sleeptalk",
+        "name": "Sleep Talk",
+        "type": "normal",
+        "category": "status",
+        "pp": 10
+      },
+      {
+        "move": "sludgebomb",
+        "name": "Sludge Bomb",
+        "type": "poison",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "snarl",
+        "name": "Snarl",
+        "type": "dark",
+        "category": "special",
+        "power": 55,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "swift",
+        "name": "Swift",
+        "type": "normal",
+        "category": "special",
+        "power": 60,
+        "pp": 20
+      },
+      {
+        "move": "throatchop",
+        "name": "Throat Chop",
+        "type": "dark",
+        "category": "physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderbolt",
+        "name": "Thunderbolt",
+        "type": "electric",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "thunderfang",
+        "name": "Thunder Fang",
+        "type": "electric",
+        "category": "physical",
+        "power": 65,
+        "accuracy": 95,
+        "pp": 15
+      },
+      {
+        "move": "thunderpunch",
+        "name": "Thunder Punch",
+        "type": "electric",
+        "category": "physical",
+        "power": 75,
+        "accuracy": 100,
+        "pp": 15
+      },
+      {
+        "move": "uproar",
+        "name": "Uproar",
+        "type": "normal",
+        "category": "special",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 10
+      },
+      {
+        "move": "wildcharge",
+        "name": "Wild Charge",
+        "type": "electric",
+        "category": "physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ],
+    "egg": [
+      {
+        "move": "endeavor",
+        "name": "Endeavor",
+        "type": "normal",
+        "category": "physical",
+        "accuracy": 100,
+        "pp": 5
+      },
+      {
+        "move": "metalsound",
+        "name": "Metal Sound",
+        "type": "steel",
+        "category": "status",
+        "accuracy": 85,
+        "pp": 40
+      }
+    ],
+    "evolution": []
+  },
+  "forms": [
+    {
+      "id": "low-key-form",
+      "name": "Toxtricity (Low-Key)",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "abilities": [
+        {
+          "id": "punkrock",
+          "hidden": false,
+          "name": "Punk Rock",
+          "desc": "Boosts the power of sound-based moves. The Pok\u00e9mon also takes half the damage from these kinds of moves."
+        },
+        {
+          "id": "minus",
+          "hidden": false,
+          "name": "Minus",
+          "desc": "Boosts the Sp. Atk stat of the Pok\u00e9mon if an ally with the Plus or Minus Ability is also in battle."
+        },
+        {
+          "id": "technician",
+          "hidden": true,
+          "name": "Technician",
+          "desc": "Powers up weak moves so the Pok\u00e9mon can deal more damage with them."
+        }
+      ],
+      "height": 16,
+      "weight": 400,
+      "stats": {
+        "hp": 75,
+        "attack": 87,
+        "defence": 73,
+        "special_attack": 119,
+        "special_defence": 73,
+        "speed": 75
+      },
+      "flavor": "Capable of generating 15,000 volts of electricity, this Pok\u00e9mon looks down on all that would challenge it.",
+      "moves": {
+        "level": [
+          {
+            "level": 1,
+            "move": "acid",
+            "name": "Acid",
+            "type": "poison",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "level": 1,
+            "move": "acidspray",
+            "name": "Acid Spray",
+            "type": "poison",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "belch",
+            "name": "Belch",
+            "type": "poison",
+            "category": "special",
+            "power": 120,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "level": 1,
+            "move": "flail",
+            "name": "Flail",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 1,
+            "move": "growl",
+            "name": "Growl",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 40
+          },
+          {
+            "level": 1,
+            "move": "leer",
+            "name": "Leer",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "level": 1,
+            "move": "nobleroar",
+            "name": "Noble Roar",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "level": 1,
+            "move": "nuzzle",
+            "name": "Nuzzle",
+            "type": "electric",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "spark",
+            "name": "Spark",
+            "type": "electric",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "tearfullook",
+            "name": "Tearful Look",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 1,
+            "move": "thundershock",
+            "name": "Thunder Shock",
+            "type": "electric",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "level": 4,
+            "move": "charge",
+            "name": "Charge",
+            "type": "electric",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 8,
+            "move": "shockwave",
+            "name": "Shock Wave",
+            "type": "electric",
+            "category": "special",
+            "power": 60,
+            "pp": 20
+          },
+          {
+            "level": 12,
+            "move": "scaryface",
+            "name": "Scary Face",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 16,
+            "move": "taunt",
+            "name": "Taunt",
+            "type": "dark",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 24,
+            "move": "screech",
+            "name": "Screech",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          },
+          {
+            "level": 28,
+            "move": "swagger",
+            "name": "Swagger",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 15
+          },
+          {
+            "level": 32,
+            "move": "toxic",
+            "name": "Toxic",
+            "type": "poison",
+            "category": "status",
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "level": 36,
+            "move": "discharge",
+            "name": "Discharge",
+            "type": "electric",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "level": 40,
+            "move": "poisonjab",
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "level": 44,
+            "move": "overdrive",
+            "name": "Overdrive",
+            "type": "electric",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 48,
+            "move": "boomburst",
+            "name": "Boomburst",
+            "type": "normal",
+            "category": "special",
+            "power": 140,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "level": 52,
+            "move": "gearup",
+            "name": "Gear Up",
+            "type": "steel",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "level": 52,
+            "move": "magneticflux",
+            "name": "Magnetic Flux",
+            "type": "electric",
+            "category": "status",
+            "pp": 20
+          }
+        ],
+        "tm": [
+          {
+            "move": "acidspray",
+            "name": "Acid Spray",
+            "type": "poison",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "brickbreak",
+            "name": "Brick Break",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "charge",
+            "name": "Charge",
+            "type": "electric",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "chargebeam",
+            "name": "Charge Beam",
+            "type": "electric",
+            "category": "special",
+            "power": 50,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "charm",
+            "name": "Charm",
+            "type": "fairy",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "drainpunch",
+            "name": "Drain Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "eerieimpulse",
+            "name": "Eerie Impulse",
+            "type": "electric",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "electricterrain",
+            "name": "Electric Terrain",
+            "type": "electric",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "electroball",
+            "name": "Electro Ball",
+            "type": "electric",
+            "category": "special",
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "encore",
+            "name": "Encore",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "endure",
+            "name": "Endure",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "facade",
+            "name": "Facade",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "firepunch",
+            "name": "Fire Punch",
+            "type": "fire",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "fling",
+            "name": "Fling",
+            "type": "dark",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "gunkshot",
+            "name": "Gunk Shot",
+            "type": "poison",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 80,
+            "pp": 5
+          },
+          {
+            "move": "helpinghand",
+            "name": "Helping Hand",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "hex",
+            "name": "Hex",
+            "type": "ghost",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "hypervoice",
+            "name": "Hyper Voice",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "megakick",
+            "name": "Mega Kick",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 75,
+            "pp": 5
+          },
+          {
+            "move": "megapunch",
+            "name": "Mega Punch",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 85,
+            "pp": 20
+          },
+          {
+            "move": "metalsound",
+            "name": "Metal Sound",
+            "type": "steel",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          },
+          {
+            "move": "metronome",
+            "name": "Metronome",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "payback",
+            "name": "Payback",
+            "type": "dark",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "poisonjab",
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "poisontail",
+            "name": "Poison Tail",
+            "type": "poison",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "poweruppunch",
+            "name": "Power-Up Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "protect",
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "psychicnoise",
+            "name": "Psychic Noise",
+            "type": "psychic",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "raindance",
+            "name": "Rain Dance",
+            "type": "water",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "risingvoltage",
+            "name": "Rising Voltage",
+            "type": "electric",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "scaryface",
+            "name": "Scary Face",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "screech",
+            "name": "Screech",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          },
+          {
+            "move": "shockwave",
+            "name": "Shock Wave",
+            "type": "electric",
+            "category": "special",
+            "power": 60,
+            "pp": 20
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sludgebomb",
+            "name": "Sludge Bomb",
+            "type": "poison",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "sludgewave",
+            "name": "Sludge Wave",
+            "type": "poison",
+            "category": "special",
+            "power": 95,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "snarl",
+            "name": "Snarl",
+            "type": "dark",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "storedpower",
+            "name": "Stored Power",
+            "type": "psychic",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "substitute",
+            "name": "Substitute",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sunnyday",
+            "name": "Sunny Day",
+            "type": "fire",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "swagger",
+            "name": "Swagger",
+            "type": "normal",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 15
+          },
+          {
+            "move": "swift",
+            "name": "Swift",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "pp": 20
+          },
+          {
+            "move": "takedown",
+            "name": "Take Down",
+            "type": "normal",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 85,
+            "pp": 20
+          },
+          {
+            "move": "taunt",
+            "name": "Taunt",
+            "type": "dark",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "terablast",
+            "name": "Tera Blast",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "thief",
+            "name": "Thief",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 25
+          },
+          {
+            "move": "throatchop",
+            "name": "Throat Chop",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "thunder",
+            "name": "Thunder",
+            "type": "electric",
+            "category": "special",
+            "power": 110,
+            "accuracy": 70,
+            "pp": 10
+          },
+          {
+            "move": "thunderbolt",
+            "name": "Thunderbolt",
+            "type": "electric",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "thunderfang",
+            "name": "Thunder Fang",
+            "type": "electric",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "thunderpunch",
+            "name": "Thunder Punch",
+            "type": "electric",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "thunderwave",
+            "name": "Thunder Wave",
+            "type": "electric",
+            "category": "status",
+            "accuracy": 90,
+            "pp": 20
+          },
+          {
+            "move": "toxic",
+            "name": "Toxic",
+            "type": "poison",
+            "category": "status",
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "toxicspikes",
+            "name": "Toxic Spikes",
+            "type": "poison",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "trailblaze",
+            "name": "Trailblaze",
+            "type": "grass",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "venomdrench",
+            "name": "Venom Drench",
+            "type": "poison",
+            "category": "status",
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "venoshock",
+            "name": "Venoshock",
+            "type": "poison",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "voltswitch",
+            "name": "Volt Switch",
+            "type": "electric",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "wildcharge",
+            "name": "Wild Charge",
+            "type": "electric",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "rockslide",
+            "name": "Rock Slide",
+            "type": "rock",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "stoneedge",
+            "name": "Stone Edge",
+            "type": "rock",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 80,
+            "pp": 5
+          },
+          {
+            "move": "powergem",
+            "name": "Power Gem",
+            "type": "rock",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "flashcannon",
+            "name": "Flash Cannon",
+            "type": "steel",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "closecombat",
+            "name": "Close Combat",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "vacuumwave",
+            "name": "Vacuum Wave",
+            "type": "fighting",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 30
+          },
+          {
+            "move": "hiddenpower",
+            "name": "Hidden Power",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "tutor": [
+          {
+            "move": "chargebeam",
+            "name": "Charge Beam",
+            "type": "electric",
+            "category": "special",
+            "power": 50,
+            "accuracy": 90,
+            "pp": 10
+          },
+          {
+            "move": "drainpunch",
+            "name": "Drain Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "electroweb",
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "firepunch",
+            "name": "Fire Punch",
+            "type": "fire",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "gigaimpact",
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "gunkshot",
+            "name": "Gunk Shot",
+            "type": "poison",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 80,
+            "pp": 5
+          },
+          {
+            "move": "helpinghand",
+            "name": "Helping Hand",
+            "type": "normal",
+            "category": "status",
+            "pp": 20
+          },
+          {
+            "move": "hyperbeam",
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "pp": 5
+          },
+          {
+            "move": "hypervoice",
+            "name": "Hyper Voice",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "poisonjab",
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "rest",
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "pp": 5
+          },
+          {
+            "move": "risingvoltage",
+            "name": "Rising Voltage",
+            "type": "electric",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "move": "shockwave",
+            "name": "Shock Wave",
+            "type": "electric",
+            "category": "special",
+            "power": 60,
+            "pp": 20
+          },
+          {
+            "move": "sleeptalk",
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "pp": 10
+          },
+          {
+            "move": "sludgebomb",
+            "name": "Sludge Bomb",
+            "type": "poison",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "snarl",
+            "name": "Snarl",
+            "type": "dark",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "swift",
+            "name": "Swift",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "pp": 20
+          },
+          {
+            "move": "throatchop",
+            "name": "Throat Chop",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "thunderbolt",
+            "name": "Thunderbolt",
+            "type": "electric",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "thunderfang",
+            "name": "Thunder Fang",
+            "type": "electric",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "move": "thunderpunch",
+            "name": "Thunder Punch",
+            "type": "electric",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "move": "uproar",
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 10
+          },
+          {
+            "move": "wildcharge",
+            "name": "Wild Charge",
+            "type": "electric",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "egg": [
+          {
+            "move": "endeavor",
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "accuracy": 100,
+            "pp": 5
+          },
+          {
+            "move": "metalsound",
+            "name": "Metal Sound",
+            "type": "steel",
+            "category": "status",
+            "accuracy": 85,
+            "pp": 40
+          }
+        ],
+        "evolution": []
+      },
+      "image": "img/pokemon/toxtricity/art_low-key-form.png"
+    },
+    {
+      "id": "mega",
+      "name": "Mega Toxtricity",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "abilities": [
+        {
+          "id": "toxicvoice",
+          "hidden": false,
+          "name": "Toxic Voice",
+          "desc": "All sound-based moves become Poison-type moves."
+        }
+      ],
+      "height": 16,
+      "weight": 400,
+      "stats": {
+        "hp": 75,
+        "attack": 138,
+        "defence": 70,
+        "special_attack": 144,
+        "special_defence": 90,
+        "speed": 85
+      },
+      "flavor": "A description for this Pok\u00e9mon has not been written yet.",
+      "moves": null,
+      "image": "img/pokemon/toxtricity/art_mega.png"
+    }
+  ],
+  "images": {
+    "art": "img/pokemon/toxtricity/art.png"
+  }
+}

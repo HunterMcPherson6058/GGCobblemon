@@ -1,0 +1,287 @@
+{
+  "generated": "2026-10-14T16:17:56",
+  "typeChart": {
+    "normal": {
+      "rock": 0.5,
+      "ghost": 0,
+      "steel": 0.5,
+      "bug": 1,
+      "electric": 1,
+      "fairy": 1,
+      "ice": 1
+    },
+    "fire": {
+      "fire": 0.5,
+      "water": 0.5,
+      "grass": 2,
+      "ice": 2,
+      "bug": 2,
+      "rock": 0.5,
+      "dragon": 0.5,
+      "steel": 2,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1
+    },
+    "water": {
+      "fire": 2,
+      "water": 0.5,
+      "grass": 0.5,
+      "ground": 2,
+      "rock": 2,
+      "dragon": 0.5,
+      "bug": 1,
+      "electric": 0.5,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1
+    },
+    "electric": {
+      "water": 2,
+      "electric": 0.5,
+      "grass": 0.5,
+      "ground": 0,
+      "flying": 2,
+      "dragon": 0.5,
+      "bug": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 0.5,
+      "rock": 1
+    },
+    "grass": {
+      "fire": 0.5,
+      "water": 2,
+      "grass": 0.5,
+      "poison": 0.5,
+      "ground": 2,
+      "flying": 0.5,
+      "bug": 0.5,
+      "rock": 2,
+      "dragon": 0.5,
+      "steel": 0.5,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1
+    },
+    "ice": {
+      "fire": 0.5,
+      "water": 0.5,
+      "grass": 2,
+      "ice": 0.5,
+      "ground": 2,
+      "flying": 2,
+      "dragon": 2,
+      "steel": 0.5,
+      "bug": 1,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "rock": 1
+    },
+    "fighting": {
+      "normal": 2,
+      "ice": 2,
+      "poison": 0.5,
+      "flying": 0.5,
+      "psychic": 0.5,
+      "bug": 0.5,
+      "rock": 2,
+      "ghost": 0,
+      "dark": 2,
+      "steel": 2,
+      "fairy": 0.5,
+      "electric": 1
+    },
+    "poison": {
+      "grass": 2,
+      "poison": 0.5,
+      "ground": 0.5,
+      "rock": 0.5,
+      "ghost": 0.5,
+      "steel": 0,
+      "fairy": 2,
+      "bug": 1,
+      "electric": 1,
+      "ice": 1
+    },
+    "ground": {
+      "fire": 2,
+      "electric": 2,
+      "grass": 0.5,
+      "poison": 2,
+      "flying": 0,
+      "bug": 0.5,
+      "rock": 1,
+      "steel": 2,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1
+    },
+    "flying": {
+      "electric": 0.5,
+      "grass": 2,
+      "fighting": 2,
+      "bug": 2,
+      "rock": 0.5,
+      "steel": 0.5,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1
+    },
+    "psychic": {
+      "fighting": 2,
+      "poison": 2,
+      "psychic": 0.5,
+      "dark": 0,
+      "steel": 0.5,
+      "bug": 1,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1,
+      "rock": 1
+    },
+    "bug": {
+      "fire": 0.5,
+      "grass": 2,
+      "fighting": 0.5,
+      "poison": 0.5,
+      "flying": 0.5,
+      "psychic": 2,
+      "ghost": 1,
+      "dark": 2,
+      "steel": 0.5,
+      "fairy": 1,
+      "bug": 1,
+      "electric": 1,
+      "ice": 1,
+      "rock": 1
+    },
+    "rock": {
+      "fire": 2,
+      "ice": 2,
+      "fighting": 0.5,
+      "ground": 0.5,
+      "flying": 2,
+      "bug": 1,
+      "steel": 2,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "rock": 1
+    },
+    "ghost": {
+      "normal": 0,
+      "psychic": 2,
+      "ghost": 2,
+      "dark": 0.5,
+      "bug": 1,
+      "electric": 1,
+      "fairy": 1,
+      "ice": 1,
+      "rock": 1
+    },
+    "dragon": {
+      "dragon": 2,
+      "steel": 0.5,
+      "fairy": 0,
+      "bug": 1,
+      "electric": 1,
+      "ghost": 1,
+      "ice": 1,
+      "rock": 1
+    },
+    "dark": {
+      "fighting": 0.5,
+      "psychic": 2,
+      "ghost": 2,
+      "dark": 0.5,
+      "fairy": 0.5,
+      "bug": 1,
+      "electric": 1,
+      "ice": 1,
+      "rock": 1
+    },
+    "steel": {
+      "fire": 0.5,
+      "water": 0.5,
+      "electric": 0.5,
+      "ice": 2,
+      "rock": 2,
+      "steel": 0.5,
+      "fairy": 2,
+      "bug": 1,
+      "ghost": 1
+    },
+    "fairy": {
+      "fire": 0.5,
+      "fighting": 2,
+      "poison": 0.5,
+      "dragon": 2,
+      "dark": 2,
+      "steel": 0.5,
+      "bug": 0.5,
+      "electric": 1,
+      "fairy": 1,
+      "ghost": 1,
+      "ice": 1,
+      "rock": 1
+    }
+  },
+  "typeChanges": [
+    {
+      "attacker": "water",
+      "defender": "electric",
+      "from": 1,
+      "to": 0.5
+    },
+    {
+      "attacker": "electric",
+      "defender": "ice",
+      "from": 1,
+      "to": 0.5
+    },
+    {
+      "attacker": "ground",
+      "defender": "rock",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "attacker": "bug",
+      "defender": "ghost",
+      "from": 0.5,
+      "to": 1
+    },
+    {
+      "attacker": "bug",
+      "defender": "fairy",
+      "from": 0.5,
+      "to": 1
+    },
+    {
+      "attacker": "rock",
+      "defender": "bug",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "attacker": "fairy",
+      "defender": "bug",
+      "from": 1,
+      "to": 0.5
+    }
+  ],
+  "ruleChanges": [
+    {
+      "type": "rock",
+      "text": "Rock-type Pok\u00e9mon are immune to flinching."
+    },
+    {
+      "type": "sleep",
+      "text": "Pok\u00e9mon wake up after being hit while sleeping."
+    }
+  ]
+}
